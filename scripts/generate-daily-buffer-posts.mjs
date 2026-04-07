@@ -92,6 +92,45 @@ function maxCharsForPlatform(config, platform) {
   return strategy.maxCharsBeforeUrl;
 }
 
+function minutesFromTime(value) {
+  const [hours, minutes] = value.split(":").map(Number);
+  return hours * 60 + minutes;
+}
+
+function shanghaiNowMinutes(date = new Date()) {
+  const formatter = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Shanghai",
+    hour: "2-digit",
+    minute: "2-digit",
+    hourCycle: "h23"
+  });
+
+  const parts = formatter.formatToParts(date).reduce((accumulator, part) => {
+    if (part.type !== "literal") {
+      accumulator[part.type] = part.value;
+    }
+    return accumulator;
+  }, {});
+
+  return Number(parts.hour) * 60 + Number(parts.minute);
+}
+
+function selectPlannedSlots(config) {
+  const mode = process.env.POST_MODE || "scheduled_batch";
+  if (mode !== "share_now") {
+    return config.dailyPlan;
+  }
+
+  const nowMinutes = shanghaiNowMinutes();
+  const slots = config.dailyPlan.map((slot) => ({
+    ...slot,
+    diff: Math.abs(minutesFromTime(slot.localTime) - nowMinutes)
+  }));
+
+  slots.sort((left, right) => left.diff - right.diff);
+  return [slots[0]];
+}
+
 function bucketSignalItems(signals, bucket) {
   const match = (signals.buckets || []).find((item) => item.bucket === bucket);
   return match?.items || [];
@@ -271,9 +310,10 @@ async function main() {
   const state = await loadJson(statePath);
   const promptTemplate = await readFile(promptPath, "utf8");
 
+  const plannedSlots = selectPlannedSlots(config);
   const posts = [];
-  for (let i = 0; i < config.dailyPlan.length; i += 1) {
-    const slot = config.dailyPlan[i];
+  for (let i = 0; i < plannedSlots.length; i += 1) {
+    const slot = plannedSlots[i];
     const post = await generateOnePost({
       apiKey,
       model,

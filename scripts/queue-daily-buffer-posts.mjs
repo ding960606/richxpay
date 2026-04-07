@@ -155,7 +155,7 @@ function resolveChannelIds(channels) {
   };
 }
 
-async function createBufferPost({ apiKey, channelId, text, scheduledAt }) {
+async function createBufferPost({ apiKey, channelId, text, scheduledAt, shareNow }) {
   const mutation = `
     mutation CreatePost($input: CreatePostInput!) {
       createPost(input: $input) {
@@ -193,9 +193,9 @@ async function createBufferPost({ apiKey, channelId, text, scheduledAt }) {
     input: {
       channelId,
       text,
-      dueAt: scheduledAt,
       schedulingType: "automatic",
-      mode: "customScheduled"
+      mode: shareNow ? "shareNow" : "customScheduled",
+      ...(shareNow ? {} : { dueAt: scheduledAt })
     }
   };
 
@@ -228,6 +228,7 @@ async function main() {
   const state = await loadJson(statePath);
   const baseUrl = config.brand.baseUrl;
   const dryRun = String(process.env.DRY_RUN || "false") === "true";
+  const shareNow = String(process.env.POST_MODE || "scheduled_batch") === "share_now";
 
   const selectedPosts = slicePosts(daily.posts || []);
   if (selectedPosts.length === 0) {
@@ -242,7 +243,7 @@ async function main() {
     const channelId = resolved[post.platform];
     const trackedUrl = buildTrackedUrl(baseUrl, post);
     const finalText = `${post.copy.trim()}\n\n${trackedUrl}`;
-    const scheduledAt = toUtcIsoForShanghai(post.localTime);
+    const scheduledAt = shareNow ? null : toUtcIsoForShanghai(post.localTime);
 
     if (dryRun) {
       results.push({
@@ -251,6 +252,7 @@ async function main() {
         postId: post.id,
         channelId,
         scheduledAt,
+        shareNow,
         text: finalText
       });
       continue;
@@ -260,7 +262,8 @@ async function main() {
       apiKey,
       channelId,
       text: finalText,
-      scheduledAt
+      scheduledAt,
+      shareNow
     });
 
     results.push({
