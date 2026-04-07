@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-04-07T16:41:15.133Z",
+  "generatedAt": "2026-04-07T18:13:04.276Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-8-1775580075133-0",
-      "platform": "linkedin",
-      "localTime": "00:06",
-      "topicBucket": "ad-spend",
-      "angle": "creative and campaign automation increase the need for reliable payment setup",
-      "hook": "Campaign automation is moving fast.",
-      "copy": "Campaign automation is moving fast.\n\nUpgrade your creative performance with March’s Demand Gen Drop. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports english page for crypto-funded virtual cards, global saas tools, ad spend and wallet use cases.",
+      "id": "x-9-1775585584276-0",
+      "platform": "x",
+      "localTime": "02:18",
+      "topicBucket": "ai-subscriptions",
+      "angle": "subscription growth around AI products raises the value of flexible virtual cards",
+      "hook": "The AI subscription stack is getting crowded.",
+      "copy": "The AI subscription stack is getting crowded.\n\nAnnouncing the OpenAI Safety Fellowship subscription growth around AI products raises the value of flexible virtual cards RichXPay fits that workflow...",
       "sourceTitles": [
-        "Upgrade your creative performance with March’s Demand Gen Drop.",
-        "5 ways to collaborate with our agentic advisors"
+        "Announcing the OpenAI Safety Fellowship",
+        "Industrial policy for the Intelligence Age"
       ],
-      "path": "/crypto-virtual-card/",
-      "landingTitle": "Crypto virtual card",
-      "landingSummary": "English page for crypto-funded virtual cards, global SaaS tools, ad spend and wallet use cases.",
-      "campaign": "linkedin_ad-spend_2026-04-07_slot8"
+      "path": "/netflix-virtual-card/",
+      "landingTitle": "Netflix virtual card",
+      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
+      "campaign": "x_ai-subscriptions_2026-04-07_slot9"
     }
   ]
 }
