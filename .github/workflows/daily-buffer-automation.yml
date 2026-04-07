@@ -1,0 +1,46 @@
+name: Daily Buffer Automation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 16 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-queue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch recent topic signals
+        run: node scripts/fetch-topic-signals.mjs
+
+      - name: Generate 5 posts with Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+          GEMINI_API_ENDPOINT: ${{ secrets.GEMINI_API_ENDPOINT }}
+        run: node scripts/generate-daily-buffer-posts.mjs
+
+      - name: Queue posts to Buffer
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          BUFFER_GRAPHQL_ENDPOINT: ${{ secrets.BUFFER_GRAPHQL_ENDPOINT }}
+        run: node scripts/queue-daily-buffer-posts.mjs
+
+      - name: Commit automation artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add social/topic-signals.json social/daily-buffer-posts.json social/buffer-automation-state.json
+          git diff --cached --quiet || git commit -m "chore: update daily buffer automation artifacts"
+          git push
