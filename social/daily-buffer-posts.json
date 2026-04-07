@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-04-07T16:00:09.086Z",
+  "generatedAt": "2026-04-07T16:36:20.153Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-7-1775577609086-0",
-      "platform": "x",
-      "localTime": "23:18",
-      "topicBucket": "cross-border-payments",
-      "angle": "global payment infrastructure is getting better, but workflow friction still sits at the card layer",
-      "hook": "Wallet expectations are rising.",
-      "copy": "Wallet expectations are rising.\n\nPersonalize your experience across Google based on your purchases, your way. global payment infrastructure is getting better, but workflow friction still sits at th...",
+      "id": "linkedin-8-1775579780152-0",
+      "platform": "linkedin",
+      "localTime": "00:06",
+      "topicBucket": "ad-spend",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "hook": "Ad platforms keep adding smarter tools.",
+      "copy": "Ad platforms keep adding smarter tools.\n\nUpgrade your creative performance with March’s Demand Gen Drop. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
       "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
+        "Upgrade your creative performance with March’s Demand Gen Drop.",
+        "5 ways to collaborate with our agentic advisors"
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "x_cross-border-payments_2026-04-07_slot7"
+      "path": "/",
+      "landingTitle": "RichXPay homepage",
+      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
+      "campaign": "linkedin_ad-spend_2026-04-07_slot8"
     }
   ]
 }

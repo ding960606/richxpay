@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-07",
+      "postId": "linkedin-8-1775579780152-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nUpgrade your creative performance with March’s Demand Gen Drop. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Upgrade your creative performance with March’s Demand Gen Drop.",
+        "5 ways to collaborate with our agentic advisors"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1775579780152-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69d53284114d232c0968d526",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-07",
       "postId": "x-7-1775577609086-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
