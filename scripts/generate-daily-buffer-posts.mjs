@@ -105,8 +105,9 @@ async function callGemini({ apiKey, model, userPrompt }) {
       }
     ],
     generationConfig: {
-      temperature: 0.9,
-      maxOutputTokens: 900
+      temperature: 0.7,
+      maxOutputTokens: 900,
+      responseMimeType: "application/json"
     }
   };
 
@@ -133,6 +134,22 @@ async function callGemini({ apiKey, model, userPrompt }) {
   }
 
   return data;
+}
+
+async function generateStructuredJson({ apiKey, model, userPrompt }) {
+  let lastError = null;
+
+  for (let attempt = 1; attempt <= 3; attempt += 1) {
+    try {
+      const data = await callGemini({ apiKey, model, userPrompt });
+      const rawText = extractTextFromGeminiResponse(data);
+      return parseJsonBlock(rawText);
+    } catch (error) {
+      lastError = error;
+    }
+  }
+
+  throw lastError || new Error("Gemini generation failed");
 }
 
 function validateGeneratedPost(post, platform, maxChars) {
@@ -172,9 +189,7 @@ async function generateOnePost({ apiKey, model, promptTemplate, config, signals,
     JSON.stringify(history, null, 2)
   ].join("\n");
 
-  const data = await callGemini({ apiKey, model, userPrompt });
-  const rawText = extractTextFromGeminiResponse(data);
-  const generated = parseJsonBlock(rawText);
+  const generated = await generateStructuredJson({ apiKey, model, userPrompt });
   validateGeneratedPost(generated, slot.platform, maxChars);
 
   return {
@@ -232,4 +247,3 @@ main().catch((error) => {
   console.error(error.message);
   process.exit(1);
 });
-
