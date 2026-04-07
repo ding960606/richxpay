@@ -3,7 +3,11 @@ name: Daily Buffer Automation
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 16 * * *"
+    - cron: "18 1 * * *"
+    - cron: "36 3 * * *"
+    - cron: "08 6 * * *"
+    - cron: "28 9 * * *"
+    - cron: "36 12 * * *"
 
 permissions:
   contents: write
@@ -29,12 +33,14 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
           GEMINI_API_ENDPOINT: ${{ secrets.GEMINI_API_ENDPOINT }}
+          POST_MODE: share_now
         run: node scripts/generate-daily-buffer-posts.mjs
 
       - name: Queue posts to Buffer
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           BUFFER_GRAPHQL_ENDPOINT: ${{ secrets.BUFFER_GRAPHQL_ENDPOINT }}
+          POST_MODE: share_now
         run: node scripts/queue-daily-buffer-posts.mjs
 
       - name: Commit automation artifacts
