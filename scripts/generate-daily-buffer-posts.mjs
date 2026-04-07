@@ -264,7 +264,7 @@ async function generateOnePost({ apiKey, model, promptTemplate, config, signals,
 
 async function main() {
   const apiKey = requireEnv("GEMINI_API_KEY");
-  const model = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+  const model = process.env.GEMINI_MODEL || "gemini-3-flash-preview";
 
   const config = await loadJson(configPath);
   const signals = await loadJson(signalsPath);
