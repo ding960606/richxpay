@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-04-07T03:40:00.000Z",
+  "timezone": "Asia/Shanghai",
+  "posts": [
+    {
+      "id": "x-1-bootstrap",
+      "platform": "x",
+      "localTime": "09:18",
+      "topicBucket": "cross-border-payments",
+      "angle": "Apple Pay and wallet expectations keep rising, but card setup still slows cross-border users.",
+      "hook": "Wallet expectations are rising.",
+      "copy": "Wallet expectations are rising.\n\nUsers expect checkout to feel instant, but card setup still slows many cross-border teams. RichXPay helps bridge that gap with a virtual card funded by USDT or USDC, ready for global spend and Apple Pay flows.",
+      "sourceTitles": [
+        "We’re adding 3 new ways to make web payments easier and more flexible."
+      ],
+      "path": "/apple-pay-virtual-card/",
+      "landingTitle": "Apple Pay virtual card",
+      "landingSummary": "Use case page for binding a virtual card to Apple Pay and using it in wallet-led payment flows.",
+      "campaign": "x_cross-border-payments_2026-04-07_slot1"
+    },
+    {
+      "id": "linkedin-2-bootstrap",
+      "platform": "linkedin",
+      "localTime": "11:36",
+      "topicBucket": "ad-spend",
+      "angle": "Ad automation is getting smarter, which makes billing reliability more important for media buyers.",
+      "hook": "Campaign automation is moving fast.",
+      "copy": "Campaign automation is moving fast.\n\nTeams can launch tests, rotate creative, and scale budgets in hours. But billing setup still breaks momentum when cards fail or top-up takes too long.\n\nRichXPay gives media buyers a simpler path: fund with USDT or USDC, issue a virtual card, and keep Meta Ads, Google Ads, and Amazon spend moving.",
+      "sourceTitles": [
+        "Upgrade your creative performance with March’s Demand Gen Drop.",
+        "5 ways to collaborate with our agentic advisors"
+      ],
+      "path": "/usdt-to-virtual-card/",
+      "landingTitle": "USDT to virtual card",
+      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
+      "campaign": "linkedin_ad-spend_2026-04-07_slot2"
+    },
+    {
+      "id": "x-3-bootstrap",
+      "platform": "x",
+      "localTime": "14:08",
+      "topicBucket": "ai-subscriptions",
+      "angle": "More AI tools means more recurring subscriptions, and payment sprawl becomes an ops problem.",
+      "hook": "The AI subscription stack is getting crowded.",
+      "copy": "The AI subscription stack is getting crowded.\n\nAs teams add tools like ChatGPT Plus, recurring charges become an ops issue, not just a software issue. RichXPay makes it easier to fund and manage those payments with a global virtual card and USDT or USDC top-up.",
+      "sourceTitles": [
+        "Codex now offers more flexible pricing for teams"
+      ],
+      "path": "/chatgpt-plus-virtual-card/",
+      "landingTitle": "ChatGPT Plus virtual card",
+      "landingSummary": "Use case page for paying ChatGPT Plus with a virtual card funded by USDT or USDC.",
+      "campaign": "x_ai-subscriptions_2026-04-07_slot3"
+    },
+    {
+      "id": "linkedin-4-bootstrap",
+      "platform": "linkedin",
+      "localTime": "17:28",
+      "topicBucket": "cross-border-payments",
+      "angle": "Global payment rails are improving, but operational friction still sits at funding and card issuance.",
+      "hook": "Cross-border payments are getting faster.",
+      "copy": "Cross-border payments are getting faster.\n\nThe user-facing side of global commerce keeps improving. Wallets are smoother, checkout is cleaner, and expectations are higher. The slower layer is often internal: funding, card access, and spend control.\n\nRichXPay is built for that layer. Teams can top up with USDT or USDC, issue a virtual card quickly, and use it for global software, services, and wallet-linked payments.",
+      "sourceTitles": [
+        "Personalize your experience across Google based on your purchases, your way."
+      ],
+      "path": "/crypto-virtual-card/",
+      "landingTitle": "Crypto virtual card",
+      "landingSummary": "English page for crypto-funded virtual cards, global SaaS tools, ad spend and wallet use cases.",
+      "campaign": "linkedin_cross-border-payments_2026-04-07_slot4"
+    },
+    {
+      "id": "x-5-bootstrap",
+      "platform": "x",
+      "localTime": "20:36",
+      "topicBucket": "ad-spend",
+      "angle": "Paid media teams move faster when payments do not interrupt testing and scaling.",
+      "hook": "Paid media teams have more leverage than ever.",
+      "copy": "Paid media teams have more leverage than ever.\n\nBut leverage drops fast when payment setup slows down campaign changes. RichXPay helps teams fund spend with USDT or USDC and use a virtual card across ad accounts without extra banking friction.",
+      "sourceTitles": [
+        "Ads Decoded episode 5 navigates the challenges and impact of effective lead gen advertising."
+      ],
+      "path": "/crypto-virtual-card/",
+      "landingTitle": "Crypto virtual card",
+      "landingSummary": "English page for crypto-funded virtual cards, global SaaS tools, ad spend and wallet use cases.",
+      "campaign": "x_ad-spend_2026-04-07_slot5"
+    }
+  ]
+}

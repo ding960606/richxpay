@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-04-07T03:32:36.093Z",
+  "buckets": [
+    {
+      "bucket": "cross-border-payments",
+      "label": "Cross-border payments",
+      "url": "https://blog.google/products/google-pay/rss/",
+      "items": [
+        {
+          "title": "Personalize your experience across Google based on your purchases, your way.",
+          "link": "https://blog.google/products-and-platforms/platforms/google-pay/payments-personalized-content-purchases/",
+          "pubDate": "Fri, 07 Nov 2025 19:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "We’re adding 3 new ways to make web payments easier and more flexible.",
+          "link": "https://blog.google/products-and-platforms/platforms/google-pay/new-ways-to-make-web-payments/",
+          "pubDate": "Tue, 12 Aug 2025 13:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "It’s now easier to prove age and identity with Google Wallet",
+          "link": "https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-age-identity-verifications/",
+          "pubDate": "Tue, 29 Apr 2025 16:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Google Wallet launches new feature for kids to securely pay and store passes.",
+          "link": "https://blog.google/feed/google-wallet-for-kids-family-link/",
+          "pubDate": "Wed, 19 Mar 2025 14:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "New ways to holiday shop with Google Lens, Maps and more",
+          "link": "https://blog.google/products-and-platforms/products/shopping/google-maps-lens-holiday-shopping/",
+          "pubDate": "Tue, 19 Nov 2024 14:00:00 +0000",
+          "source": ""
+        }
+      ]
+    },
+    {
+      "bucket": "ad-spend",
+      "label": "Ad spend and paid media",
+      "url": "https://blog.google/products/ads-commerce/rss/",
+      "items": [
+        {
+          "title": "Upgrade your creative performance with March’s Demand Gen Drop.",
+          "link": "https://blog.google/products/ads-commerce/demand-gen-drop-march-2026/",
+          "pubDate": "Thu, 26 Mar 2026 16:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "5 ways to collaborate with our agentic advisors",
+          "link": "https://blog.google/products/ads-commerce/tips-to-collaborate-with-agentic-advisors/",
+          "pubDate": "Wed, 25 Mar 2026 16:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Ads Decoded episode 5 navigates the challenges and impact of effective lead gen advertising.",
+          "link": "https://blog.google/products/ads-commerce/effective-lead-gen-practices/",
+          "pubDate": "Wed, 25 Mar 2026 13:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Google’s Commerce Media Suite: Where retailer insights meet the power of YouTube",
+          "link": "https://blog.google/products/marketingplatform/360/googles-commerce-media-suite-where-retailer-insights-meet-the-power-of-youtube/",
+          "pubDate": "Tue, 24 Mar 2026 13:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "We’re launching the Top Sports Podcasts on YouTube for brands to align with sports fans.",
+          "link": "https://blog.google/products/ads-commerce/were-launching-the-top-sports-podcasts-on-youtube-for-brands-to-align-with-sports-fans/",
+          "pubDate": "Fri, 20 Mar 2026 15:00:00 +0000",
+          "source": ""
+        }
+      ]
+    },
+    {
+      "bucket": "ai-subscriptions",
+      "label": "AI subscriptions",
+      "url": "https://openai.com/news/rss.xml",
+      "items": [
+        {
+          "title": "Announcing the OpenAI Safety Fellowship",
+          "link": "https://openai.com/index/introducing-openai-safety-fellowship",
+          "pubDate": "Mon, 06 Apr 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Industrial policy for the Intelligence Age",
+          "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+          "pubDate": "Mon, 06 Apr 2026 02:30:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "OpenAI acquires TBPN",
+          "link": "https://openai.com/index/openai-acquires-tbpn",
+          "pubDate": "Thu, 02 Apr 2026 10:30:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Codex now offers more flexible pricing for teams",
+          "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
+          "pubDate": "Thu, 02 Apr 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Gradient Labs gives every bank customer an AI account manager",
+          "link": "https://openai.com/index/gradient-labs",
+          "pubDate": "Wed, 01 Apr 2026 02:00:00 GMT",
+          "source": ""
+        }
+      ]
+    }
+  ]
+}

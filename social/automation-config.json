@@ -1,0 +1,132 @@
+{
+  "brand": {
+    "name": "RichXPay",
+    "baseUrl": "https://www.richxpay.com",
+    "timezone": "Asia/Shanghai"
+  },
+  "dailyPlan": [
+    {
+      "slot": 1,
+      "platform": "x",
+      "localTime": "09:18",
+      "bucket": "cross-border-payments"
+    },
+    {
+      "slot": 2,
+      "platform": "linkedin",
+      "localTime": "11:36",
+      "bucket": "ad-spend"
+    },
+    {
+      "slot": 3,
+      "platform": "x",
+      "localTime": "14:08",
+      "bucket": "ai-subscriptions"
+    },
+    {
+      "slot": 4,
+      "platform": "linkedin",
+      "localTime": "17:28",
+      "bucket": "cross-border-payments"
+    },
+    {
+      "slot": 5,
+      "platform": "x",
+      "localTime": "20:36",
+      "bucket": "ad-spend"
+    }
+  ],
+  "bucketStrategy": {
+    "cross-border-payments": {
+      "angles": [
+        "payment rails are improving but card access still blocks teams",
+        "wallet and checkout improvements raise user expectations for payment speed",
+        "cross-border operators need funding and spend to feel as fast as the products they buy",
+        "global payment infrastructure is getting better, but workflow friction still sits at the card layer"
+      ],
+      "hooks": [
+        "Cross-border payments are getting faster.",
+        "Payment rails keep improving.",
+        "Global checkout is getting smoother.",
+        "Wallet expectations are rising."
+      ]
+    },
+    "ad-spend": {
+      "angles": [
+        "better ad tooling still needs cleaner billing and payment control",
+        "creative and campaign automation increase the need for reliable payment setup",
+        "media buyers need card workflows that keep pace with campaign changes",
+        "ad teams can move faster when payment friction does not interrupt testing and scaling"
+      ],
+      "hooks": [
+        "Ad platforms keep adding smarter tools.",
+        "Campaign automation is moving fast.",
+        "Creative workflows are getting more dynamic.",
+        "Paid media teams have more leverage than ever."
+      ]
+    },
+    "ai-subscriptions": {
+      "angles": [
+        "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+        "as teams add more AI tools, payment sprawl becomes a real operations problem",
+        "subscription growth around AI products raises the value of flexible virtual cards",
+        "AI tool adoption is fast, but the payment setup behind those tools still needs work"
+      ],
+      "hooks": [
+        "AI tool adoption keeps growing.",
+        "More teams are paying for AI every month.",
+        "The AI subscription stack is getting crowded.",
+        "Recurring AI costs are now operational costs."
+      ]
+    }
+  },
+  "platformStrategy": {
+    "x": {
+      "maxCharsBeforeUrl": 200,
+      "ctaExamples": ["Learn more:", "See how it works:", "More here:"]
+    },
+    "linkedin": {
+      "maxCharsBeforeUrl": 650,
+      "ctaExamples": ["Full overview:", "See the workflow:", "Details here:"]
+    }
+  },
+  "landingPages": [
+    {
+      "path": "/",
+      "title": "RichXPay homepage",
+      "buckets": ["cross-border-payments", "ad-spend", "ai-subscriptions"],
+      "summary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases."
+    },
+    {
+      "path": "/chatgpt-plus-virtual-card/",
+      "title": "ChatGPT Plus virtual card",
+      "buckets": ["ai-subscriptions"],
+      "summary": "Use case page for paying ChatGPT Plus with a virtual card funded by USDT or USDC."
+    },
+    {
+      "path": "/apple-pay-virtual-card/",
+      "title": "Apple Pay virtual card",
+      "buckets": ["cross-border-payments"],
+      "summary": "Use case page for binding a virtual card to Apple Pay and using it in wallet-led payment flows."
+    },
+    {
+      "path": "/crypto-virtual-card/",
+      "title": "Crypto virtual card",
+      "buckets": ["cross-border-payments", "ad-spend"],
+      "summary": "English page for crypto-funded virtual cards, global SaaS tools, ad spend and wallet use cases."
+    },
+    {
+      "path": "/netflix-virtual-card/",
+      "title": "Netflix virtual card",
+      "buckets": ["ai-subscriptions"],
+      "summary": "Subscription payment page focused on recurring billing stability and virtual-card management."
+    },
+    {
+      "path": "/usdt-to-virtual-card/",
+      "title": "USDT to virtual card",
+      "buckets": ["cross-border-payments", "ad-spend"],
+      "summary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending."
+    }
+  ]
+}
+
