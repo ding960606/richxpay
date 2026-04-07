@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-04-07T19:44:43.959Z",
+  "generatedAt": "2026-04-07T20:07:29.889Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-10-1775591083959-0",
+      "id": "linkedin-10-1775592449889-0",
       "platform": "linkedin",
       "localTime": "03:06",
       "topicBucket": "cross-border-payments",
-      "angle": "global payment infrastructure is getting better, but workflow friction still sits at the card layer",
-      "hook": "Wallet expectations are rising.",
-      "copy": "Wallet expectations are rising.\n\nPersonalize your experience across Google based on your purchases, your way. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "hook": "Cross-border payments are getting faster.",
+      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
       "sourceTitles": [
         "Personalize your experience across Google based on your purchases, your way.",
         "We’re adding 3 new ways to make web payments easier and more flexible."
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
+      "path": "/",
+      "landingTitle": "RichXPay homepage",
+      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
       "campaign": "linkedin_cross-border-payments_2026-04-07_slot10"
     }
   ]
