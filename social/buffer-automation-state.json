@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-07",
+      "postId": "x-3-1775538328270-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/chatgpt-plus-virtual-card/",
+      "angle": "AI tool adoption is fast, but the payment setup behind those tools still needs work",
+      "copy": "Recurring AI costs are now operational costs.\n\nAnnouncing the OpenAI Safety Fellowship AI tool adoption is fast, but the payment setup behind those tools still needs work RichXPay fits that workflo...",
+      "sourceTitles": [
+        "Announcing the OpenAI Safety Fellowship",
+        "Industrial policy for the Intelligence Age"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1775538328270-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69d4909845bc467d3d92d9fb",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-07",
       "postId": "x-1-bootstrap",
       "platform": "x",
       "topicBucket": "cross-border-payments",
