@@ -92,6 +92,47 @@ function maxCharsForPlatform(config, platform) {
   return strategy.maxCharsBeforeUrl;
 }
 
+function bucketSignalItems(signals, bucket) {
+  const match = (signals.buckets || []).find((item) => item.bucket === bucket);
+  return match?.items || [];
+}
+
+function buildFallbackCopy({ slot, landingPage, selectedAngle, signalItems, maxChars }) {
+  const sourceTitles = signalItems.slice(0, 2).map((item) => item.title);
+  const signalLead = sourceTitles[0] || "Recent product updates keep raising payment expectations.";
+
+  let copy = "";
+
+  if (slot.platform === "x") {
+    copy = [
+      selectedAngle.hook,
+      "",
+      `${signalLead} ${selectedAngle.angle} RichXPay fits that workflow with USDT or USDC funding and a virtual card for ${landingPage.summary.toLowerCase()}`
+    ].join("\n");
+  } else {
+    copy = [
+      selectedAngle.hook,
+      "",
+      `${signalLead} Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.`,
+      "",
+      `RichXPay supports ${landingPage.summary.toLowerCase()}`
+    ].join("\n");
+  }
+
+  if (copy.length > maxChars) {
+    copy = copy.slice(0, maxChars - 3).trimEnd() + "...";
+  }
+
+  return {
+    platform: slot.platform,
+    topicBucket: slot.bucket,
+    angle: selectedAngle.angle,
+    hook: selectedAngle.hook,
+    copy,
+    sourceTitles
+  };
+}
+
 async function callGemini({ apiKey, model, userPrompt }) {
   const endpoint = process.env.GEMINI_API_ENDPOINT || `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
   const payload = {
@@ -166,6 +207,7 @@ async function generateOnePost({ apiKey, model, promptTemplate, config, signals,
   const landingPage = pickLandingPage(config, slot.bucket, history.length + slotIndex);
   const selectedAngle = pickBucketAngle(config, slot.bucket, history.length + slotIndex);
   const maxChars = maxCharsForPlatform(config, slot.platform);
+  const signalItems = bucketSignalItems(signals, slot.bucket);
 
   const userPrompt = [
     promptTemplate.trim(),
@@ -189,8 +231,20 @@ async function generateOnePost({ apiKey, model, promptTemplate, config, signals,
     JSON.stringify(history, null, 2)
   ].join("\n");
 
-  const generated = await generateStructuredJson({ apiKey, model, userPrompt });
-  validateGeneratedPost(generated, slot.platform, maxChars);
+  let generated = null;
+
+  try {
+    generated = await generateStructuredJson({ apiKey, model, userPrompt });
+    validateGeneratedPost(generated, slot.platform, maxChars);
+  } catch {
+    generated = buildFallbackCopy({
+      slot,
+      landingPage,
+      selectedAngle,
+      signalItems,
+      maxChars
+    });
+  }
 
   return {
     id: `${slot.platform}-${slot.slot}-${Date.now()}-${slotIndex}`,
