@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-07",
+      "postId": "linkedin-4-1775561560503-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/apple-pay-virtual-card/",
+      "angle": "wallet and checkout improvements raise user expectations for payment speed",
+      "copy": "Payment rails keep improving.\n\nPersonalize your experience across Google based on your purchases, your way. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for binding a virtual card to apple pay and using it in wallet-led payment flows.",
+      "sourceTitles": [
+        "Personalize your experience across Google based on your purchases, your way.",
+        "We’re adding 3 new ways to make web payments easier and more flexible."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1775561560503-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69d4eb596758ff87102f4e54",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-07",
       "postId": "x-1-1775544533234-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
