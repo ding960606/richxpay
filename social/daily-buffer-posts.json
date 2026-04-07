@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-04-07T16:36:20.153Z",
+  "generatedAt": "2026-04-07T16:41:15.133Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-8-1775579780152-0",
+      "id": "linkedin-8-1775580075133-0",
       "platform": "linkedin",
       "localTime": "00:06",
       "topicBucket": "ad-spend",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools.\n\nUpgrade your creative performance with March’s Demand Gen Drop. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "angle": "creative and campaign automation increase the need for reliable payment setup",
+      "hook": "Campaign automation is moving fast.",
+      "copy": "Campaign automation is moving fast.\n\nUpgrade your creative performance with March’s Demand Gen Drop. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports english page for crypto-funded virtual cards, global saas tools, ad spend and wallet use cases.",
       "sourceTitles": [
         "Upgrade your creative performance with March’s Demand Gen Drop.",
         "5 ways to collaborate with our agentic advisors"
       ],
-      "path": "/",
-      "landingTitle": "RichXPay homepage",
-      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
+      "path": "/crypto-virtual-card/",
+      "landingTitle": "Crypto virtual card",
+      "landingSummary": "English page for crypto-funded virtual cards, global SaaS tools, ad spend and wallet use cases.",
       "campaign": "linkedin_ad-spend_2026-04-07_slot8"
     }
   ]

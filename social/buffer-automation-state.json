@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-07",
+      "postId": "linkedin-8-1775580075133-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/crypto-virtual-card/",
+      "angle": "creative and campaign automation increase the need for reliable payment setup",
+      "copy": "Campaign automation is moving fast.\n\nUpgrade your creative performance with March’s Demand Gen Drop. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports english page for crypto-funded virtual cards, global saas tools, ad spend and wallet use cases.",
+      "sourceTitles": [
+        "Upgrade your creative performance with March’s Demand Gen Drop.",
+        "5 ways to collaborate with our agentic advisors"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1775580075133-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69d533ab114d232c0968dbe2",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-07",
       "postId": "linkedin-8-1775579780152-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
