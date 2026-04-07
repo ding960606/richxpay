@@ -32,7 +32,7 @@ function normalizeBaseUrl(value) {
 }
 
 function buildTrackedUrl(baseUrl, post) {
-  const url = new URL(post.path.replace(/^\//, ""), normalizeBaseUrl(baseUrl));
+  const url = new URL(normalizeBaseUrl(baseUrl));
   url.searchParams.set("utm_source", post.platform);
   url.searchParams.set("utm_medium", "social");
   url.searchParams.set("utm_campaign", post.campaign);
