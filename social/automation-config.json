@@ -8,32 +8,62 @@
     {
       "slot": 1,
       "platform": "x",
-      "localTime": "09:18",
+      "localTime": "15:18",
       "bucket": "cross-border-payments"
     },
     {
       "slot": 2,
       "platform": "linkedin",
-      "localTime": "11:36",
+      "localTime": "16:06",
       "bucket": "ad-spend"
     },
     {
       "slot": 3,
       "platform": "x",
-      "localTime": "14:08",
+      "localTime": "18:18",
       "bucket": "ai-subscriptions"
     },
     {
       "slot": 4,
       "platform": "linkedin",
-      "localTime": "17:28",
+      "localTime": "19:06",
       "bucket": "cross-border-payments"
     },
     {
       "slot": 5,
       "platform": "x",
-      "localTime": "20:36",
+      "localTime": "20:48",
       "bucket": "ad-spend"
+    },
+    {
+      "slot": 6,
+      "platform": "linkedin",
+      "localTime": "21:36",
+      "bucket": "ai-subscriptions"
+    },
+    {
+      "slot": 7,
+      "platform": "x",
+      "localTime": "23:18",
+      "bucket": "cross-border-payments"
+    },
+    {
+      "slot": 8,
+      "platform": "linkedin",
+      "localTime": "00:06",
+      "bucket": "ad-spend"
+    },
+    {
+      "slot": 9,
+      "platform": "x",
+      "localTime": "02:18",
+      "bucket": "ai-subscriptions"
+    },
+    {
+      "slot": 10,
+      "platform": "linkedin",
+      "localTime": "03:06",
+      "bucket": "cross-border-payments"
     }
   ],
   "bucketStrategy": {
@@ -129,4 +159,3 @@
     }
   ]
 }
-
