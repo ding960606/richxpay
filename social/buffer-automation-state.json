@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-07",
+      "postId": "x-7-1775573708136-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/crypto-virtual-card/",
+      "angle": "cross-border operators need funding and spend to feel as fast as the products they buy",
+      "copy": "Global checkout is getting smoother.\n\nPersonalize your experience across Google based on your purchases, your way. cross-border operators need funding and spend to feel as fast as the products they...",
+      "sourceTitles": [
+        "Personalize your experience across Google based on your purchases, your way.",
+        "We’re adding 3 new ways to make web payments easier and more flexible."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1775573708136-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69d51acca76a921743cf257d",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-07",
       "postId": "linkedin-4-1775561560503-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",

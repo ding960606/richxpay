@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-04-07T11:32:40.503Z",
+  "generatedAt": "2026-04-07T14:55:08.137Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-4-1775561560503-0",
-      "platform": "linkedin",
-      "localTime": "19:06",
+      "id": "x-7-1775573708136-0",
+      "platform": "x",
+      "localTime": "23:18",
       "topicBucket": "cross-border-payments",
-      "angle": "wallet and checkout improvements raise user expectations for payment speed",
-      "hook": "Payment rails keep improving.",
-      "copy": "Payment rails keep improving.\n\nPersonalize your experience across Google based on your purchases, your way. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for binding a virtual card to apple pay and using it in wallet-led payment flows.",
+      "angle": "cross-border operators need funding and spend to feel as fast as the products they buy",
+      "hook": "Global checkout is getting smoother.",
+      "copy": "Global checkout is getting smoother.\n\nPersonalize your experience across Google based on your purchases, your way. cross-border operators need funding and spend to feel as fast as the products they...",
       "sourceTitles": [
         "Personalize your experience across Google based on your purchases, your way.",
         "We’re adding 3 new ways to make web payments easier and more flexible."
       ],
-      "path": "/apple-pay-virtual-card/",
-      "landingTitle": "Apple Pay virtual card",
-      "landingSummary": "Use case page for binding a virtual card to Apple Pay and using it in wallet-led payment flows.",
-      "campaign": "linkedin_cross-border-payments_2026-04-07_slot4"
+      "path": "/crypto-virtual-card/",
+      "landingTitle": "Crypto virtual card",
+      "landingSummary": "English page for crypto-funded virtual cards, global SaaS tools, ad spend and wallet use cases.",
+      "campaign": "x_cross-border-payments_2026-04-07_slot7"
     }
   ]
 }
