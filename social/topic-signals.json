@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T11:34:42.787Z",
+  "generatedAt": "2026-04-08T14:55:35.837Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "AI is changing retail. Here’s how businesses can keep up.",
+          "link": "https://blog.google/products/ads-commerce/retail-sales-ai/",
+          "pubDate": "Wed, 08 Apr 2026 13:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "Upgrade your creative performance with March’s Demand Gen Drop.",
           "link": "https://blog.google/products/ads-commerce/demand-gen-drop-march-2026/",
           "pubDate": "Thu, 26 Mar 2026 16:00:00 +0000",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products/marketingplatform/360/googles-commerce-media-suite-where-retailer-insights-meet-the-power-of-youtube/",
           "pubDate": "Tue, 24 Mar 2026 13:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "We’re launching the Top Sports Podcasts on YouTube for brands to align with sports fans.",
-          "link": "https://blog.google/products/ads-commerce/were-launching-the-top-sports-podcasts-on-youtube-for-brands-to-align-with-sports-fans/",
-          "pubDate": "Fri, 20 Mar 2026 15:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -80,6 +80,12 @@
       "label": "AI subscriptions",
       "url": "https://openai.com/news/rss.xml",
       "items": [
+        {
+          "title": "Introducing the Child Safety Blueprint",
+          "link": "https://openai.com/index/introducing-child-safety-blueprint",
+          "pubDate": "Wed, 08 Apr 2026 05:00:00 GMT",
+          "source": ""
+        },
         {
           "title": "Announcing the OpenAI Safety Fellowship",
           "link": "https://openai.com/index/introducing-openai-safety-fellowship",
@@ -102,12 +108,6 @@
           "title": "Codex now offers more flexible pricing for teams",
           "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
           "pubDate": "Thu, 02 Apr 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Gradient Labs gives every bank customer an AI account manager",
-          "link": "https://openai.com/index/gradient-labs",
-          "pubDate": "Wed, 01 Apr 2026 02:00:00 GMT",
           "source": ""
         }
       ]
