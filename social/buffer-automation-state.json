@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-08",
+      "postId": "x-9-1775670207012-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing the Child Safety Blueprint AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or...",
+      "sourceTitles": [
+        "Introducing the Child Safety Blueprint",
+        "Announcing the OpenAI Safety Fellowship"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1775670207012-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69d693bf4f386a1c7570aeaf",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-08",
       "postId": "linkedin-8-1775664256572-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
