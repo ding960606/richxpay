@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T19:48:34.159Z",
+  "generatedAt": "2026-04-09T10:49:49.295Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "The next phase of enterprise AI",
+          "link": "https://openai.com/index/next-phase-of-enterprise-ai",
+          "pubDate": "Wed, 08 Apr 2026 14:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Introducing the Child Safety Blueprint",
           "link": "https://openai.com/index/introducing-child-safety-blueprint",
           "pubDate": "Wed, 08 Apr 2026 05:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "OpenAI acquires TBPN",
           "link": "https://openai.com/index/openai-acquires-tbpn",
           "pubDate": "Thu, 02 Apr 2026 10:30:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Codex now offers more flexible pricing for teams",
-          "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
-          "pubDate": "Thu, 02 Apr 2026 10:00:00 GMT",
           "source": ""
         }
       ]
