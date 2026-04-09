@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T10:49:49.295Z",
+  "generatedAt": "2026-04-09T15:10:54.163Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+          "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+          "pubDate": "Thu, 09 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "The next phase of enterprise AI",
           "link": "https://openai.com/index/next-phase-of-enterprise-ai",
           "pubDate": "Wed, 08 Apr 2026 14:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "Industrial policy for the Intelligence Age",
           "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
           "pubDate": "Mon, 06 Apr 2026 02:30:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "OpenAI acquires TBPN",
-          "link": "https://openai.com/index/openai-acquires-tbpn",
-          "pubDate": "Thu, 02 Apr 2026 10:30:00 GMT",
           "source": ""
         }
       ]
