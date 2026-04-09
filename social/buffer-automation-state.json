@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-09",
+      "postId": "x-9-1775756450134-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nOpenAI Full Fan Mode Contest: Terms & Conditions AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow wit...",
+      "sourceTitles": [
+        "OpenAI Full Fan Mode Contest: Terms & Conditions",
+        "The next phase of enterprise AI"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1775756450134-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69d7e4a245a38cc45be24c93",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-09",
       "postId": "linkedin-8-1775750890067-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
