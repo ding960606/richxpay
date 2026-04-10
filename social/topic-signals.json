@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T19:54:51.371Z",
+  "generatedAt": "2026-04-10T10:37:19.436Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+          "link": "https://openai.com/index/cyberagent",
+          "pubDate": "Thu, 09 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
           "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
           "pubDate": "Thu, 09 Apr 2026 00:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "Announcing the OpenAI Safety Fellowship",
           "link": "https://openai.com/index/introducing-openai-safety-fellowship",
           "pubDate": "Mon, 06 Apr 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Industrial policy for the Intelligence Age",
-          "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-          "pubDate": "Mon, 06 Apr 2026 02:30:00 GMT",
           "source": ""
         }
       ]
