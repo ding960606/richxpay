@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T11:14:38.836Z",
+  "generatedAt": "2026-04-10T12:09:00.751Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,14 +81,14 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-          "link": "https://openai.com/index/cyberagent",
+          "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+          "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
           "pubDate": "Thu, 09 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
-          "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+          "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+          "link": "https://openai.com/index/cyberagent",
           "pubDate": "Thu, 09 Apr 2026 00:00:00 GMT",
           "source": ""
         },
