@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T18:01:56.805Z",
+  "generatedAt": "2026-04-10T18:35:18.025Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,32 +81,32 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Applications of AI at OpenAI",
-          "link": "https://openai.com/academy/applications-of-ai",
+          "title": "Financial services",
+          "link": "https://openai.com/academy/financial-services",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Brainstorming with ChatGPT",
-          "link": "https://openai.com/academy/brainstorming",
+          "title": "Prompting fundamentals",
+          "link": "https://openai.com/academy/prompting",
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Creating images with ChatGPT",
+          "link": "https://openai.com/academy/image-generation",
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Using skills",
+          "link": "https://openai.com/academy/skills",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
           "title": "Analyzing data with ChatGPT",
           "link": "https://openai.com/academy/data-analysis",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "ChatGPT for marketing teams",
-          "link": "https://openai.com/academy/marketing",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Writing with ChatGPT",
-          "link": "https://openai.com/academy/writing",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         }
