@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-10",
+      "postId": "x-7-1775831817250-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. payment rails are improving but card access still blocks teams RichXPay fits...",
+      "sourceTitles": [
+        "Personalize your experience across Google based on your purchases, your way.",
+        "We’re adding 3 new ways to make web payments easier and more flexible."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1775831817250-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69d90b093a4890ca51647386",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-10",
       "postId": "x-5-1775822946920-0",
       "platform": "x",
       "topicBucket": "ad-spend",
