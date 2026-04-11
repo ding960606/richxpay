@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T17:52:32.355Z",
+  "generatedAt": "2026-04-11T19:52:52.925Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,8 +81,14 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Responsible and safe use of AI",
-          "link": "https://openai.com/academy/responsible-and-safe-use",
+          "title": "Healthcare",
+          "link": "https://openai.com/academy/healthcare",
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Using skills",
+          "link": "https://openai.com/academy/skills",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
@@ -93,20 +99,14 @@
           "source": ""
         },
         {
-          "title": "Getting started with ChatGPT",
-          "link": "https://openai.com/academy/getting-started",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "ChatGPT for operations teams",
-          "link": "https://openai.com/academy/operations",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
           "title": "Writing with ChatGPT",
           "link": "https://openai.com/academy/writing",
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "ChatGPT for marketing teams",
+          "link": "https://openai.com/academy/marketing",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         }
