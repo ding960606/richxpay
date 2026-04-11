@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T17:05:29.180Z",
+  "generatedAt": "2026-04-11T17:52:32.355Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,32 +81,32 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Using custom GPTs",
-          "link": "https://openai.com/academy/custom-gpts",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "ChatGPT for customer success teams",
-          "link": "https://openai.com/academy/customer-success",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Applications of AI at OpenAI",
-          "link": "https://openai.com/academy/applications-of-ai",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Research with ChatGPT",
-          "link": "https://openai.com/academy/search-and-deep-research",
+          "title": "Responsible and safe use of AI",
+          "link": "https://openai.com/academy/responsible-and-safe-use",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
           "title": "Analyzing data with ChatGPT",
           "link": "https://openai.com/academy/data-analysis",
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Getting started with ChatGPT",
+          "link": "https://openai.com/academy/getting-started",
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "ChatGPT for operations teams",
+          "link": "https://openai.com/academy/operations",
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Writing with ChatGPT",
+          "link": "https://openai.com/academy/writing",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         }

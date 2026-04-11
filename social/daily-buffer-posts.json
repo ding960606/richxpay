@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-04-11T17:05:45.175Z",
+  "generatedAt": "2026-04-11T17:52:47.793Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-8-1775927145175-0",
-      "platform": "linkedin",
-      "localTime": "00:06",
-      "topicBucket": "ad-spend",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools.\n\nAI is changing retail. Here’s how businesses can keep up. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "id": "x-9-1775929967793-0",
+      "platform": "x",
+      "localTime": "02:18",
+      "topicBucket": "ai-subscriptions",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "hook": "AI tool adoption keeps growing.",
+      "copy": "AI tool adoption keeps growing. Scaling data analysis with ChatGPT requires reliable recurring billing. RichXPay simplifies subscription management through virtual cards funded by USDT and USDC.",
       "sourceTitles": [
-        "AI is changing retail. Here’s how businesses can keep up.",
-        "Upgrade your creative performance with March’s Demand Gen Drop."
+        "Analyzing data with ChatGPT",
+        "Getting started with ChatGPT"
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "linkedin_ad-spend_2026-04-11_slot8"
+      "path": "/netflix-virtual-card/",
+      "landingTitle": "Netflix virtual card",
+      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
+      "campaign": "x_ai-subscriptions_2026-04-11_slot9"
     }
   ]
 }

@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-11",
+      "postId": "x-9-1775929967793-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing. Scaling data analysis with ChatGPT requires reliable recurring billing. RichXPay simplifies subscription management through virtual cards funded by USDT and USDC.",
+      "sourceTitles": [
+        "Analyzing data with ChatGPT",
+        "Getting started with ChatGPT"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1775929967793-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69da8a703a4890ca516bb9d0",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-11",
       "postId": "linkedin-8-1775927145175-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
