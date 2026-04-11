@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T20:02:05.392Z",
+  "generatedAt": "2026-04-11T09:27:20.883Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,32 +81,32 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Using projects in ChatGPT",
-          "link": "https://openai.com/academy/projects",
+          "title": "Using custom GPTs",
+          "link": "https://openai.com/academy/custom-gpts",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Prompting fundamentals",
-          "link": "https://openai.com/academy/prompting",
+          "title": "ChatGPT for customer success teams",
+          "link": "https://openai.com/academy/customer-success",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Using skills",
-          "link": "https://openai.com/academy/skills",
+          "title": "Applications of AI at OpenAI",
+          "link": "https://openai.com/academy/applications-of-ai",
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Research with ChatGPT",
+          "link": "https://openai.com/academy/search-and-deep-research",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
           "title": "Analyzing data with ChatGPT",
           "link": "https://openai.com/academy/data-analysis",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Creating images with ChatGPT",
-          "link": "https://openai.com/academy/image-generation",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         }
