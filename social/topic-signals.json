@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T19:52:52.925Z",
+  "generatedAt": "2026-04-12T10:02:56.096Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,32 +81,32 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Healthcare",
-          "link": "https://openai.com/academy/healthcare",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Using skills",
-          "link": "https://openai.com/academy/skills",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Analyzing data with ChatGPT",
-          "link": "https://openai.com/academy/data-analysis",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Writing with ChatGPT",
-          "link": "https://openai.com/academy/writing",
+          "title": "Using projects in ChatGPT",
+          "link": "https://openai.com/academy/projects",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
           "title": "ChatGPT for marketing teams",
           "link": "https://openai.com/academy/marketing",
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Our response to the Axios developer tool compromise",
+          "link": "https://openai.com/index/axios-developer-tool-compromise",
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Using custom GPTs",
+          "link": "https://openai.com/academy/custom-gpts",
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Analyzing data with ChatGPT",
+          "link": "https://openai.com/academy/data-analysis",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         }
