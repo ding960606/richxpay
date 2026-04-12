@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-12",
+      "postId": "x-5-1775995422576-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nAI is changing retail. Here’s how businesses can keep up. better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with...",
+      "sourceTitles": [
+        "AI is changing retail. Here’s how businesses can keep up.",
+        "Upgrade your creative performance with March’s Demand Gen Drop."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1775995422576-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69db8a1f2096be6bcd92baa8",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-12",
       "postId": "linkedin-4-1775994680514-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
