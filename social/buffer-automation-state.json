@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-12",
+      "postId": "x-3-1775988626167-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nUsing projects in ChatGPT AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC funding...",
+      "sourceTitles": [
+        "Using projects in ChatGPT",
+        "ChatGPT for marketing teams"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1775988626167-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69db6f932096be6bcd9241f5",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-12",
       "postId": "x-3-1775988186018-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
