@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T19:56:23.907Z",
+  "generatedAt": "2026-04-13T11:54:17.026Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,32 +81,32 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Using projects in ChatGPT",
-          "link": "https://openai.com/academy/projects",
+          "title": "Research with ChatGPT",
+          "link": "https://openai.com/academy/search-and-deep-research",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "ChatGPT for marketing teams",
-          "link": "https://openai.com/academy/marketing",
+          "title": "ChatGPT for finance teams",
+          "link": "https://openai.com/academy/finance",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Our response to the Axios developer tool compromise",
-          "link": "https://openai.com/index/axios-developer-tool-compromise",
+          "title": "ChatGPT for research",
+          "link": "https://openai.com/academy/research",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Using custom GPTs",
-          "link": "https://openai.com/academy/custom-gpts",
+          "title": "Financial services",
+          "link": "https://openai.com/academy/financial-services",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Analyzing data with ChatGPT",
-          "link": "https://openai.com/academy/data-analysis",
+          "title": "Responsible and safe use of AI",
+          "link": "https://openai.com/academy/responsible-and-safe-use",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         }
