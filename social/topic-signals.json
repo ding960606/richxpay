@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T11:54:17.026Z",
+  "generatedAt": "2026-04-13T15:05:28.668Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,8 +81,20 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Research with ChatGPT",
-          "link": "https://openai.com/academy/search-and-deep-research",
+          "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+          "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
+          "pubDate": "Mon, 13 Apr 2026 06:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "ChatGPT for operations teams",
+          "link": "https://openai.com/academy/operations",
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Applications of AI at OpenAI",
+          "link": "https://openai.com/academy/applications-of-ai",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
@@ -93,20 +105,8 @@
           "source": ""
         },
         {
-          "title": "ChatGPT for research",
-          "link": "https://openai.com/academy/research",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Financial services",
-          "link": "https://openai.com/academy/financial-services",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Responsible and safe use of AI",
-          "link": "https://openai.com/academy/responsible-and-safe-use",
+          "title": "Brainstorming with ChatGPT",
+          "link": "https://openai.com/academy/brainstorming",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         }

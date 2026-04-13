@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-13",
+      "postId": "x-7-1776092738877-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster. Google Pay is making web checkouts more flexible, but card access still blocks global teams. RichXPay provides virtual cards funded by USDT and USDC.",
+      "sourceTitles": [
+        "We’re adding 3 new ways to make web payments easier and more flexible.",
+        "Personalize your experience across Google based on your purchases, your way."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1776092738877-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69dd06437b60051380374e47",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-13",
       "postId": "linkedin-4-1776081273204-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
