@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-14",
+      "postId": "x-9-1776188876315-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nEnterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI AI adoption creates more recurring subscriptions that need a reliable payment layer RichXP...",
+      "sourceTitles": [
+        "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+        "ChatGPT for operations teams"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1776188876315-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69de7dccb7809a30a62e2a11",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-14",
       "postId": "linkedin-8-1776185030536-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
