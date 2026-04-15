@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T10:48:11.065Z",
+  "generatedAt": "2026-04-15T14:55:02.602Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "We’re upgrading Dynamic Search Ads to AI Max",
+          "link": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
+          "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "AI is changing retail. Here’s how businesses can keep up.",
           "link": "https://blog.google/products/ads-commerce/retail-sales-ai/",
           "pubDate": "Wed, 08 Apr 2026 13:00:00 +0000",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products/ads-commerce/effective-lead-gen-practices/",
           "pubDate": "Wed, 25 Mar 2026 13:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Google’s Commerce Media Suite: Where retailer insights meet the power of YouTube",
-          "link": "https://blog.google/products/marketingplatform/360/googles-commerce-media-suite-where-retailer-insights-meet-the-power-of-youtube/",
-          "pubDate": "Tue, 24 Mar 2026 13:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -93,20 +93,20 @@
           "source": ""
         },
         {
-          "title": "Our response to the Axios developer tool compromise",
-          "link": "https://openai.com/index/axios-developer-tool-compromise",
+          "title": "Responsible and safe use of AI",
+          "link": "https://openai.com/academy/responsible-and-safe-use",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Using projects in ChatGPT",
-          "link": "https://openai.com/academy/projects",
+          "title": "Research with ChatGPT",
+          "link": "https://openai.com/academy/search-and-deep-research",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "ChatGPT for managers",
-          "link": "https://openai.com/academy/managers",
+          "title": "Prompting fundamentals",
+          "link": "https://openai.com/academy/prompting",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         }
