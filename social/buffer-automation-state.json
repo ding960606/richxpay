@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-15",
+      "postId": "x-9-1776274922032-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nThe next evolution of the Agents SDK AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or US...",
+      "sourceTitles": [
+        "The next evolution of the Agents SDK",
+        "Trusted access for the next era of cyber defense"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1776274922032-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69dfcdea0558d4f0771f0639",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-15",
       "postId": "linkedin-8-1776269802284-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",

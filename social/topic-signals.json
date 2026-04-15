@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:16:25.274Z",
+  "generatedAt": "2026-04-15T17:41:57.147Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "The next evolution of the Agents SDK",
+          "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+          "pubDate": "Wed, 15 Apr 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Trusted access for the next era of cyber defense",
           "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
           "pubDate": "Tue, 14 Apr 2026 00:00:00 GMT",
@@ -93,20 +99,14 @@
           "source": ""
         },
         {
-          "title": "Responsible and safe use of AI",
-          "link": "https://openai.com/academy/responsible-and-safe-use",
+          "title": "Using projects in ChatGPT",
+          "link": "https://openai.com/academy/projects",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Research with ChatGPT",
-          "link": "https://openai.com/academy/search-and-deep-research",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Prompting fundamentals",
-          "link": "https://openai.com/academy/prompting",
+          "title": "Brainstorming with ChatGPT",
+          "link": "https://openai.com/academy/brainstorming",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         }
