@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T19:50:38.161Z",
+  "generatedAt": "2026-04-15T10:48:11.065Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,32 +81,32 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Trusted access for the next era of cyber defense",
+          "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+          "pubDate": "Tue, 14 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
           "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
           "pubDate": "Mon, 13 Apr 2026 06:00:00 GMT",
           "source": ""
         },
         {
-          "title": "ChatGPT for operations teams",
-          "link": "https://openai.com/academy/operations",
+          "title": "Our response to the Axios developer tool compromise",
+          "link": "https://openai.com/index/axios-developer-tool-compromise",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Applications of AI at OpenAI",
-          "link": "https://openai.com/academy/applications-of-ai",
+          "title": "Using projects in ChatGPT",
+          "link": "https://openai.com/academy/projects",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "ChatGPT for finance teams",
-          "link": "https://openai.com/academy/finance",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Brainstorming with ChatGPT",
-          "link": "https://openai.com/academy/brainstorming",
+          "title": "ChatGPT for managers",
+          "link": "https://openai.com/academy/managers",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         }
