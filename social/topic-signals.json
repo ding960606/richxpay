@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T19:50:48.990Z",
+  "generatedAt": "2026-04-16T10:53:33.012Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Accelerating the cyber defense ecosystem that protects us all",
+          "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+          "pubDate": "Thu, 16 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "The next evolution of the Agents SDK",
           "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
           "pubDate": "Wed, 15 Apr 2026 10:00:00 GMT",
@@ -99,14 +105,8 @@
           "source": ""
         },
         {
-          "title": "Using projects in ChatGPT",
-          "link": "https://openai.com/academy/projects",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Brainstorming with ChatGPT",
-          "link": "https://openai.com/academy/brainstorming",
+          "title": "Responsible and safe use of AI",
+          "link": "https://openai.com/academy/responsible-and-safe-use",
           "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
           "source": ""
         }
