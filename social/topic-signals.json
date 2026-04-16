@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:53:33.012Z",
+  "generatedAt": "2026-04-16T16:09:00.848Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Gemini is stopping harmful ads before people ever see them",
+          "link": "https://blog.google/products/ads-commerce/2025-ads-safety-report/",
+          "pubDate": "Thu, 16 Apr 2026 15:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "We’re upgrading Dynamic Search Ads to AI Max",
           "link": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
           "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000",
@@ -65,12 +71,6 @@
           "title": "5 ways to collaborate with our agentic advisors",
           "link": "https://blog.google/products/ads-commerce/tips-to-collaborate-with-agentic-advisors/",
           "pubDate": "Wed, 25 Mar 2026 16:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Ads Decoded episode 5 navigates the challenges and impact of effective lead gen advertising.",
-          "link": "https://blog.google/products/ads-commerce/effective-lead-gen-practices/",
-          "pubDate": "Wed, 25 Mar 2026 13:00:00 +0000",
           "source": ""
         }
       ]
