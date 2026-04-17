@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T18:53:26.263Z",
+  "generatedAt": "2026-04-17T10:42:31.266Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -87,6 +87,12 @@
           "source": ""
         },
         {
+          "title": "Introducing GPT-Rosalind for life sciences research",
+          "link": "https://openai.com/index/introducing-gpt-rosalind",
+          "pubDate": "Thu, 16 Apr 2026 01:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Accelerating the cyber defense ecosystem that protects us all",
           "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
           "pubDate": "Thu, 16 Apr 2026 00:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "Trusted access for the next era of cyber defense",
           "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
           "pubDate": "Tue, 14 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-          "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
-          "pubDate": "Mon, 13 Apr 2026 06:00:00 GMT",
           "source": ""
         }
       ]
