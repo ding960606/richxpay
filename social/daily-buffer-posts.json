@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-04-18T10:03:55.043Z",
+  "generatedAt": "2026-04-18T10:26:17.657Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-3-1776506635043-0",
+      "id": "x-3-1776507977657-0",
       "platform": "x",
       "localTime": "18:18",
       "topicBucket": "ai-subscriptions",
       "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
       "hook": "AI tool adoption keeps growing.",
-      "copy": "AI tool adoption keeps growing. Specialized models like GPT-Rosalind mean more recurring subscriptions for teams to manage. RichXPay supports these workflows with virtual cards funded by USDT or USDC.",
+      "copy": "AI tool adoption keeps growing.\n\nCodex for (almost) everything AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC fund...",
       "sourceTitles": [
-        "Introducing GPT-Rosalind for life sciences research",
-        "Codex for (almost) everything"
+        "Codex for (almost) everything",
+        "Introducing GPT-Rosalind for life sciences research"
       ],
       "path": "/netflix-virtual-card/",
       "landingTitle": "Netflix virtual card",
