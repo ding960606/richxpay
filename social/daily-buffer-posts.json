@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-04-18T11:53:02.181Z",
+  "generatedAt": "2026-04-18T12:04:22.173Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-4-1776513182181-0",
-      "platform": "linkedin",
-      "localTime": "19:06",
-      "topicBucket": "cross-border-payments",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "hook": "Cross-border payments are getting faster.",
-      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "id": "x-5-1776513862173-0",
+      "platform": "x",
+      "localTime": "20:48",
+      "topicBucket": "ad-spend",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "hook": "Ad platforms keep adding smarter tools.",
+      "copy": "Ad platforms keep adding smarter tools.\n\nGemini is stopping harmful ads before people ever see them better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow wit...",
       "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
+        "Gemini is stopping harmful ads before people ever see them",
+        "We’re upgrading Dynamic Search Ads to AI Max"
       ],
-      "path": "/",
-      "landingTitle": "RichXPay homepage",
-      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
-      "campaign": "linkedin_cross-border-payments_2026-04-18_slot4"
+      "path": "/usdt-to-virtual-card/",
+      "landingTitle": "USDT to virtual card",
+      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
+      "campaign": "x_ad-spend_2026-04-18_slot5"
     }
   ]
 }
