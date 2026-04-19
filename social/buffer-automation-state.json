@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-19",
+      "postId": "x-9-1776621439421-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nCodex for (almost) everything AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC fund...",
+      "sourceTitles": [
+        "Codex for (almost) everything",
+        "Introducing GPT-Rosalind for life sciences research"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1776621439421-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69e5177fec0df04bc130d13f",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-19",
       "postId": "linkedin-8-1776618537498-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
