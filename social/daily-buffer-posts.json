@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-04-19T12:03:45.040Z",
+  "generatedAt": "2026-04-19T15:02:38.293Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-5-1776600225040-0",
+      "id": "x-7-1776610958293-0",
       "platform": "x",
-      "localTime": "20:48",
-      "topicBucket": "ad-spend",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools.\n\nGemini is stopping harmful ads before people ever see them better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow wit...",
+      "localTime": "23:18",
+      "topicBucket": "cross-border-payments",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "hook": "Cross-border payments are getting faster.",
+      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. payment rails are improving but card access still blocks teams RichXPay fits...",
       "sourceTitles": [
-        "Gemini is stopping harmful ads before people ever see them",
-        "We’re upgrading Dynamic Search Ads to AI Max"
+        "Personalize your experience across Google based on your purchases, your way.",
+        "We’re adding 3 new ways to make web payments easier and more flexible."
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "x_ad-spend_2026-04-19_slot5"
+      "path": "/",
+      "landingTitle": "RichXPay homepage",
+      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
+      "campaign": "x_cross-border-payments_2026-04-19_slot7"
     }
   ]
 }
