@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-19",
+      "postId": "x-5-1776600225040-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nGemini is stopping harmful ads before people ever see them better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow wit...",
+      "sourceTitles": [
+        "Gemini is stopping harmful ads before people ever see them",
+        "We’re upgrading Dynamic Search Ads to AI Max"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1776600225040-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69e4c4a13a4ea0d0144250c3",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-19",
       "postId": "linkedin-4-1776599665457-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
