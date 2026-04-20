@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-20",
+      "postId": "x-9-1776708768514-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing. As enterprises like Hyatt scale AI usage, managing recurring seats becomes a core operational task. RichXPay simplifies this with virtual cards funded by USDT/USDC.",
+      "sourceTitles": [
+        "OpenAI helps Hyatt advance AI among colleagues",
+        "Codex for (almost) everything"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1776708768514-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69e66ca1858ba22a12b7cc4f",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-20",
       "postId": "x-9-1776706580628-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
