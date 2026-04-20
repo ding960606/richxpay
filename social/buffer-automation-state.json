@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-20",
+      "postId": "linkedin-8-1776703455344-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nGemini is stopping harmful ads before people ever see them Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Gemini is stopping harmful ads before people ever see them",
+        "We’re upgrading Dynamic Search Ads to AI Max"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1776703455344-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69e657e0b1d5e9a375197950",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-20",
       "postId": "x-7-1776697618406-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
