@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-20",
+      "postId": "x-9-1776706580628-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nOpenAI helps Hyatt advance AI among colleagues AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with...",
+      "sourceTitles": [
+        "OpenAI helps Hyatt advance AI among colleagues",
+        "Codex for (almost) everything"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1776706580628-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69e66415858ba22a12b76118",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-20",
       "postId": "linkedin-8-1776703455344-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
