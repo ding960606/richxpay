@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T11:59:05.662Z",
+  "generatedAt": "2026-04-20T15:06:42.013Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "OpenAI helps Hyatt advance AI among colleagues",
+          "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+          "pubDate": "Mon, 20 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Codex for (almost) everything",
           "link": "https://openai.com/index/codex-for-almost-everything",
           "pubDate": "Thu, 16 Apr 2026 10:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "The next evolution of the Agents SDK",
           "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
           "pubDate": "Wed, 15 Apr 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Trusted access for the next era of cyber defense",
-          "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-          "pubDate": "Tue, 14 Apr 2026 00:00:00 GMT",
           "source": ""
         }
       ]
