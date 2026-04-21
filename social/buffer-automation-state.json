@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-04-20",
+  "lastGeneratedDate": "2026-04-21",
   "history": [
+    {
+      "date": "2026-04-21",
+      "postId": "linkedin-4-1776771474785-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Personalize your experience across Google based on your purchases, your way.",
+        "We’re adding 3 new ways to make web payments easier and more flexible."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1776771474785-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69e7619368bd448d18459af1",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-04-20",
       "postId": "linkedin-10-1776714435189-0",
