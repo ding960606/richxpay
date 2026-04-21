@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T11:37:38.339Z",
+  "generatedAt": "2026-04-21T15:01:09.076Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+          "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+          "pubDate": "Tue, 21 Apr 2026 14:30:00 +0000",
+          "source": ""
+        },
+        {
           "title": "Gemini is stopping harmful ads before people ever see them",
           "link": "https://blog.google/products/ads-commerce/2025-ads-safety-report/",
           "pubDate": "Thu, 16 Apr 2026 15:00:00 +0000",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products/ads-commerce/demand-gen-drop-march-2026/",
           "pubDate": "Thu, 26 Mar 2026 16:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "5 ways to collaborate with our agentic advisors",
-          "link": "https://blog.google/products/ads-commerce/tips-to-collaborate-with-agentic-advisors/",
-          "pubDate": "Wed, 25 Mar 2026 16:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -80,6 +80,12 @@
       "label": "AI subscriptions",
       "url": "https://openai.com/news/rss.xml",
       "items": [
+        {
+          "title": "Scaling Codex to enterprises worldwide",
+          "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+          "pubDate": "Tue, 21 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
         {
           "title": "OpenAI helps Hyatt advance AI among colleagues",
           "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
@@ -102,12 +108,6 @@
           "title": "Accelerating the cyber defense ecosystem that protects us all",
           "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
           "pubDate": "Thu, 16 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "The next evolution of the Agents SDK",
-          "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-          "pubDate": "Wed, 15 Apr 2026 10:00:00 GMT",
           "source": ""
         }
       ]
