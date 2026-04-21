@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-04-21T15:01:24.072Z",
+  "generatedAt": "2026-04-21T16:38:30.732Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-7-1776783684072-0",
-      "platform": "x",
-      "localTime": "23:18",
-      "topicBucket": "cross-border-payments",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "hook": "Cross-border payments are getting faster.",
-      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. payment rails are improving but card access still blocks teams RichXPay fits...",
+      "id": "linkedin-8-1776789510732-0",
+      "platform": "linkedin",
+      "localTime": "00:06",
+      "topicBucket": "ad-spend",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "hook": "Ad platforms keep adding smarter tools.",
+      "copy": "Ad platforms keep adding smarter tools.\n\n3 new ways Ads Advisor is making Google Ads safer and faster Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
       "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
+        "3 new ways Ads Advisor is making Google Ads safer and faster",
+        "Gemini is stopping harmful ads before people ever see them"
       ],
-      "path": "/",
-      "landingTitle": "RichXPay homepage",
-      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
-      "campaign": "x_cross-border-payments_2026-04-21_slot7"
+      "path": "/usdt-to-virtual-card/",
+      "landingTitle": "USDT to virtual card",
+      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
+      "campaign": "linkedin_ad-spend_2026-04-21_slot8"
     }
   ]
 }
