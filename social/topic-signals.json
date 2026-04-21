@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T16:38:12.984Z",
+  "generatedAt": "2026-04-21T18:50:33.567Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -50,6 +50,12 @@
           "source": ""
         },
         {
+          "title": "7 ways to travel smarter this summer, with help from Google",
+          "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+          "pubDate": "Fri, 17 Apr 2026 14:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "Gemini is stopping harmful ads before people ever see them",
           "link": "https://blog.google/products/ads-commerce/2025-ads-safety-report/",
           "pubDate": "Thu, 16 Apr 2026 15:00:00 +0000",
@@ -65,12 +71,6 @@
           "title": "AI is changing retail. Here’s how businesses can keep up.",
           "link": "https://blog.google/products/ads-commerce/retail-sales-ai/",
           "pubDate": "Wed, 08 Apr 2026 13:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Upgrade your creative performance with March’s Demand Gen Drop.",
-          "link": "https://blog.google/products/ads-commerce/demand-gen-drop-march-2026/",
-          "pubDate": "Thu, 26 Mar 2026 16:00:00 +0000",
           "source": ""
         }
       ]
