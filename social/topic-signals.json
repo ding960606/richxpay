@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T16:39:29.652Z",
+  "generatedAt": "2026-04-22T18:52:38.571Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,18 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Workspace agents",
+          "link": "https://openai.com/academy/workspace-agents",
+          "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Introducing workspace agents in ChatGPT",
+          "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+          "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Speeding up agentic workflows with WebSockets in the Responses API",
           "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
           "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
@@ -96,18 +108,6 @@
           "title": "Scaling Codex to enterprises worldwide",
           "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
           "pubDate": "Tue, 21 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "OpenAI helps Hyatt advance AI among colleagues",
-          "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-          "pubDate": "Mon, 20 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Codex for (almost) everything",
-          "link": "https://openai.com/index/codex-for-almost-everything",
-          "pubDate": "Thu, 16 Apr 2026 10:00:00 GMT",
           "source": ""
         }
       ]
