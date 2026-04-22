@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T15:09:49.863Z",
+  "generatedAt": "2026-04-22T16:39:29.652Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+          "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+          "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Introducing OpenAI Privacy Filter",
           "link": "https://openai.com/index/introducing-openai-privacy-filter",
           "pubDate": "Wed, 22 Apr 2026 00:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "Codex for (almost) everything",
           "link": "https://openai.com/index/codex-for-almost-everything",
           "pubDate": "Thu, 16 Apr 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Introducing GPT-Rosalind for life sciences research",
-          "link": "https://openai.com/index/introducing-gpt-rosalind",
-          "pubDate": "Thu, 16 Apr 2026 01:00:00 GMT",
           "source": ""
         }
       ]
