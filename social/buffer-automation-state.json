@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-23",
+      "postId": "x-9-1776967183133-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nMaking ChatGPT better for clinicians AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or US...",
+      "sourceTitles": [
+        "Making ChatGPT better for clinicians",
+        "Speeding up agentic workflows with WebSockets in the Responses API"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1776967183133-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69ea5e0fa915dd6c133270c1",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-23",
       "postId": "x-9-1776966887718-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
