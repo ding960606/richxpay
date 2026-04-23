@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T16:21:07.148Z",
+  "generatedAt": "2026-04-23T17:54:37.481Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -87,6 +87,12 @@
           "source": ""
         },
         {
+          "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+          "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+          "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Workspace agents",
           "link": "https://openai.com/academy/workspace-agents",
           "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
@@ -95,12 +101,6 @@
         {
           "title": "Introducing workspace agents in ChatGPT",
           "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-          "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-          "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
           "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
           "source": ""
         },

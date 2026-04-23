@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-23",
+      "postId": "x-9-1776966887718-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing. New agentic workflows and workspace agents require reliable recurring billing. RichXPay helps teams fund AI seats like ChatGPT Plus with USDT or USDC via virtual cards.",
+      "sourceTitles": [
+        "Speeding up agentic workflows with WebSockets in the Responses API",
+        "Workspace agents"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1776966887718-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69ea5ce8cbce80d5b14b812b",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-23",
       "postId": "linkedin-8-1776961272829-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
