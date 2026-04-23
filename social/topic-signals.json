@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T11:38:55.779Z",
+  "generatedAt": "2026-04-23T16:21:07.148Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,18 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "3 easy ways to shop for spring with Google",
+          "link": "https://blog.google/products-and-platforms/products/search/spring-fashion-shopping-tips/",
+          "pubDate": "Thu, 23 Apr 2026 16:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Convert faster on YouTube with April’s Demand Gen Drop.",
+          "link": "https://blog.google/products/ads-commerce/demand-gen-drop-april-2026/",
+          "pubDate": "Thu, 23 Apr 2026 16:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
           "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
           "pubDate": "Tue, 21 Apr 2026 14:30:00 +0000",
@@ -59,18 +71,6 @@
           "title": "Gemini is stopping harmful ads before people ever see them",
           "link": "https://blog.google/products/ads-commerce/2025-ads-safety-report/",
           "pubDate": "Thu, 16 Apr 2026 15:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "We’re upgrading Dynamic Search Ads to AI Max",
-          "link": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
-          "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "AI is changing retail. Here’s how businesses can keep up.",
-          "link": "https://blog.google/products/ads-commerce/retail-sales-ai/",
-          "pubDate": "Wed, 08 Apr 2026 13:00:00 +0000",
           "source": ""
         }
       ]
