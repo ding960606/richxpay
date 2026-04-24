@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-24",
+      "postId": "linkedin-8-1777047199278-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nThere's a new playbook for partnering with creators on marketing campaigns. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "There's a new playbook for partnering with creators on marketing campaigns.",
+        "3 easy ways to shop for spring with Google"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1777047199278-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69eb969f238dc0cc7aff50b2",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-24",
       "postId": "x-7-1777042654242-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
