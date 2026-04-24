@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T18:47:39.818Z",
+  "generatedAt": "2026-04-24T11:41:42.224Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "There's a new playbook for partnering with creators on marketing campaigns.",
+          "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-creator-marketing/",
+          "pubDate": "Thu, 23 Apr 2026 19:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "3 easy ways to shop for spring with Google",
           "link": "https://blog.google/products-and-platforms/products/search/spring-fashion-shopping-tips/",
           "pubDate": "Thu, 23 Apr 2026 16:00:00 +0000",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
           "pubDate": "Fri, 17 Apr 2026 14:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Gemini is stopping harmful ads before people ever see them",
-          "link": "https://blog.google/products/ads-commerce/2025-ads-safety-report/",
-          "pubDate": "Thu, 16 Apr 2026 15:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -87,27 +87,27 @@
           "source": ""
         },
         {
-          "title": "GPT-5.5 Bio Bug Bounty",
-          "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
-          "pubDate": "Thu, 23 Apr 2026 00:00:00 GMT",
+          "title": "GPT-5.5 System Card",
+          "link": "https://openai.com/index/gpt-5-5-system-card",
+          "pubDate": "Thu, 23 Apr 2026 11:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Making ChatGPT better for clinicians",
-          "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
-          "pubDate": "Wed, 22 Apr 2026 15:00:00 GMT",
+          "title": "Automations",
+          "link": "https://openai.com/academy/codex-automations",
+          "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Workspace agents",
-          "link": "https://openai.com/academy/workspace-agents",
-          "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+          "title": "Top 10 uses for Codex at work",
+          "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+          "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-          "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-          "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+          "title": "Plugins and skills",
+          "link": "https://openai.com/academy/codex-plugins-and-skills",
+          "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
           "source": ""
         }
       ]
