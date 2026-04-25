@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-25",
+      "postId": "x-5-1777118525410-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nThere's a new playbook for partnering with creators on marketing campaigns. better ad tooling still needs cleaner billing and payment control RichXPay fits...",
+      "sourceTitles": [
+        "There's a new playbook for partnering with creators on marketing campaigns.",
+        "3 easy ways to shop for spring with Google"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1777118525410-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69ecad3e48db1c78e0095efe",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-25",
       "postId": "x-3-1777113061363-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2494,26 +2515,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": "2026-04-07T12:36:00.000Z",
         "text": "Paid media teams have more leverage than ever.\n\nBut leverage drops fast when payment setup slows down campaign changes. RichXPay helps teams fund spend with USDT or USDC and use a virtual card across ad accounts without extra banking friction.\n\nhttps://www.richxpay.com/crypto-virtual-card/?utm_source=x&utm_medium=social&utm_campaign=x_ad-spend_2026-04-07_slot5"
-      }
-    },
-    {
-      "date": "2026-04-07",
-      "postId": "x-1-bootstrap",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/apple-pay-virtual-card/",
-      "angle": "Apple Pay and wallet expectations keep rising, but card setup still slows cross-border users.",
-      "copy": "Wallet expectations are rising.\n\nUsers expect checkout to feel instant, but card setup still slows many cross-border teams. RichXPay helps bridge that gap with a virtual card funded by USDT or USDC, ready for global spend and Apple Pay flows.",
-      "sourceTitles": [
-        "We’re adding 3 new ways to make web payments easier and more flexible."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-1-bootstrap",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": "2026-04-08T01:18:00.000Z",
-        "bufferPostId": "69d47d1c45bc467d3d928607",
-        "status": "scheduled"
       }
     }
   ]
