@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-25T10:08:53.742Z",
+  "generatedAt": "2026-04-25T10:31:01.364Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-3-1777111733742-0",
+      "id": "x-3-1777113061363-0",
       "platform": "x",
       "localTime": "18:18",
       "topicBucket": "ai-subscriptions",
       "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
       "hook": "AI tool adoption keeps growing.",
-      "copy": "AI tool adoption keeps growing. With the release of GPT-5.5, teams are scaling their AI seat counts. RichXPay ensures these subscriptions never lapse by using virtual cards funded via USDT or USDC.",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing GPT-5.5 AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC funding and a...",
       "sourceTitles": [
         "Introducing GPT-5.5",
         "GPT-5.5 System Card"
