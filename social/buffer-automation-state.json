@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-25",
+      "postId": "linkedin-6-1777126155971-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing GPT-5.5 Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "Introducing GPT-5.5",
+        "GPT-5.5 System Card"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1777126155971-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69eccb0c48db1c78e00a5e2b",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-25",
       "postId": "x-5-1777118525410-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2495,26 +2516,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": "2026-04-07T09:28:00.000Z",
         "text": "Cross-border payments are getting faster.\n\nThe user-facing side of global commerce keeps improving. Wallets are smoother, checkout is cleaner, and expectations are higher. The slower layer is often internal: funding, card access, and spend control.\n\nRichXPay is built for that layer. Teams can top up with USDT or USDC, issue a virtual card quickly, and use it for global software, services, and wallet-linked payments.\n\nhttps://www.richxpay.com/crypto-virtual-card/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_cross-border-payments_2026-04-07_slot4"
-      }
-    },
-    {
-      "date": "2026-04-07",
-      "postId": "x-5-bootstrap",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/crypto-virtual-card/",
-      "angle": "Paid media teams move faster when payments do not interrupt testing and scaling.",
-      "copy": "Paid media teams have more leverage than ever.\n\nBut leverage drops fast when payment setup slows down campaign changes. RichXPay helps teams fund spend with USDT or USDC and use a virtual card across ad accounts without extra banking friction.",
-      "sourceTitles": [
-        "Ads Decoded episode 5 navigates the challenges and impact of effective lead gen advertising."
-      ],
-      "result": {
-        "mode": "dry-run",
-        "platform": "x",
-        "postId": "x-5-bootstrap",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": "2026-04-07T12:36:00.000Z",
-        "text": "Paid media teams have more leverage than ever.\n\nBut leverage drops fast when payment setup slows down campaign changes. RichXPay helps teams fund spend with USDT or USDC and use a virtual card across ad accounts without extra banking friction.\n\nhttps://www.richxpay.com/crypto-virtual-card/?utm_source=x&utm_medium=social&utm_campaign=x_ad-spend_2026-04-07_slot5"
       }
     }
   ]
