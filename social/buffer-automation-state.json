@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-25",
+      "postId": "x-7-1777129508055-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. payment rails are improving but card access still blocks teams RichXPay fits...",
+      "sourceTitles": [
+        "Personalize your experience across Google based on your purchases, your way.",
+        "We’re adding 3 new ways to make web payments easier and more flexible."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1777129508055-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69ecd82448db1c78e00acdce",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-25",
       "postId": "linkedin-6-1777126155971-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2496,26 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": "2026-04-07T06:08:00.000Z",
         "text": "The AI subscription stack is getting crowded.\n\nAs teams add tools like ChatGPT Plus, recurring charges become an ops issue, not just a software issue. RichXPay makes it easier to fund and manage those payments with a global virtual card and USDT or USDC top-up.\n\nhttps://www.richxpay.com/chatgpt-plus-virtual-card/?utm_source=x&utm_medium=social&utm_campaign=x_ai-subscriptions_2026-04-07_slot3"
-      }
-    },
-    {
-      "date": "2026-04-07",
-      "postId": "linkedin-4-bootstrap",
-      "platform": "linkedin",
-      "topicBucket": "cross-border-payments",
-      "path": "/crypto-virtual-card/",
-      "angle": "Global payment rails are improving, but operational friction still sits at funding and card issuance.",
-      "copy": "Cross-border payments are getting faster.\n\nThe user-facing side of global commerce keeps improving. Wallets are smoother, checkout is cleaner, and expectations are higher. The slower layer is often internal: funding, card access, and spend control.\n\nRichXPay is built for that layer. Teams can top up with USDT or USDC, issue a virtual card quickly, and use it for global software, services, and wallet-linked payments.",
-      "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way."
-      ],
-      "result": {
-        "mode": "dry-run",
-        "platform": "linkedin",
-        "postId": "linkedin-4-bootstrap",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": "2026-04-07T09:28:00.000Z",
-        "text": "Cross-border payments are getting faster.\n\nThe user-facing side of global commerce keeps improving. Wallets are smoother, checkout is cleaner, and expectations are higher. The slower layer is often internal: funding, card access, and spend control.\n\nRichXPay is built for that layer. Teams can top up with USDT or USDC, issue a virtual card quickly, and use it for global software, services, and wallet-linked payments.\n\nhttps://www.richxpay.com/crypto-virtual-card/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_cross-border-payments_2026-04-07_slot4"
       }
     }
   ]
