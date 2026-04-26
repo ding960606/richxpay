@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-04-26T14:11:00.715Z",
+  "generatedAt": "2026-04-26T15:06:59.088Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-6-1777212660715-0",
-      "platform": "linkedin",
-      "localTime": "21:36",
-      "topicBucket": "ai-subscriptions",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "hook": "AI tool adoption keeps growing.",
-      "copy": "AI tool adoption keeps growing.\n\nIntroducing GPT-5.5 Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "id": "x-7-1777216019088-0",
+      "platform": "x",
+      "localTime": "23:18",
+      "topicBucket": "cross-border-payments",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "hook": "Cross-border payments are getting faster.",
+      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. payment rails are improving but card access still blocks teams RichXPay fits...",
       "sourceTitles": [
-        "Introducing GPT-5.5",
-        "GPT-5.5 System Card"
+        "Personalize your experience across Google based on your purchases, your way.",
+        "We’re adding 3 new ways to make web payments easier and more flexible."
       ],
-      "path": "/netflix-virtual-card/",
-      "landingTitle": "Netflix virtual card",
-      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
-      "campaign": "linkedin_ai-subscriptions_2026-04-26_slot6"
+      "path": "/",
+      "landingTitle": "RichXPay homepage",
+      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
+      "campaign": "x_cross-border-payments_2026-04-26_slot7"
     }
   ]
 }
