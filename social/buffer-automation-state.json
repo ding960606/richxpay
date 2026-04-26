@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-26",
+      "postId": "x-5-1777205201656-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nThere's a new playbook for partnering with creators on marketing campaigns. better ad tooling still needs cleaner billing and payment control RichXPay fits...",
+      "sourceTitles": [
+        "There's a new playbook for partnering with creators on marketing campaigns.",
+        "3 easy ways to shop for spring with Google"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1777205201656-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69edffd248db1c78e0126fb2",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-26",
       "postId": "x-3-1777198249314-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2497,27 +2518,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69d4a8d545bc467d3d932e2e",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-07",
-      "postId": "x-3-1775538328270-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/chatgpt-plus-virtual-card/",
-      "angle": "AI tool adoption is fast, but the payment setup behind those tools still needs work",
-      "copy": "Recurring AI costs are now operational costs.\n\nAnnouncing the OpenAI Safety Fellowship AI tool adoption is fast, but the payment setup behind those tools still needs work RichXPay fits that workflo...",
-      "sourceTitles": [
-        "Announcing the OpenAI Safety Fellowship",
-        "Industrial policy for the Intelligence Age"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1775538328270-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69d4909845bc467d3d92d9fb",
         "status": "sent"
       }
     }
