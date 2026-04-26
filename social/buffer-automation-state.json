@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-04-25",
+  "lastGeneratedDate": "2026-04-26",
   "history": [
+    {
+      "date": "2026-04-26",
+      "postId": "x-3-1777198249314-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing GPT-5.5 AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC funding and a...",
+      "sourceTitles": [
+        "Introducing GPT-5.5",
+        "GPT-5.5 System Card"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1777198249314-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69ede4a9e56655619b955b74",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-04-25",
       "postId": "linkedin-10-1777147311028-0",
@@ -2498,26 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "69d4909845bc467d3d92d9fb",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-07",
-      "postId": "x-1-bootstrap",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/apple-pay-virtual-card/",
-      "angle": "Apple Pay and wallet expectations keep rising, but card setup still slows cross-border users.",
-      "copy": "Wallet expectations are rising.\n\nUsers expect checkout to feel instant, but card setup still slows many cross-border teams. RichXPay helps bridge that gap with a virtual card funded by USDT or USDC, ready for global spend and Apple Pay flows.",
-      "sourceTitles": [
-        "We’re adding 3 new ways to make web payments easier and more flexible."
-      ],
-      "result": {
-        "mode": "dry-run",
-        "platform": "x",
-        "postId": "x-1-bootstrap",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": "2026-04-08T01:18:00.000Z",
-        "text": "Wallet expectations are rising.\n\nUsers expect checkout to feel instant, but card setup still slows many cross-border teams. RichXPay helps bridge that gap with a virtual card funded by USDT or USDC, ready for global spend and Apple Pay flows.\n\nhttps://www.richxpay.com/apple-pay-virtual-card/?utm_source=x&utm_medium=social&utm_campaign=x_cross-border-payments_2026-04-07_slot1"
       }
     }
   ]
