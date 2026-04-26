@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-26",
+      "postId": "x-7-1777219193080-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. payment rails are improving but card access still blocks teams RichXPay fits...",
+      "sourceTitles": [
+        "Personalize your experience across Google based on your purchases, your way.",
+        "We’re adding 3 new ways to make web payments easier and more flexible."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1777219193080-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69ee3679e56655619b97927d",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-04-26",
       "postId": "x-7-1777216019088-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
@@ -2497,27 +2518,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69d52a0ae4c7136df3bf6b8d",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-07",
-      "postId": "x-7-1775573708136-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/crypto-virtual-card/",
-      "angle": "cross-border operators need funding and spend to feel as fast as the products they buy",
-      "copy": "Global checkout is getting smoother.\n\nPersonalize your experience across Google based on your purchases, your way. cross-border operators need funding and spend to feel as fast as the products they...",
-      "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1775573708136-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69d51acca76a921743cf257d",
         "status": "sent"
       }
     }
