@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-26",
+      "postId": "linkedin-10-1777233833314-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Personalize your experience across Google based on your purchases, your way.",
+        "We’re adding 3 new ways to make web payments easier and more flexible."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1777233833314-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69ee6fa9e56655619b9954a9",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-26",
       "postId": "x-9-1777226835401-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2497,27 +2518,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69d54930183959944f4c6652",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-07",
-      "postId": "linkedin-8-1775580075133-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/crypto-virtual-card/",
-      "angle": "creative and campaign automation increase the need for reliable payment setup",
-      "copy": "Campaign automation is moving fast.\n\nUpgrade your creative performance with March’s Demand Gen Drop. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports english page for crypto-funded virtual cards, global saas tools, ad spend and wallet use cases.",
-      "sourceTitles": [
-        "Upgrade your creative performance with March’s Demand Gen Drop.",
-        "5 ways to collaborate with our agentic advisors"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-8-1775580075133-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69d533ab114d232c0968dbe2",
         "status": "sent"
       }
     }
