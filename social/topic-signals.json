@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T12:21:01.235Z",
+  "generatedAt": "2026-04-27T16:12:21.231Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "The next phase of the Microsoft OpenAI partnership",
+          "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+          "pubDate": "Mon, 27 Apr 2026 06:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Our principles",
           "link": "https://openai.com/index/our-principles",
           "pubDate": "Sun, 26 Apr 2026 16:00:00 GMT",
@@ -99,14 +105,8 @@
           "source": ""
         },
         {
-          "title": "Plugins and skills",
-          "link": "https://openai.com/academy/codex-plugins-and-skills",
-          "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "What is Codex?",
-          "link": "https://openai.com/academy/what-is-codex",
+          "title": "Working with Codex",
+          "link": "https://openai.com/academy/working-with-codex",
           "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
           "source": ""
         }

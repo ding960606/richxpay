@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-27T12:21:11.792Z",
+  "generatedAt": "2026-04-27T16:12:37.919Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-5-1777292471791-0",
-      "platform": "x",
-      "localTime": "20:48",
+      "id": "linkedin-8-1777306357919-0",
+      "platform": "linkedin",
+      "localTime": "00:06",
       "topicBucket": "ad-spend",
       "angle": "better ad tooling still needs cleaner billing and payment control",
       "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools.\n\nAlbertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite. better ad tooling still needs cleaner billing and payment c...",
+      "copy": "Ad platforms keep adding smarter tools.\n\nAlbertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
       "sourceTitles": [
         "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite.",
         "There's a new playbook for partnering with creators on marketing campaigns."
@@ -17,7 +17,7 @@
       "path": "/usdt-to-virtual-card/",
       "landingTitle": "USDT to virtual card",
       "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "x_ad-spend_2026-04-27_slot5"
+      "campaign": "linkedin_ad-spend_2026-04-27_slot8"
     }
   ]
 }
