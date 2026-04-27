@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T20:03:37.058Z",
+  "generatedAt": "2026-04-27T12:21:01.235Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite.",
+          "link": "https://blog.google/products/marketingplatform/360/albertsons-google-commerce-media-suite/",
+          "pubDate": "Mon, 27 Apr 2026 12:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "There's a new playbook for partnering with creators on marketing campaigns.",
           "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-creator-marketing/",
           "pubDate": "Thu, 23 Apr 2026 19:00:00 +0000",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
           "pubDate": "Tue, 21 Apr 2026 14:30:00 +0000",
           "source": ""
-        },
-        {
-          "title": "7 ways to travel smarter this summer, with help from Google",
-          "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-          "pubDate": "Fri, 17 Apr 2026 14:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -80,6 +80,12 @@
       "label": "AI subscriptions",
       "url": "https://openai.com/news/rss.xml",
       "items": [
+        {
+          "title": "Our principles",
+          "link": "https://openai.com/index/our-principles",
+          "pubDate": "Sun, 26 Apr 2026 16:00:00 GMT",
+          "source": ""
+        },
         {
           "title": "Introducing GPT-5.5",
           "link": "https://openai.com/index/introducing-gpt-5-5",
@@ -93,20 +99,14 @@
           "source": ""
         },
         {
-          "title": "Automations",
-          "link": "https://openai.com/academy/codex-automations",
-          "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Top 10 uses for Codex at work",
-          "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-          "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
           "title": "Plugins and skills",
           "link": "https://openai.com/academy/codex-plugins-and-skills",
+          "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "What is Codex?",
+          "link": "https://openai.com/academy/what-is-codex",
           "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
           "source": ""
         }

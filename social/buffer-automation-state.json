@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-04-26",
+  "lastGeneratedDate": "2026-04-27",
   "history": [
+    {
+      "date": "2026-04-27",
+      "postId": "x-5-1777292471791-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nAlbertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite. better ad tooling still needs cleaner billing and payment c...",
+      "sourceTitles": [
+        "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite.",
+        "There's a new playbook for partnering with creators on marketing campaigns."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1777292471791-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69ef54b80a1f209cc74398c2",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-04-26",
       "postId": "linkedin-10-1777233833314-0",
@@ -2497,27 +2518,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69d55eac114d232c0969e643",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-07",
-      "postId": "x-9-1775585584276-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "subscription growth around AI products raises the value of flexible virtual cards",
-      "copy": "The AI subscription stack is getting crowded.\n\nAnnouncing the OpenAI Safety Fellowship subscription growth around AI products raises the value of flexible virtual cards RichXPay fits that workflow...",
-      "sourceTitles": [
-        "Announcing the OpenAI Safety Fellowship",
-        "Industrial policy for the Intelligence Age"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1775585584276-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69d54930183959944f4c6652",
         "status": "sent"
       }
     }
