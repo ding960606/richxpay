@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T16:12:21.231Z",
+  "generatedAt": "2026-04-27T17:47:47.930Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -87,27 +87,27 @@
           "source": ""
         },
         {
+          "title": "An open-source spec for orchestration: Symphony",
+          "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
+          "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Choco automates food distribution with AI agents",
+          "link": "https://openai.com/index/choco",
+          "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Our principles",
           "link": "https://openai.com/index/our-principles",
           "pubDate": "Sun, 26 Apr 2026 16:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Introducing GPT-5.5",
-          "link": "https://openai.com/index/introducing-gpt-5-5",
-          "pubDate": "Thu, 23 Apr 2026 11:00:00 GMT",
-          "source": ""
-        },
-        {
           "title": "GPT-5.5 System Card",
           "link": "https://openai.com/index/gpt-5-5-system-card",
           "pubDate": "Thu, 23 Apr 2026 11:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Working with Codex",
-          "link": "https://openai.com/academy/working-with-codex",
-          "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
           "source": ""
         }
       ]
