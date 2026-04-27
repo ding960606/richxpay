@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-27T17:48:03.421Z",
+  "generatedAt": "2026-04-27T17:52:55.034Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-9-1777312083421-0",
+      "id": "x-9-1777312375034-0",
       "platform": "x",
       "localTime": "02:18",
       "topicBucket": "ai-subscriptions",
       "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
       "hook": "AI tool adoption keeps growing.",
-      "copy": "AI tool adoption keeps growing.\n\nWith the rise of AI agents and orchestration, teams are managing more recurring subscriptions than ever. RichXPay offers virtual cards funded via USDT or USDC.",
+      "copy": "AI tool adoption keeps growing.\n\nAs teams shift toward AI orchestration and agents, the volume of recurring software spend scales fast. RichXPay provides virtual cards funded with USDT or USDC.",
       "sourceTitles": [
         "The next phase of the Microsoft OpenAI partnership",
         "An open-source spec for orchestration: Symphony"
