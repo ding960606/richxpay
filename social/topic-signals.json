@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-04-27T19:59:02.740Z",
+  "generatedAt": "2026-04-28T13:18:39.929Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
       "label": "Cross-border payments",
       "url": "https://blog.google/products/google-pay/rss/",
       "items": [
+        {
+          "title": "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+          "link": "https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/",
+          "pubDate": "Tue, 28 Apr 2026 13:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Expanding digital IDs in India and around the world",
+          "link": "https://blog.google/products-and-platforms/platforms/google-pay/aadhaar-digital-id/",
+          "pubDate": "Tue, 28 Apr 2026 04:30:00 +0000",
+          "source": ""
+        },
         {
           "title": "Personalize your experience across Google based on your purchases, your way.",
           "link": "https://blog.google/products-and-platforms/platforms/google-pay/payments-personalized-content-purchases/",
@@ -23,18 +35,6 @@
           "link": "https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-age-identity-verifications/",
           "pubDate": "Tue, 29 Apr 2025 16:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Google Wallet launches new feature for kids to securely pay and store passes.",
-          "link": "https://blog.google/feed/google-wallet-for-kids-family-link/",
-          "pubDate": "Wed, 19 Mar 2025 14:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "New ways to holiday shop with Google Lens, Maps and more",
-          "link": "https://blog.google/products-and-platforms/products/shopping/google-maps-lens-holiday-shopping/",
-          "pubDate": "Tue, 19 Nov 2024 14:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -43,6 +43,12 @@
       "label": "Ad spend and paid media",
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
+        {
+          "title": "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+          "link": "https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/",
+          "pubDate": "Tue, 28 Apr 2026 13:00:00 +0000",
+          "source": ""
+        },
         {
           "title": "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite.",
           "link": "https://blog.google/products/marketingplatform/360/albertsons-google-commerce-media-suite/",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products/ads-commerce/demand-gen-drop-april-2026/",
           "pubDate": "Thu, 23 Apr 2026 16:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-          "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-          "pubDate": "Tue, 21 Apr 2026 14:30:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -80,6 +80,12 @@
       "label": "AI subscriptions",
       "url": "https://openai.com/news/rss.xml",
       "items": [
+        {
+          "title": "OpenAI available at FedRAMP Moderate",
+          "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+          "pubDate": "Mon, 27 Apr 2026 14:00:00 GMT",
+          "source": ""
+        },
         {
           "title": "The next phase of the Microsoft OpenAI partnership",
           "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
@@ -102,12 +108,6 @@
           "title": "Our principles",
           "link": "https://openai.com/index/our-principles",
           "pubDate": "Sun, 26 Apr 2026 16:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "GPT-5.5 System Card",
-          "link": "https://openai.com/index/gpt-5-5-system-card",
-          "pubDate": "Thu, 23 Apr 2026 11:00:00 GMT",
           "source": ""
         }
       ]
