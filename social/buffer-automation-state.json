@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-28",
+      "postId": "linkedin-8-1777393160021-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1777393160021-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69f0de08b85bfdc31a567e0b",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-28",
       "postId": "linkedin-6-1777382337142-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2497,27 +2518,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69d66c7a381714b6fc585cbd",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-08",
-      "postId": "linkedin-4-1775648102861-0",
-      "platform": "linkedin",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
-      "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-4-1775648102861-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69d63d670b07594bdfef99d1",
         "status": "sent"
       }
     }
