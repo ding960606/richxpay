@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-29T12:08:48.236Z",
+  "generatedAt": "2026-04-29T16:18:26.768Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-5-1777464528235-0",
-      "platform": "x",
-      "localTime": "20:48",
+      "id": "linkedin-8-1777479506768-0",
+      "platform": "linkedin",
+      "localTime": "00:06",
       "topicBucket": "ad-spend",
       "angle": "better ad tooling still needs cleaner billing and payment control",
       "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. better ad tooling still needs cleaner billing...",
+      "copy": "Ad platforms keep adding smarter tools.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
       "sourceTitles": [
         "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
         "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite."
@@ -17,7 +17,7 @@
       "path": "/usdt-to-virtual-card/",
       "landingTitle": "USDT to virtual card",
       "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "x_ad-spend_2026-04-29_slot5"
+      "campaign": "linkedin_ad-spend_2026-04-29_slot8"
     }
   ]
 }
