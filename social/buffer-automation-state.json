@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-04-28",
+  "lastGeneratedDate": "2026-04-29",
   "history": [
+    {
+      "date": "2026-04-29",
+      "postId": "x-5-1777464528235-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. better ad tooling still needs cleaner billing...",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1777464528235-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69f1f4d0b85bfdc31a5ea55e",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-04-28",
       "postId": "linkedin-10-1777403497918-0",
@@ -2497,27 +2518,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69d6b1265a0a0bb5958be4f8",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-08",
-      "postId": "x-9-1775670207012-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nIntroducing the Child Safety Blueprint AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or...",
-      "sourceTitles": [
-        "Introducing the Child Safety Blueprint",
-        "Announcing the OpenAI Safety Fellowship"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1775670207012-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69d693bf4f386a1c7570aeaf",
         "status": "sent"
       }
     }

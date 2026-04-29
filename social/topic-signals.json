@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T19:11:26.778Z",
+  "generatedAt": "2026-04-29T12:08:35.509Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,18 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Cybersecurity in the Intelligence Age",
+          "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+          "pubDate": "Wed, 29 Apr 2026 04:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Our commitment to community safety",
+          "link": "https://openai.com/index/our-commitment-to-community-safety",
+          "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "OpenAI models, Codex, and Managed Agents come to AWS",
           "link": "https://openai.com/index/openai-on-aws",
           "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
@@ -96,18 +108,6 @@
           "title": "The next phase of the Microsoft OpenAI partnership",
           "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
           "pubDate": "Mon, 27 Apr 2026 06:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "An open-source spec for orchestration: Symphony",
-          "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
-          "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Choco automates food distribution with AI agents",
-          "link": "https://openai.com/index/choco",
-          "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
           "source": ""
         }
       ]
