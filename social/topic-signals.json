@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T20:03:30.301Z",
+  "generatedAt": "2026-04-30T12:04:52.486Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,18 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Where the goblins came from",
+          "link": "https://openai.com/index/where-the-goblins-came-from",
+          "pubDate": "Wed, 29 Apr 2026 20:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Building the compute infrastructure for the Intelligence Age",
+          "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+          "pubDate": "Wed, 29 Apr 2026 15:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Cybersecurity in the Intelligence Age",
           "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
           "pubDate": "Wed, 29 Apr 2026 04:00:00 GMT",
@@ -96,18 +108,6 @@
           "title": "OpenAI models, Codex, and Managed Agents come to AWS",
           "link": "https://openai.com/index/openai-on-aws",
           "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "OpenAI available at FedRAMP Moderate",
-          "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
-          "pubDate": "Mon, 27 Apr 2026 14:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "The next phase of the Microsoft OpenAI partnership",
-          "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
-          "pubDate": "Mon, 27 Apr 2026 06:00:00 GMT",
           "source": ""
         }
       ]
