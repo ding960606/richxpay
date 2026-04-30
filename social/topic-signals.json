@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T12:04:52.486Z",
+  "generatedAt": "2026-04-30T13:10:14.288Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,24 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Adapt your Shopping campaigns to modern Search with AI Max.",
+          "link": "https://blog.google/products/ads-commerce/ai-max-for-shopping/",
+          "pubDate": "Thu, 30 Apr 2026 13:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Meet travelers in the moments that matter with Search Campaigns for Travel.",
+          "link": "https://blog.google/products/ads-commerce/ai-max-for-travel/",
+          "pubDate": "Thu, 30 Apr 2026 13:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "AI Max Turns 1 with new ways to steer performance and expansion to more advertisers",
+          "link": "https://blog.google/products/ads-commerce/ai-max-new-features/",
+          "pubDate": "Thu, 30 Apr 2026 13:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
           "link": "https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/",
           "pubDate": "Tue, 28 Apr 2026 13:00:00 +0000",
@@ -53,24 +71,6 @@
           "title": "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite.",
           "link": "https://blog.google/products/marketingplatform/360/albertsons-google-commerce-media-suite/",
           "pubDate": "Mon, 27 Apr 2026 12:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "There's a new playbook for partnering with creators on marketing campaigns.",
-          "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-creator-marketing/",
-          "pubDate": "Thu, 23 Apr 2026 19:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "3 easy ways to shop for spring with Google",
-          "link": "https://blog.google/products-and-platforms/products/search/spring-fashion-shopping-tips/",
-          "pubDate": "Thu, 23 Apr 2026 16:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Convert faster on YouTube with April’s Demand Gen Drop.",
-          "link": "https://blog.google/products/ads-commerce/demand-gen-drop-april-2026/",
-          "pubDate": "Thu, 23 Apr 2026 16:00:00 +0000",
           "source": ""
         }
       ]

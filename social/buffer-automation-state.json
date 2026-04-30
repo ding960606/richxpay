@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-04-30",
+      "postId": "x-5-1777554628588-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nAdapt your Shopping campaigns to modern Search with AI Max. better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow wi...",
+      "sourceTitles": [
+        "Adapt your Shopping campaigns to modern Search with AI Max.",
+        "Meet travelers in the moments that matter with Search Campaigns for Travel."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1777554628588-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69f354c564f99768ec963af4",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-04-30",
       "postId": "x-5-1777550702094-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2497,27 +2518,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69d8041c0ab11e6535d19dd1",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-09",
-      "postId": "x-9-1775756450134-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI Full Fan Mode Contest: Terms & Conditions AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow wit...",
-      "sourceTitles": [
-        "OpenAI Full Fan Mode Contest: Terms & Conditions",
-        "The next phase of enterprise AI"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1775756450134-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69d7e4a245a38cc45be24c93",
         "status": "sent"
       }
     }
