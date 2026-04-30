@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T16:09:37.502Z",
+  "generatedAt": "2026-04-30T17:51:11.878Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Introducing Advanced Account Security",
+          "link": "https://openai.com/index/advanced-account-security",
+          "pubDate": "Thu, 30 Apr 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Where the goblins came from",
           "link": "https://openai.com/index/where-the-goblins-came-from",
           "pubDate": "Wed, 29 Apr 2026 20:00:00 GMT",
@@ -96,12 +102,6 @@
           "title": "Cybersecurity in the Intelligence Age",
           "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
           "pubDate": "Wed, 29 Apr 2026 04:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Our commitment to community safety",
-          "link": "https://openai.com/index/our-commitment-to-community-safety",
-          "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
           "source": ""
         },
         {
