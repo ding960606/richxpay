@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-04-30",
+  "lastGeneratedDate": "2026-05-01",
   "history": [
+    {
+      "date": "2026-05-01",
+      "postId": "x-3-1777626802406-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\nAs OpenAI scales its infrastructure, teams are adding more recurring subscriptions.\nRichXPay provides virtual cards funded with USDT/USDC for stable AI tool payments.",
+      "sourceTitles": [
+        "Introducing Advanced Account Security",
+        "Building the compute infrastructure for the Intelligence Age"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1777626802406-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69f46eb3119fdbee65af3d6b",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-04-30",
       "postId": "linkedin-10-1777579335094-0",
@@ -2497,27 +2518,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69d9271a772b80f4ce19939d",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-10",
-      "postId": "x-7-1775831817250-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. payment rails are improving but card access still blocks teams RichXPay fits...",
-      "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1775831817250-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69d90b093a4890ca51647386",
         "status": "sent"
       }
     }

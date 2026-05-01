@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T20:02:00.581Z",
+  "generatedAt": "2026-05-01T09:13:12.526Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -105,8 +105,8 @@
           "source": ""
         },
         {
-          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-          "link": "https://openai.com/index/openai-on-aws",
+          "title": "Our commitment to community safety",
+          "link": "https://openai.com/index/our-commitment-to-community-safety",
           "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
           "source": ""
         }
