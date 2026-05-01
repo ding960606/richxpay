@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-05-01T09:13:22.406Z",
+  "generatedAt": "2026-05-01T09:55:12.965Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-3-1777626802406-0",
+      "id": "x-3-1777629312965-0",
       "platform": "x",
       "localTime": "18:18",
       "topicBucket": "ai-subscriptions",
       "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
       "hook": "AI tool adoption keeps growing.",
-      "copy": "AI tool adoption keeps growing.\nAs OpenAI scales its infrastructure, teams are adding more recurring subscriptions.\nRichXPay provides virtual cards funded with USDT/USDC for stable AI tool payments.",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing Advanced Account Security AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or U...",
       "sourceTitles": [
         "Introducing Advanced Account Security",
-        "Building the compute infrastructure for the Intelligence Age"
+        "Where the goblins came from"
       ],
       "path": "/netflix-virtual-card/",
       "landingTitle": "Netflix virtual card",

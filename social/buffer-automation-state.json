@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-01",
+      "postId": "x-3-1777629312965-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing Advanced Account Security AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or U...",
+      "sourceTitles": [
+        "Introducing Advanced Account Security",
+        "Where the goblins came from"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1777629312965-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69f4788156c824579ee733d3",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-01",
       "postId": "x-3-1777626802406-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2497,27 +2518,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69d93b24772b80f4ce19ff42",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-10",
-      "postId": "linkedin-8-1775839002482-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nAI is changing retail. Here’s how businesses can keep up. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
-      "sourceTitles": [
-        "AI is changing retail. Here’s how businesses can keep up.",
-        "Upgrade your creative performance with March’s Demand Gen Drop."
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-8-1775839002482-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69d9271a772b80f4ce19939d",
         "status": "sent"
       }
     }
