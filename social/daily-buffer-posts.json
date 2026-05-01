@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-01T12:04:19.774Z",
+  "generatedAt": "2026-05-01T14:09:01.122Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-5-1777637059774-0",
-      "platform": "x",
-      "localTime": "20:48",
-      "topicBucket": "ad-spend",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools.\n\nAdapt your Shopping campaigns to modern Search with AI Max. better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow wi...",
+      "id": "linkedin-6-1777644541122-0",
+      "platform": "linkedin",
+      "localTime": "21:36",
+      "topicBucket": "ai-subscriptions",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "hook": "AI tool adoption keeps growing.",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing Advanced Account Security Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
       "sourceTitles": [
-        "Adapt your Shopping campaigns to modern Search with AI Max.",
-        "Meet travelers in the moments that matter with Search Campaigns for Travel."
+        "Introducing Advanced Account Security",
+        "Where the goblins came from"
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "x_ad-spend_2026-05-01_slot5"
+      "path": "/netflix-virtual-card/",
+      "landingTitle": "Netflix virtual card",
+      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
+      "campaign": "linkedin_ai-subscriptions_2026-05-01_slot6"
     }
   ]
 }
