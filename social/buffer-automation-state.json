@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-02",
+      "postId": "linkedin-10-1777749464430-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1777749464430-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69f64dd9ebb6d538a0dc4559",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-02",
       "postId": "linkedin-8-1777737766897-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2496,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69db8a1f2096be6bcd92baa8",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-12",
-      "postId": "linkedin-4-1775994680514-0",
-      "platform": "linkedin",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
-      "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-4-1775994680514-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69db87382096be6bcd92a5c5",
         "status": "sent"
       }
     }
