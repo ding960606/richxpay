@@ -3,6 +3,26 @@
   "history": [
     {
       "date": "2026-05-02",
+      "postId": "x-7-1777732282694-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster. New protocols support the future of agentic payments, but teams still need a card layer to fund global tools today. RichXPay bridges USDT to virtual cards.",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1777732282694-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69f60abbb2bf116e3e472cb6",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-02",
       "postId": "linkedin-6-1777730468029-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2497,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69db6f932096be6bcd9241f5",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-12",
-      "postId": "x-3-1775988186018-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing. Marketing teams are now scaling usage with ChatGPT Projects. RichXPay offers virtual cards funded by USDT and USDC to manage these recurring subscriptions globally.",
-      "sourceTitles": [
-        "ChatGPT for marketing teams",
-        "Using projects in ChatGPT"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1775988186018-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69db6dda3a4890ca516ff337",
         "status": "sent"
       }
     }

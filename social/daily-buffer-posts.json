@@ -1,23 +1,22 @@
 {
-  "generatedAt": "2026-05-02T14:01:08.029Z",
+  "generatedAt": "2026-05-02T14:31:22.695Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-6-1777730468029-0",
-      "platform": "linkedin",
-      "localTime": "21:36",
-      "topicBucket": "ai-subscriptions",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "hook": "AI tool adoption keeps growing.",
-      "copy": "AI tool adoption keeps growing.\n\nIntroducing Advanced Account Security Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "id": "x-7-1777732282694-0",
+      "platform": "x",
+      "localTime": "23:18",
+      "topicBucket": "cross-border-payments",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "hook": "Cross-border payments are getting faster.",
+      "copy": "Cross-border payments are getting faster. New protocols support the future of agentic payments, but teams still need a card layer to fund global tools today. RichXPay bridges USDT to virtual cards.",
       "sourceTitles": [
-        "Introducing Advanced Account Security",
-        "Where the goblins came from"
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
       ],
-      "path": "/netflix-virtual-card/",
-      "landingTitle": "Netflix virtual card",
-      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
-      "campaign": "linkedin_ai-subscriptions_2026-05-02_slot6"
+      "path": "/",
+      "landingTitle": "RichXPay homepage",
+      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
+      "campaign": "x_cross-border-payments_2026-05-02_slot7"
     }
   ]
 }
