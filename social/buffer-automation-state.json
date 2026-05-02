@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-02",
+      "postId": "linkedin-8-1777737766897-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nAdapt your Shopping campaigns to modern Search with AI Max. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Adapt your Shopping campaigns to modern Search with AI Max.",
+        "Meet travelers in the moments that matter with Search Campaigns for Travel."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1777737766897-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69f62027ebb6d538a0da50d4",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-02",
       "postId": "x-7-1777732282694-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
@@ -2496,27 +2517,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69db87382096be6bcd92a5c5",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-12",
-      "postId": "x-3-1775988626167-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nUsing projects in ChatGPT AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC funding...",
-      "sourceTitles": [
-        "Using projects in ChatGPT",
-        "ChatGPT for marketing teams"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1775988626167-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69db6f932096be6bcd9241f5",
         "status": "sent"
       }
     }
