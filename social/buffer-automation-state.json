@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-03",
+      "postId": "x-3-1777801123328-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing Advanced Account Security AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or U...",
+      "sourceTitles": [
+        "Introducing Advanced Account Security",
+        "Where the goblins came from"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1777801123328-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69f717a3766f329adc20e731",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-03",
       "postId": "linkedin-2-1777798733767-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2496,27 +2517,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69dbd15c2096be6bcd94ad95",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-12",
-      "postId": "x-7-1776006077080-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. payment rails are improving but card access still blocks teams RichXPay fits...",
-      "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1776006077080-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69dbb3bd2096be6bcd93c761",
         "status": "sent"
       }
     }
