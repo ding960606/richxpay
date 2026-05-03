@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-03",
+      "postId": "linkedin-10-1777835885419-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1777835885419-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69f79f6e766f329adc26a893",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-03",
       "postId": "linkedin-8-1777824163785-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2496,27 +2517,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69dd13463140cb680a2dec50",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-13",
-      "postId": "x-7-1776092738877-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster. Google Pay is making web checkouts more flexible, but card access still blocks global teams. RichXPay provides virtual cards funded by USDT and USDC.",
-      "sourceTitles": [
-        "We’re adding 3 new ways to make web payments easier and more flexible.",
-        "Personalize your experience across Google based on your purchases, your way."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1776092738877-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69dd06437b60051380374e47",
         "status": "sent"
       }
     }
