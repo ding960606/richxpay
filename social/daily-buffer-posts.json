@@ -1,17 +1,18 @@
 {
-  "generatedAt": "2026-05-04T14:58:01.736Z",
+  "generatedAt": "2026-05-04T15:33:03.365Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-7-1777906681736-0",
+      "id": "x-7-1777908783365-0",
       "platform": "x",
       "localTime": "23:18",
       "topicBucket": "cross-border-payments",
       "angle": "payment rails are improving but card access still blocks teams",
       "hook": "Cross-border payments are getting faster.",
-      "copy": "Cross-border payments are getting faster. New standards for agentic payments are coming, but operators still face card declines for global SaaS. RichXPay bridges USDT to virtual cards.",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. payment rails are improving but card access...",
       "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
       ],
       "path": "/",
       "landingTitle": "RichXPay homepage",
