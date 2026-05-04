@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-04",
+      "postId": "x-5-1777896316303-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nAdapt your Shopping campaigns to modern Search with AI Max. better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow wi...",
+      "sourceTitles": [
+        "Adapt your Shopping campaigns to modern Search with AI Max.",
+        "Meet travelers in the moments that matter with Search Campaigns for Travel."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1777896316303-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69f88b7c766f329adc2f021c",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-04",
       "postId": "x-3-1777887140010-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2496,27 +2517,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69dd492413a26337f92fff30",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-13",
-      "postId": "x-9-1776102011761-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nEnterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI AI adoption creates more recurring subscriptions that need a reliable payment layer RichXP...",
-      "sourceTitles": [
-        "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-        "ChatGPT for operations teams"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1776102011761-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69dd2a7c4d5f8ae8cf3ca2b6",
         "status": "sent"
       }
     }
