@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-04",
+      "postId": "x-9-1777916968750-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing Advanced Account Security AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or U...",
+      "sourceTitles": [
+        "Introducing Advanced Account Security",
+        "Where the goblins came from"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1777916968750-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69f8dc29f83c0f198ab6db2c",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-04",
       "postId": "linkedin-8-1777914217111-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2495,27 +2516,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69de7dccb7809a30a62e2a11",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-14",
-      "postId": "linkedin-8-1776185030536-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nAI is changing retail. Here’s how businesses can keep up. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
-      "sourceTitles": [
-        "AI is changing retail. Here’s how businesses can keep up.",
-        "Upgrade your creative performance with March’s Demand Gen Drop."
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-8-1776185030536-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69de6ec72e7a127b9a49162b",
         "status": "sent"
       }
     }
