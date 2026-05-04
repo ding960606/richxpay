@@ -3,6 +3,26 @@
   "history": [
     {
       "date": "2026-05-04",
+      "postId": "x-7-1777906681736-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster. New standards for agentic payments are coming, but operators still face card declines for global SaaS. RichXPay bridges USDT to virtual cards.",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1777906681736-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69f8b3fa766f329adc308146",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-04",
       "postId": "x-5-1777896316303-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2496,27 +2516,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69de22e22b791741aa3f2276",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-13",
-      "postId": "linkedin-10-1776109859693-0",
-      "platform": "linkedin",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
-      "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-10-1776109859693-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69dd492413a26337f92fff30",
         "status": "sent"
       }
     }
