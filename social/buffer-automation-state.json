@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-05",
+      "postId": "x-5-1777983043503-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools. Features like AI Max help scale campaigns, but scaling only works if your billing doesn't break. RichXPay lets you fund virtual cards with USDT for Google Ads.",
+      "sourceTitles": [
+        "AI Max Turns 1 with new ways to steer performance and expansion to more advertisers",
+        "Adapt your Shopping campaigns to modern Search with AI Max."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1777983043503-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69f9de44389ce4741d3cea41",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-05",
       "postId": "linkedin-4-1777981098043-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2495,27 +2516,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69dfb9ea88d3003198b3b3ad",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-15",
-      "postId": "x-7-1776265134628-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. payment rails are improving but card access still blocks teams RichXPay fits...",
-      "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1776265134628-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69dfa7afd3d7c06f753456e9",
         "status": "sent"
       }
     }
