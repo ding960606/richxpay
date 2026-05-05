@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T16:56:57.915Z",
+  "generatedAt": "2026-05-05T17:45:38.302Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,18 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "GPT-5.5 Instant System Card",
+          "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+          "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+          "link": "https://openai.com/index/gpt-5-5-instant",
+          "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
           "link": "https://openai.com/index/openai-pwc-finance-collaboration",
           "pubDate": "Mon, 04 May 2026 21:00:00 GMT",
@@ -96,18 +108,6 @@
           "title": "Introducing Advanced Account Security",
           "link": "https://openai.com/index/advanced-account-security",
           "pubDate": "Thu, 30 Apr 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Where the goblins came from",
-          "link": "https://openai.com/index/where-the-goblins-came-from",
-          "pubDate": "Wed, 29 Apr 2026 20:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Building the compute infrastructure for the Intelligence Age",
-          "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-          "pubDate": "Wed, 29 Apr 2026 15:00:00 GMT",
           "source": ""
         }
       ]
