@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-05-05T09:23:44.215Z",
+  "generatedAt": "2026-05-05T10:10:10.982Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-3-1777973024214-0",
+      "id": "x-3-1777975810982-0",
       "platform": "x",
       "localTime": "18:18",
       "topicBucket": "ai-subscriptions",
       "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
       "hook": "AI tool adoption keeps growing.",
-      "copy": "AI tool adoption keeps growing. As OpenAI scales voice AI and enterprise access, managing recurring billing becomes a bottleneck for global teams. RichXPay enables virtual cards via USDT top-up.",
+      "copy": "AI tool adoption keeps growing.\n\nOpenAI and PwC collaborate to reimagine the office of the CFO AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that...",
       "sourceTitles": [
-        "How OpenAI delivers low-latency voice AI at scale",
-        "OpenAI and PwC collaborate to reimagine the office of the CFO"
+        "OpenAI and PwC collaborate to reimagine the office of the CFO",
+        "How OpenAI delivers low-latency voice AI at scale"
       ],
       "path": "/netflix-virtual-card/",
       "landingTitle": "Netflix virtual card",
