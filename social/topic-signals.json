@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T16:55:53.953Z",
+  "generatedAt": "2026-05-06T17:49:17.547Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,9 +81,21 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Introducing ChatGPT Futures: Class of 2026",
+          "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+          "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "How frontier enterprises are building an AI advantage",
           "link": "https://openai.com/index/introducing-b2b-signals",
           "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+          "link": "https://openai.com/index/gpt-5-5-instant",
+          "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
           "source": ""
         },
         {
@@ -96,18 +108,6 @@
           "title": "GPT-5.5 Instant System Card",
           "link": "https://openai.com/index/gpt-5-5-instant-system-card",
           "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-          "link": "https://openai.com/index/gpt-5-5-instant",
-          "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "New ways to buy ChatGPT ads",
-          "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-          "pubDate": "Tue, 05 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]
