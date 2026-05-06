@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T17:49:17.547Z",
+  "generatedAt": "2026-05-06T20:00:32.853Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -93,6 +93,12 @@
           "source": ""
         },
         {
+          "title": "GPT-5.5 Instant System Card",
+          "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+          "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
           "link": "https://openai.com/index/gpt-5-5-instant",
           "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
@@ -101,12 +107,6 @@
         {
           "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
           "link": "https://openai.com/index/mrc-supercomputer-networking",
-          "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "GPT-5.5 Instant System Card",
-          "link": "https://openai.com/index/gpt-5-5-instant-system-card",
           "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
           "source": ""
         }
