@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T09:37:34.179Z",
+  "generatedAt": "2026-05-06T12:05:34.041Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,14 +81,20 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-          "link": "https://openai.com/index/gpt-5-5-instant",
+          "title": "GPT-5.5 Instant System Card",
+          "link": "https://openai.com/index/gpt-5-5-instant-system-card",
           "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
           "source": ""
         },
         {
-          "title": "GPT-5.5 Instant System Card",
-          "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+          "link": "https://openai.com/index/mrc-supercomputer-networking",
+          "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+          "link": "https://openai.com/index/gpt-5-5-instant",
           "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
           "source": ""
         },
@@ -102,12 +108,6 @@
           "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
           "link": "https://openai.com/index/openai-pwc-finance-collaboration",
           "pubDate": "Mon, 04 May 2026 21:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "How OpenAI delivers low-latency voice AI at scale",
-          "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-          "pubDate": "Mon, 04 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]
