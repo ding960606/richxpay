@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T15:15:58.083Z",
+  "generatedAt": "2026-05-06T16:55:53.953Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "5 gardening tips you can try right in Search",
+          "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+          "pubDate": "Wed, 06 May 2026 16:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "AI is reshaping ad creative. Here’s how brands can get it right.",
           "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-ai-creative/",
           "pubDate": "Wed, 06 May 2026 13:00:00 +0000",
@@ -64,12 +70,6 @@
         {
           "title": "Meet travelers in the moments that matter with Search Campaigns for Travel.",
           "link": "https://blog.google/products/ads-commerce/ai-max-for-travel/",
-          "pubDate": "Thu, 30 Apr 2026 13:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "AI Max Turns 1 with new ways to steer performance and expansion to more advertisers",
-          "link": "https://blog.google/products/ads-commerce/ai-max-new-features/",
           "pubDate": "Thu, 30 Apr 2026 13:00:00 +0000",
           "source": ""
         }

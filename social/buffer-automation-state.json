@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-06",
+      "postId": "linkedin-8-1778086946588-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\n5 gardening tips you can try right in Search Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "5 gardening tips you can try right in Search",
+        "AI is reshaping ad creative. Here’s how brands can get it right."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1778086946588-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69fb7423f0e28329883eecc2",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-06",
       "postId": "x-7-1778080573993-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
@@ -2495,27 +2516,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69e2167b768a101032c04d5a",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-17",
-      "postId": "x-3-1776422566105-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nCodex for (almost) everything AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC fund...",
-      "sourceTitles": [
-        "Codex for (almost) everything",
-        "Introducing GPT-Rosalind for life sciences research"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1776422566105-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69e20ea6768a101032c01888",
         "status": "sent"
       }
     }
