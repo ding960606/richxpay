@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T19:51:57.144Z",
+  "generatedAt": "2026-05-06T09:37:34.179Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,14 +81,14 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "GPT-5.5 Instant System Card",
-          "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+          "link": "https://openai.com/index/gpt-5-5-instant",
           "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
           "source": ""
         },
         {
-          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-          "link": "https://openai.com/index/gpt-5-5-instant",
+          "title": "GPT-5.5 Instant System Card",
+          "link": "https://openai.com/index/gpt-5-5-instant-system-card",
           "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
           "source": ""
         },
