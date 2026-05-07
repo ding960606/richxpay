@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-05-06",
+  "lastGeneratedDate": "2026-05-07",
   "history": [
+    {
+      "date": "2026-05-07",
+      "postId": "x-3-1778147209599-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing ChatGPT Futures: Class of 2026 AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT...",
+      "sourceTitles": [
+        "Introducing ChatGPT Futures: Class of 2026",
+        "How frontier enterprises are building an AI advantage"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1778147209599-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69fc5f8a204cad250d5c8e98",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-05-06",
       "postId": "linkedin-10-1778097647627-0",
@@ -2495,27 +2516,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69e27733d1c21d4fa31ed498",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-17",
-      "postId": "linkedin-8-1776442525965-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nGemini is stopping harmful ads before people ever see them Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
-      "sourceTitles": [
-        "Gemini is stopping harmful ads before people ever see them",
-        "We’re upgrading Dynamic Search Ads to AI Max"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-8-1776442525965-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69e25c9e28421fc843b4393f",
         "status": "sent"
       }
     }
