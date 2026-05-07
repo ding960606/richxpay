@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T09:46:48.944Z",
+  "generatedAt": "2026-05-07T12:05:26.344Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,14 +81,14 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Introducing ChatGPT Futures: Class of 2026",
-          "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-          "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
+          "title": "Parloa builds service agents customers want to talk to",
+          "link": "https://openai.com/index/parloa",
+          "pubDate": "Thu, 07 May 2026 11:00:00 GMT",
           "source": ""
         },
         {
-          "title": "How frontier enterprises are building an AI advantage",
-          "link": "https://openai.com/index/introducing-b2b-signals",
+          "title": "Introducing ChatGPT Futures: Class of 2026",
+          "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
           "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
           "source": ""
         },
@@ -99,15 +99,15 @@
           "source": ""
         },
         {
-          "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-          "link": "https://openai.com/index/singular-bank",
+          "title": "How frontier enterprises are building an AI advantage",
+          "link": "https://openai.com/index/introducing-b2b-signals",
           "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-          "link": "https://openai.com/index/mrc-supercomputer-networking",
-          "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
+          "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+          "link": "https://openai.com/index/singular-bank",
+          "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]

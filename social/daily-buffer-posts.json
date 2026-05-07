@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-07T09:46:49.599Z",
+  "generatedAt": "2026-05-07T12:05:27.107Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-3-1778147209599-0",
+      "id": "x-5-1778155527107-0",
       "platform": "x",
-      "localTime": "18:18",
-      "topicBucket": "ai-subscriptions",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "hook": "AI tool adoption keeps growing.",
-      "copy": "AI tool adoption keeps growing.\n\nIntroducing ChatGPT Futures: Class of 2026 AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT...",
+      "localTime": "20:48",
+      "topicBucket": "ad-spend",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "hook": "Ad platforms keep adding smarter tools.",
+      "copy": "Ad platforms keep adding smarter tools.\n\n5 gardening tips you can try right in Search better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with USDT or USDC...",
       "sourceTitles": [
-        "Introducing ChatGPT Futures: Class of 2026",
-        "How frontier enterprises are building an AI advantage"
+        "5 gardening tips you can try right in Search",
+        "AI is reshaping ad creative. Here’s how brands can get it right."
       ],
-      "path": "/netflix-virtual-card/",
-      "landingTitle": "Netflix virtual card",
-      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
-      "campaign": "x_ai-subscriptions_2026-05-07_slot3"
+      "path": "/usdt-to-virtual-card/",
+      "landingTitle": "USDT to virtual card",
+      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
+      "campaign": "x_ad-spend_2026-05-07_slot5"
     }
   ]
 }
