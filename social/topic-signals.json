@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T12:05:26.344Z",
+  "generatedAt": "2026-05-07T15:18:52.128Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "New AI-powered bidding and budgeting innovations in Search and Shopping",
+          "link": "https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/",
+          "pubDate": "Thu, 07 May 2026 15:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "5 gardening tips you can try right in Search",
           "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
           "pubDate": "Wed, 06 May 2026 16:00:00 +0000",
@@ -64,12 +70,6 @@
         {
           "title": "Adapt your Shopping campaigns to modern Search with AI Max.",
           "link": "https://blog.google/products/ads-commerce/ai-max-for-shopping/",
-          "pubDate": "Thu, 30 Apr 2026 13:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Meet travelers in the moments that matter with Search Campaigns for Travel.",
-          "link": "https://blog.google/products/ads-commerce/ai-max-for-travel/",
           "pubDate": "Thu, 30 Apr 2026 13:00:00 +0000",
           "source": ""
         }
