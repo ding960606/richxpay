@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T17:41:38.128Z",
+  "generatedAt": "2026-05-08T19:44:22.872Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Running Codex safely at OpenAI",
+          "link": "https://openai.com/index/running-codex-safely",
+          "pubDate": "Fri, 08 May 2026 12:30:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
           "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
           "pubDate": "Thu, 07 May 2026 13:00:00 GMT",
@@ -101,12 +107,6 @@
         {
           "title": "Testing ads in ChatGPT",
           "link": "https://openai.com/index/testing-ads-in-chatgpt",
-          "pubDate": "Thu, 07 May 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Introducing Trusted Contact in ChatGPT",
-          "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
           "pubDate": "Thu, 07 May 2026 00:00:00 GMT",
           "source": ""
         }
