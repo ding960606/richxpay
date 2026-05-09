@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-09",
+      "postId": "x-7-1778337349244-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. payment rails are improving but card access...",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1778337349244-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69ff46458c697e6b3c1bd15b",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-09",
       "postId": "linkedin-6-1778335728134-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2495,27 +2516,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69e6411397553195fcbe0b33",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-20",
-      "postId": "x-5-1776686360489-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nGemini is stopping harmful ads before people ever see them better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow wit...",
-      "sourceTitles": [
-        "Gemini is stopping harmful ads before people ever see them",
-        "We’re upgrading Dynamic Search Ads to AI Max"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1776686360489-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69e61519241fa1aa5eead6ea",
         "status": "sent"
       }
     }
