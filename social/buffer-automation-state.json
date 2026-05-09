@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-09",
+      "postId": "x-3-1778319627856-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nRunning Codex safely at OpenAI AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC fun...",
+      "sourceTitles": [
+        "Running Codex safely at OpenAI",
+        "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1778319627856-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "69ff010c8c697e6b3c1976a7",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-09",
       "postId": "linkedin-2-1778316857912-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2495,27 +2516,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69e533d3932e4f621958aca9",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-19",
-      "postId": "x-9-1776621439421-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nCodex for (almost) everything AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC fund...",
-      "sourceTitles": [
-        "Codex for (almost) everything",
-        "Introducing GPT-Rosalind for life sciences research"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1776621439421-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69e5177fec0df04bc130d13f",
         "status": "sent"
       }
     }
