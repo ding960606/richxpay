@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-05-08",
+  "lastGeneratedDate": "2026-05-09",
   "history": [
+    {
+      "date": "2026-05-09",
+      "postId": "linkedin-2-1778316857912-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nNew AI-powered bidding and budgeting innovations in Search and Shopping Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "New AI-powered bidding and budgeting innovations in Search and Shopping",
+        "5 gardening tips you can try right in Search"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-2-1778316857912-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "69fef63a2e7045cfc8c64400",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-05-08",
       "postId": "linkedin-10-1778269463354-0",
@@ -2495,27 +2516,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69e5177fec0df04bc130d13f",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-19",
-      "postId": "linkedin-8-1776618537498-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nGemini is stopping harmful ads before people ever see them Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
-      "sourceTitles": [
-        "Gemini is stopping harmful ads before people ever see them",
-        "We’re upgrading Dynamic Search Ads to AI Max"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-8-1776618537498-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69e50c2a3a4ea0d014442a15",
         "status": "sent"
       }
     }
