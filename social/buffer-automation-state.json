@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-10",
+      "postId": "linkedin-6-1778422251609-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nRunning Codex safely at OpenAI Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "Running Codex safely at OpenAI",
+        "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1778422251609-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a0091ec2789e816c91b60a8",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-10",
       "postId": "x-5-1778414382839-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2495,27 +2516,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69e7a8073e4778f54ac33fed",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-21",
-      "postId": "x-7-1776783684072-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. payment rails are improving but card access still blocks teams RichXPay fits...",
-      "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1776783684072-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69e7914403b4e18babdd2dde",
         "status": "sent"
       }
     }
