@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-05-09",
+  "lastGeneratedDate": "2026-05-10",
   "history": [
+    {
+      "date": "2026-05-10",
+      "postId": "linkedin-2-1778404129742-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nNew AI-powered bidding and budgeting innovations in Search and Shopping Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "New AI-powered bidding and budgeting innovations in Search and Shopping",
+        "5 gardening tips you can try right in Search"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-2-1778404129742-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a004b228c697e6b3c244684",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-05-09",
       "postId": "linkedin-10-1778355145484-0",
@@ -2495,27 +2516,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69e66ca1858ba22a12b7cc4f",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-20",
-      "postId": "x-9-1776706580628-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI helps Hyatt advance AI among colleagues AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with...",
-      "sourceTitles": [
-        "OpenAI helps Hyatt advance AI among colleagues",
-        "Codex for (almost) everything"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1776706580628-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69e66415858ba22a12b76118",
         "status": "sent"
       }
     }
