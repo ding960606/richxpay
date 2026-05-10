@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-10",
+      "postId": "x-3-1778406330849-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nRunning Codex safely at OpenAI AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC fun...",
+      "sourceTitles": [
+        "Running Codex safely at OpenAI",
+        "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1778406330849-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a0053bb8c697e6b3c2471a1",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-10",
       "postId": "linkedin-2-1778404129742-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2495,27 +2516,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69e682c30994513220174fa6",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-20",
-      "postId": "x-9-1776708768514-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing. As enterprises like Hyatt scale AI usage, managing recurring seats becomes a core operational task. RichXPay simplifies this with virtual cards funded by USDT/USDC.",
-      "sourceTitles": [
-        "OpenAI helps Hyatt advance AI among colleagues",
-        "Codex for (almost) everything"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1776708768514-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69e66ca1858ba22a12b7cc4f",
         "status": "sent"
       }
     }
