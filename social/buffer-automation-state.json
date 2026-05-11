@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-11",
+      "postId": "linkedin-6-1778507419955-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nHow enterprises are scaling AI Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "How enterprises are scaling AI",
+        "OpenAI Campus Network: Student club interest form"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1778507419955-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a01de9c1e8fca1bb3c38369",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-11",
       "postId": "x-5-1778503787302-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2495,27 +2516,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69ea04dea149c7a5bd522a2a",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-22",
-      "postId": "linkedin-10-1776883974597-0",
-      "platform": "linkedin",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
-      "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-10-1776883974597-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69e9190712f18434d4457df5",
         "status": "sent"
       }
     }
