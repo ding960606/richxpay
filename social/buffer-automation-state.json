@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-11",
+      "postId": "linkedin-10-1778529786532-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1778529786532-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a0235fbe105085af8bcf27d",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-11",
       "postId": "x-9-1778520675954-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2495,27 +2516,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69ea695da70af689945ce84f",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-23",
-      "postId": "x-9-1776967183133-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nMaking ChatGPT better for clinicians AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or US...",
-      "sourceTitles": [
-        "Making ChatGPT better for clinicians",
-        "Speeding up agentic workflows with WebSockets in the Responses API"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1776967183133-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69ea5e0fa915dd6c133270c1",
         "status": "sent"
       }
     }
