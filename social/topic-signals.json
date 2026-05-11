@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T19:32:45.917Z",
+  "generatedAt": "2026-05-11T10:44:42.956Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,18 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "OpenAI Campus Network: Student club interest form",
+          "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "pubDate": "Mon, 11 May 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "How enterprises are scaling AI",
+          "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+          "pubDate": "Mon, 11 May 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Running Codex safely at OpenAI",
           "link": "https://openai.com/index/running-codex-safely",
           "pubDate": "Fri, 08 May 2026 12:30:00 GMT",
@@ -96,18 +108,6 @@
           "title": "Parloa builds service agents customers want to talk to",
           "link": "https://openai.com/index/parloa",
           "pubDate": "Thu, 07 May 2026 11:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Advancing voice intelligence with new models in the API",
-          "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-          "pubDate": "Thu, 07 May 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Testing ads in ChatGPT",
-          "link": "https://openai.com/index/testing-ads-in-chatgpt",
-          "pubDate": "Thu, 07 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]
