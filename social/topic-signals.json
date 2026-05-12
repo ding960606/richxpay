@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T20:03:05.857Z",
+  "generatedAt": "2026-05-12T10:01:15.385Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,14 +81,20 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "How enterprises are scaling AI",
-          "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-          "pubDate": "Mon, 11 May 2026 10:00:00 GMT",
+          "title": "How ChatGPT adoption broadened in early 2026",
+          "link": "https://openai.com/signals/research/2026q1-update",
+          "pubDate": "Mon, 11 May 2026 15:00:00 GMT",
           "source": ""
         },
         {
           "title": "OpenAI Campus Network: Student club interest form",
           "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "pubDate": "Mon, 11 May 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "How enterprises are scaling AI",
+          "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
           "pubDate": "Mon, 11 May 2026 10:00:00 GMT",
           "source": ""
         },
@@ -102,12 +108,6 @@
           "title": "Running Codex safely at OpenAI",
           "link": "https://openai.com/index/running-codex-safely",
           "pubDate": "Fri, 08 May 2026 12:30:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-          "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-          "pubDate": "Thu, 07 May 2026 13:00:00 GMT",
           "source": ""
         }
       ]
