@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-12T16:03:48.635Z",
+  "generatedAt": "2026-05-12T17:25:25.262Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-8-1778601828635-0",
-      "platform": "linkedin",
-      "localTime": "00:06",
-      "topicBucket": "ad-spend",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools.\n\nNew AI-powered bidding and budgeting innovations in Search and Shopping Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "id": "x-9-1778606725262-0",
+      "platform": "x",
+      "localTime": "02:18",
+      "topicBucket": "ai-subscriptions",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "hook": "AI tool adoption keeps growing.",
+      "copy": "AI tool adoption keeps growing.\n\nHow ChatGPT adoption broadened in early 2026 AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with US...",
       "sourceTitles": [
-        "New AI-powered bidding and budgeting innovations in Search and Shopping",
-        "5 gardening tips you can try right in Search"
+        "How ChatGPT adoption broadened in early 2026",
+        "OpenAI Campus Network: Student club interest form"
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "linkedin_ad-spend_2026-05-12_slot8"
+      "path": "/netflix-virtual-card/",
+      "landingTitle": "Netflix virtual card",
+      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
+      "campaign": "x_ai-subscriptions_2026-05-12_slot9"
     }
   ]
 }
