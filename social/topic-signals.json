@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T17:25:24.595Z",
+  "generatedAt": "2026-05-12T20:07:13.541Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,15 +81,15 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "How ChatGPT adoption broadened in early 2026",
-          "link": "https://openai.com/signals/research/2026q1-update",
-          "pubDate": "Mon, 11 May 2026 15:00:00 GMT",
+          "title": "What Parameter Golf taught us about AI-assisted research",
+          "link": "https://openai.com/index/what-parameter-golf-taught-us",
+          "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "OpenAI Campus Network: Student club interest form",
-          "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-          "pubDate": "Mon, 11 May 2026 10:00:00 GMT",
+          "title": "How ChatGPT adoption broadened in early 2026",
+          "link": "https://openai.com/signals/research/2026q1-update",
+          "pubDate": "Mon, 11 May 2026 15:00:00 GMT",
           "source": ""
         },
         {
@@ -99,15 +99,15 @@
           "source": ""
         },
         {
-          "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-          "link": "https://openai.com/index/openai-launches-the-deployment-company",
-          "pubDate": "Mon, 11 May 2026 06:00:00 GMT",
+          "title": "OpenAI Campus Network: Student club interest form",
+          "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "pubDate": "Mon, 11 May 2026 10:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Running Codex safely at OpenAI",
-          "link": "https://openai.com/index/running-codex-safely",
-          "pubDate": "Fri, 08 May 2026 12:30:00 GMT",
+          "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+          "link": "https://openai.com/index/openai-launches-the-deployment-company",
+          "pubDate": "Mon, 11 May 2026 06:00:00 GMT",
           "source": ""
         }
       ]
