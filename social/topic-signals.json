@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T17:25:49.688Z",
+  "generatedAt": "2026-05-13T20:08:30.243Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,15 +81,15 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "How finance teams use Codex",
-          "link": "https://openai.com/academy/how-finance-teams-use-codex",
-          "pubDate": "Tue, 12 May 2026 15:00:00 GMT",
+          "title": "Building a safe, effective sandbox to enable Codex on Windows",
+          "link": "https://openai.com/index/building-codex-windows-sandbox",
+          "pubDate": "Wed, 13 May 2026 11:00:00 GMT",
           "source": ""
         },
         {
-          "title": "How NVIDIA engineers and researchers build with Codex",
-          "link": "https://openai.com/index/nvidia",
-          "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
+          "title": "How finance teams use Codex",
+          "link": "https://openai.com/academy/how-finance-teams-use-codex",
+          "pubDate": "Tue, 12 May 2026 15:00:00 GMT",
           "source": ""
         },
         {
@@ -105,9 +105,9 @@
           "source": ""
         },
         {
-          "title": "How ChatGPT adoption broadened in early 2026",
-          "link": "https://openai.com/signals/research/2026q1-update",
-          "pubDate": "Mon, 11 May 2026 15:00:00 GMT",
+          "title": "How NVIDIA engineers and researchers build with Codex",
+          "link": "https://openai.com/index/nvidia",
+          "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]
