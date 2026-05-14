@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T20:08:30.243Z",
+  "generatedAt": "2026-05-14T09:41:29.442Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Check out the latest news from YouTube’s Brandcast 2026.",
+          "link": "https://blog.google/products-and-platforms/products/youtube/youtube-brandcast-2026-advertiser-updates/",
+          "pubDate": "Wed, 13 May 2026 23:30:00 +0000",
+          "source": ""
+        },
+        {
           "title": "New AI-powered bidding and budgeting innovations in Search and Shopping",
           "link": "https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/",
           "pubDate": "Thu, 07 May 2026 15:00:00 +0000",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products/ads-commerce/google-marketing-live-2026-turn-your-data-into-decisions/",
           "pubDate": "Tue, 05 May 2026 13:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Adapt your Shopping campaigns to modern Search with AI Max.",
-          "link": "https://blog.google/products/ads-commerce/ai-max-for-shopping/",
-          "pubDate": "Thu, 30 Apr 2026 13:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -87,26 +87,26 @@
           "source": ""
         },
         {
+          "title": "Our response to the TanStack npm supply chain attack",
+          "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+          "pubDate": "Wed, 13 May 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "How finance teams use Codex",
           "link": "https://openai.com/academy/how-finance-teams-use-codex",
           "pubDate": "Tue, 12 May 2026 15:00:00 GMT",
           "source": ""
         },
         {
-          "title": "What Parameter Golf taught us about AI-assisted research",
-          "link": "https://openai.com/index/what-parameter-golf-taught-us",
-          "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "AutoScout24 scales engineering with AI-powered workflows",
-          "link": "https://openai.com/index/autoscout24",
-          "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
           "title": "How NVIDIA engineers and researchers build with Codex",
           "link": "https://openai.com/index/nvidia",
+          "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "What Parameter Golf taught us about AI-assisted research",
+          "link": "https://openai.com/index/what-parameter-golf-taught-us",
           "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
           "source": ""
         }
