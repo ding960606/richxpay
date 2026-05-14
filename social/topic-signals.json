@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T17:14:15.246Z",
+  "generatedAt": "2026-05-14T18:05:06.515Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Helping ChatGPT better recognize context in sensitive conversations",
+          "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+          "pubDate": "Thu, 14 May 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Building a safe, effective sandbox to enable Codex on Windows",
           "link": "https://openai.com/index/building-codex-windows-sandbox",
           "pubDate": "Wed, 13 May 2026 11:00:00 GMT",
@@ -96,12 +102,6 @@
           "title": "How finance teams use Codex",
           "link": "https://openai.com/academy/how-finance-teams-use-codex",
           "pubDate": "Tue, 12 May 2026 15:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "What Parameter Golf taught us about AI-assisted research",
-          "link": "https://openai.com/index/what-parameter-golf-taught-us",
-          "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
           "source": ""
         },
         {

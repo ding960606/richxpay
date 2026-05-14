@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-14",
+      "postId": "x-9-1778781921357-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nHelping ChatGPT better recognize context in sensitive conversations AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fit...",
+      "sourceTitles": [
+        "Helping ChatGPT better recognize context in sensitive conversations",
+        "Building a safe, effective sandbox to enable Codex on Windows"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1778781921357-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a060ee10dd566162104ea1d",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-14",
       "postId": "x-9-1778778859792-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2495,27 +2516,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69ee5454e56655619b987ab5",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-26",
-      "postId": "x-9-1777224433696-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nIntroducing GPT-5.5 AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC funding and a...",
-      "sourceTitles": [
-        "Introducing GPT-5.5",
-        "GPT-5.5 System Card"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1777224433696-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69ee4af2e56655619b983581",
         "status": "sent"
       }
     }
