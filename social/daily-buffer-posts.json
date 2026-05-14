@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-14T15:11:27.875Z",
+  "generatedAt": "2026-05-14T17:14:19.792Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-7-1778771487875-0",
+      "id": "x-9-1778778859792-0",
       "platform": "x",
-      "localTime": "23:18",
-      "topicBucket": "cross-border-payments",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "hook": "Cross-border payments are getting faster.",
-      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. payment rails are improving but card access...",
+      "localTime": "02:18",
+      "topicBucket": "ai-subscriptions",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "hook": "AI tool adoption keeps growing.",
+      "copy": "AI tool adoption keeps growing.\n\nBuilding a safe, effective sandbox to enable Codex on Windows AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that...",
       "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-        "Expanding digital IDs in India and around the world"
+        "Building a safe, effective sandbox to enable Codex on Windows",
+        "Our response to the TanStack npm supply chain attack"
       ],
-      "path": "/",
-      "landingTitle": "RichXPay homepage",
-      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
-      "campaign": "x_cross-border-payments_2026-05-14_slot7"
+      "path": "/netflix-virtual-card/",
+      "landingTitle": "Netflix virtual card",
+      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
+      "campaign": "x_ai-subscriptions_2026-05-14_slot9"
     }
   ]
 }

@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-14",
+      "postId": "x-9-1778778859792-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nBuilding a safe, effective sandbox to enable Codex on Windows AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that...",
+      "sourceTitles": [
+        "Building a safe, effective sandbox to enable Codex on Windows",
+        "Our response to the TanStack npm supply chain attack"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1778778859792-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a0602ec911ce5d7f210da3a",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-14",
       "postId": "x-7-1778771487875-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
@@ -2496,27 +2517,6 @@
         "scheduledAt": null,
         "bufferPostId": "69ee4af2e56655619b983581",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-26",
-      "postId": "x-7-1777219193080-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nPersonalize your experience across Google based on your purchases, your way. payment rails are improving but card access still blocks teams RichXPay fits...",
-      "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way.",
-        "We’re adding 3 new ways to make web payments easier and more flexible."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1777219193080-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69ee3679e56655619b97927d",
-        "status": "error"
       }
     }
   ]
