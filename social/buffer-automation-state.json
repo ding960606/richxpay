@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-14",
+      "postId": "x-5-1778763715282-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools. New AI-powered bidding and budgeting in Search require precise budget control. RichXPay provides virtual cards funded by USDT to keep your ad spend running.",
+      "sourceTitles": [
+        "New AI-powered bidding and budgeting innovations in Search and Shopping",
+        "Check out the latest news from YouTube’s Brandcast 2026."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1778763715282-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a05c7c484f7091d0dbdad43",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-14",
       "postId": "x-5-1778760315218-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2495,27 +2516,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69ee2a13e56655619b97517f",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-26",
-      "postId": "linkedin-6-1777212660715-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nIntroducing GPT-5.5 Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "Introducing GPT-5.5",
-        "GPT-5.5 System Card"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1777212660715-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69ee1cf548db1c78e0135ad2",
         "status": "sent"
       }
     }

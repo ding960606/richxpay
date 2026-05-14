@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T12:05:05.010Z",
+  "generatedAt": "2026-05-14T13:01:44.209Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -99,14 +99,14 @@
           "source": ""
         },
         {
-          "title": "How NVIDIA engineers and researchers build with Codex",
-          "link": "https://openai.com/index/nvidia",
+          "title": "What Parameter Golf taught us about AI-assisted research",
+          "link": "https://openai.com/index/what-parameter-golf-taught-us",
           "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "AutoScout24 scales engineering with AI-powered workflows",
-          "link": "https://openai.com/index/autoscout24",
+          "title": "How NVIDIA engineers and researchers build with Codex",
+          "link": "https://openai.com/index/nvidia",
           "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
           "source": ""
         }
