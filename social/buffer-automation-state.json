@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-15",
+      "postId": "x-5-1778846813995-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nCheck out the latest news from YouTube’s Brandcast 2026. better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with...",
+      "sourceTitles": [
+        "Check out the latest news from YouTube’s Brandcast 2026.",
+        "New AI-powered bidding and budgeting innovations in Search and Shopping"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1778846813995-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a070c5e338e887ce9f1fd35",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-15",
       "postId": "x-3-1778839227769-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2495,27 +2516,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69ef8af6e56655619ba1d061",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-27",
-      "postId": "x-5-1777292471791-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nAlbertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite. better ad tooling still needs cleaner billing and payment c...",
-      "sourceTitles": [
-        "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite.",
-        "There's a new playbook for partnering with creators on marketing campaigns."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1777292471791-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69ef54b80a1f209cc74398c2",
         "status": "sent"
       }
     }
