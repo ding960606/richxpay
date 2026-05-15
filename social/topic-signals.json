@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T20:01:08.152Z",
+  "generatedAt": "2026-05-15T10:00:11.140Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,18 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Sea's View on the Future of Agentic Software Development with Codex",
+          "link": "https://openai.com/index/sea-david-chen",
+          "pubDate": "Thu, 14 May 2026 20:30:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Work with Codex from anywhere",
+          "link": "https://openai.com/index/work-with-codex-from-anywhere",
+          "pubDate": "Thu, 14 May 2026 13:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Helping ChatGPT better recognize context in sensitive conversations",
           "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
           "pubDate": "Thu, 14 May 2026 00:00:00 GMT",
@@ -96,18 +108,6 @@
           "title": "Our response to the TanStack npm supply chain attack",
           "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
           "pubDate": "Wed, 13 May 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "How finance teams use Codex",
-          "link": "https://openai.com/academy/how-finance-teams-use-codex",
-          "pubDate": "Tue, 12 May 2026 15:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "AutoScout24 scales engineering with AI-powered workflows",
-          "link": "https://openai.com/index/autoscout24",
-          "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]
