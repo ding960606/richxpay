@@ -3,6 +3,26 @@
   "history": [
     {
       "date": "2026-05-16",
+      "postId": "x-5-1778932838087-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools. New AI-powered bidding in Search requires precise budget control. RichXPay provides virtual cards funded by USDT to keep your global ad spend running.",
+      "sourceTitles": [
+        "New AI-powered bidding and budgeting innovations in Search and Shopping"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1778932838087-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a085c6670f4a0f40a2a0eb4",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-16",
       "postId": "linkedin-4-1778930269975-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2495,27 +2515,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69f1f4d0b85bfdc31a5ea55e",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-28",
-      "postId": "linkedin-10-1777403497918-0",
-      "platform": "linkedin",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
-      "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-        "Expanding digital IDs in India and around the world"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-10-1777403497918-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69f1066ab85bfdc31a57d4dc",
         "status": "sent"
       }
     }
