@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T09:48:50.273Z",
+  "generatedAt": "2026-05-16T11:17:35.838Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,9 +81,9 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "How sales teams use Codex",
-          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
+          "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+          "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
+          "pubDate": "Sat, 16 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
@@ -93,14 +93,14 @@
           "source": ""
         },
         {
-          "title": "How data science teams use Codex",
-          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+          "link": "https://openai.com/index/databricks",
           "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-          "link": "https://openai.com/index/databricks",
+          "title": "How data science teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
           "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
           "source": ""
         },

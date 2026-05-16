@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-16",
+      "postId": "linkedin-4-1778930269975-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1778930269975-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a08525e70f4a0f40a29d29b",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-16",
       "postId": "x-3-1778924943361-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2495,27 +2516,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69f1066ab85bfdc31a57d4dc",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-28",
-      "postId": "x-9-1777396558935-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI models, Codex, and Managed Agents come to AWS AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow...",
-      "sourceTitles": [
-        "OpenAI models, Codex, and Managed Agents come to AWS",
-        "OpenAI available at FedRAMP Moderate"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1777396558935-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69f0eb4f0a1f209cc7503705",
         "status": "sent"
       }
     }
