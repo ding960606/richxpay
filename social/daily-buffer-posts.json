@@ -1,22 +1,23 @@
 {
-  "generatedAt": "2026-05-16T12:00:38.087Z",
+  "generatedAt": "2026-05-16T14:12:28.544Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-5-1778932838087-0",
-      "platform": "x",
-      "localTime": "20:48",
-      "topicBucket": "ad-spend",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools. New AI-powered bidding in Search requires precise budget control. RichXPay provides virtual cards funded by USDT to keep your global ad spend running.",
+      "id": "linkedin-6-1778940748544-0",
+      "platform": "linkedin",
+      "localTime": "21:36",
+      "topicBucket": "ai-subscriptions",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "hook": "AI tool adoption keeps growing.",
+      "copy": "AI tool adoption keeps growing.\n\nOpenAI and Malta partner to bring ChatGPT Plus to all citizens Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
       "sourceTitles": [
-        "New AI-powered bidding and budgeting innovations in Search and Shopping"
+        "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "How business operations teams use Codex"
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "x_ad-spend_2026-05-16_slot5"
+      "path": "/netflix-virtual-card/",
+      "landingTitle": "Netflix virtual card",
+      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
+      "campaign": "linkedin_ai-subscriptions_2026-05-16_slot6"
     }
   ]
 }

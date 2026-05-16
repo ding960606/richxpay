@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-16",
+      "postId": "linkedin-6-1778940748544-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nOpenAI and Malta partner to bring ChatGPT Plus to all citizens Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "How business operations teams use Codex"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1778940748544-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a087b4d6e6b4cbb3bfa523d",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-16",
       "postId": "x-5-1778932838087-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2494,27 +2515,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69f22f5364f99768ec8d4b1f",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-29",
-      "postId": "x-5-1777464528235-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. better ad tooling still needs cleaner billing...",
-      "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-        "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1777464528235-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69f1f4d0b85bfdc31a5ea55e",
         "status": "sent"
       }
     }
