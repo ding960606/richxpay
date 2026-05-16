@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T19:53:19.563Z",
+  "generatedAt": "2026-05-16T09:03:02.067Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,33 +81,33 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "A new personal finance experience in ChatGPT",
-          "link": "https://openai.com/index/personal-finance-chatgpt",
+          "title": "How sales teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
           "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Sea's View on the Future of Agentic Software Development with Codex",
-          "link": "https://openai.com/index/sea-david-chen",
-          "pubDate": "Thu, 14 May 2026 20:30:00 GMT",
+          "title": "How business operations teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+          "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Work with Codex from anywhere",
-          "link": "https://openai.com/index/work-with-codex-from-anywhere",
-          "pubDate": "Thu, 14 May 2026 13:00:00 GMT",
+          "title": "How data science teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Helping ChatGPT better recognize context in sensitive conversations",
-          "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-          "pubDate": "Thu, 14 May 2026 00:00:00 GMT",
+          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+          "link": "https://openai.com/index/databricks",
+          "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Building a safe, effective sandbox to enable Codex on Windows",
-          "link": "https://openai.com/index/building-codex-windows-sandbox",
-          "pubDate": "Wed, 13 May 2026 11:00:00 GMT",
+          "title": "A new personal finance experience in ChatGPT",
+          "link": "https://openai.com/index/personal-finance-chatgpt",
+          "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]
