@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-05-16",
+  "lastGeneratedDate": "2026-05-17",
   "history": [
+    {
+      "date": "2026-05-17",
+      "postId": "x-3-1779009296343-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nOpenAI and Malta partner to bring ChatGPT Plus to all citizens AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits tha...",
+      "sourceTitles": [
+        "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "How business operations teams use Codex"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1779009296343-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a0987100557e54b5702c13d",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-05-16",
       "postId": "linkedin-10-1778959952185-0",
@@ -2494,27 +2515,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69f354c564f99768ec963af4",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-04-30",
-      "postId": "x-5-1777550702094-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. better ad tooling still needs cleaner billing...",
-      "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-        "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1777550702094-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69f3456eb85bfdc31a68fa05",
         "status": "sent"
       }
     }
