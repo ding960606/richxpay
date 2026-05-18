@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T19:35:43.151Z",
+  "generatedAt": "2026-05-18T11:12:33.191Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -87,14 +87,8 @@
           "source": ""
         },
         {
-          "title": "How business operations teams use Codex",
-          "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-          "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-          "link": "https://openai.com/index/databricks",
+          "title": "A new personal finance experience in ChatGPT",
+          "link": "https://openai.com/index/personal-finance-chatgpt",
           "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
           "source": ""
         },
@@ -105,8 +99,14 @@
           "source": ""
         },
         {
-          "title": "A new personal finance experience in ChatGPT",
-          "link": "https://openai.com/index/personal-finance-chatgpt",
+          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+          "link": "https://openai.com/index/databricks",
+          "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "How sales teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
           "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
           "source": ""
         }
