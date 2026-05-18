@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-18",
+      "postId": "x-7-1779115029182-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. payment rails are improving but card access...",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1779115029182-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a0b241586cb7f46ab56516e",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-18",
       "postId": "linkedin-6-1779112839267-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2494,27 +2515,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69f4bb1bc6db0adef3773ab4",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-01",
-      "postId": "linkedin-6-1777644541122-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nIntroducing Advanced Account Security Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "Introducing Advanced Account Security",
-        "Where the goblins came from"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1777644541122-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69f4b3fdc6db0adef376f911",
         "status": "sent"
       }
     }
