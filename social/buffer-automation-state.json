@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-19",
+      "postId": "x-9-1779212711585-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nOpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments AI adoption creates more recurring subscriptions that need a reliable paymen...",
+      "sourceTitles": [
+        "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+        "OpenAI and Malta partner to bring ChatGPT Plus to all citizens"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1779212711585-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a0ca1a8715412f2ccb73c2e",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-19",
       "postId": "linkedin-8-1779206652754-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2494,27 +2515,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69f60abbb2bf116e3e472cb6",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-02",
-      "postId": "linkedin-6-1777730468029-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nIntroducing Advanced Account Security Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "Introducing Advanced Account Security",
-        "Where the goblins came from"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1777730468029-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69f603a4ebb6d538a0d932fc",
         "status": "sent"
       }
     }
