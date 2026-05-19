@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T17:45:06.162Z",
+  "generatedAt": "2026-05-19T18:12:49.791Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Introducing the Universal Cart and more ways to help you shop",
+          "link": "https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/",
+          "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+          "source": ""
+        },
+        {
           "title": "Check out the latest news from YouTube’s Brandcast 2026.",
           "link": "https://blog.google/products-and-platforms/products/youtube/youtube-brandcast-2026-advertiser-updates/",
           "pubDate": "Wed, 13 May 2026 23:30:00 +0000",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-ai-creative/",
           "pubDate": "Wed, 06 May 2026 13:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Turn your data into decisions: 3 things your business needs for growth in the AI era",
-          "link": "https://blog.google/products/ads-commerce/google-marketing-live-2026-turn-your-data-into-decisions/",
-          "pubDate": "Tue, 05 May 2026 13:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -80,6 +80,12 @@
       "label": "AI subscriptions",
       "url": "https://openai.com/news/rss.xml",
       "items": [
+        {
+          "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+          "link": "https://openai.com/index/advancing-content-provenance",
+          "pubDate": "Tue, 19 May 2026 10:45:00 GMT",
+          "source": ""
+        },
         {
           "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
           "link": "https://openai.com/index/dell-codex-enterprise-partnership",
@@ -93,20 +99,14 @@
           "source": ""
         },
         {
-          "title": "A new personal finance experience in ChatGPT",
-          "link": "https://openai.com/index/personal-finance-chatgpt",
-          "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
           "title": "How sales teams use Codex",
           "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
           "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "How business operations teams use Codex",
-          "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+          "title": "How data science teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
           "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
           "source": ""
         }
