@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-20T12:38:59.186Z",
+  "generatedAt": "2026-05-20T13:45:26.298Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-5-1779280739186-0",
-      "platform": "x",
-      "localTime": "20:48",
-      "topicBucket": "ad-spend",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools.\n\nIntroducing the Universal Cart and more ways to help you shop better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow...",
+      "id": "linkedin-6-1779284726297-0",
+      "platform": "linkedin",
+      "localTime": "21:36",
+      "topicBucket": "ai-subscriptions",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "hook": "AI tool adoption keeps growing.",
+      "copy": "AI tool adoption keeps growing.\n\nThe next phase of OpenAI’s Education for Countries Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
       "sourceTitles": [
-        "Introducing the Universal Cart and more ways to help you shop",
-        "Check out the latest news from YouTube’s Brandcast 2026."
+        "The next phase of OpenAI’s Education for Countries",
+        "Introducing OpenAI for Singapore"
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "x_ad-spend_2026-05-20_slot5"
+      "path": "/netflix-virtual-card/",
+      "landingTitle": "Netflix virtual card",
+      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
+      "campaign": "linkedin_ai-subscriptions_2026-05-20_slot6"
     }
   ]
 }
