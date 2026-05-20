@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-20",
+      "postId": "x-5-1779280739186-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nIntroducing the Universal Cart and more ways to help you shop better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow...",
+      "sourceTitles": [
+        "Introducing the Universal Cart and more ways to help you shop",
+        "Check out the latest news from YouTube’s Brandcast 2026."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1779280739186-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a0dab638eff3ff79d00b7a8",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-20",
       "postId": "linkedin-4-1779275807744-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2495,27 +2516,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69f72c39766f329adc218b03",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-03",
-      "postId": "x-3-1777801123328-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nIntroducing Advanced Account Security AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or U...",
-      "sourceTitles": [
-        "Introducing Advanced Account Security",
-        "Where the goblins came from"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1777801123328-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69f717a3766f329adc20e731",
         "status": "sent"
       }
     }
