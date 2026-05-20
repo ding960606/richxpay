@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-20",
+      "postId": "linkedin-8-1779294157652-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nHow we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google",
+        "Google Marketing Live 2026"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1779294157652-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a0ddfce7048b91867b54c15",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-20",
       "postId": "linkedin-6-1779284726297-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2495,27 +2516,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69f75c3bb2bf116e3e530592",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-03",
-      "postId": "linkedin-6-1777816933764-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nIntroducing Advanced Account Security Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "Introducing Advanced Account Security",
-        "Where the goblins came from"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1777816933764-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69f75566b2bf116e3e528f72",
         "status": "sent"
       }
     }
