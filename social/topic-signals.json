@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T18:02:26.381Z",
+  "generatedAt": "2026-05-20T20:30:20.933Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,18 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+          "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "How Ramp engineers accelerate code review with Codex",
+          "link": "https://openai.com/index/ramp",
+          "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "The next phase of OpenAI’s Education for Countries",
           "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
           "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
@@ -96,18 +108,6 @@
           "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
           "link": "https://openai.com/index/advancing-content-provenance",
           "pubDate": "Tue, 19 May 2026 10:45:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-          "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-          "pubDate": "Mon, 18 May 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-          "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-          "pubDate": "Sat, 16 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]
