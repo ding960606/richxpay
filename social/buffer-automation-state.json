@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-21",
+      "postId": "linkedin-6-1779373024215-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nAn OpenAI model has disproved a central conjecture in discrete geometry Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "How Ramp engineers accelerate code review with Codex"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1779373024215-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a0f13e03e782e8f031c44be",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-21",
       "postId": "linkedin-6-1779370309105-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2495,27 +2516,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69f8b3fa766f329adc308146",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-04",
-      "postId": "x-5-1777896316303-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nAdapt your Shopping campaigns to modern Search with AI Max. better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow wi...",
-      "sourceTitles": [
-        "Adapt your Shopping campaigns to modern Search with AI Max.",
-        "Meet travelers in the moments that matter with Search Campaigns for Travel."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1777896316303-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69f88b7c766f329adc2f021c",
         "status": "sent"
       }
     }
