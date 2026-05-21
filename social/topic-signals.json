@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T20:30:20.933Z",
+  "generatedAt": "2026-05-21T10:50:00.768Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "The next phase of OpenAI’s Education for Countries",
+          "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+          "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
           "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
           "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
@@ -89,12 +95,6 @@
         {
           "title": "How Ramp engineers accelerate code review with Codex",
           "link": "https://openai.com/index/ramp",
-          "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "The next phase of OpenAI’s Education for Countries",
-          "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
           "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
           "source": ""
         },
