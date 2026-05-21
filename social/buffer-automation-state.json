@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-21",
+      "postId": "linkedin-6-1779370309105-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nThe next phase of OpenAI’s Education for Countries Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "The next phase of OpenAI’s Education for Countries",
+        "An OpenAI model has disproved a central conjecture in discrete geometry"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1779370309105-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a0f09453e782e8f031c15ec",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-21",
       "postId": "linkedin-4-1779360619740-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2495,27 +2516,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69f88b7c766f329adc2f021c",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-04",
-      "postId": "x-3-1777887140010-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nIntroducing Advanced Account Security AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or U...",
-      "sourceTitles": [
-        "Introducing Advanced Account Security",
-        "Where the goblins came from"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1777887140010-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69f867a4766f329adc2d9b45",
         "status": "sent"
       }
     }
