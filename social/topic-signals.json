@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T16:02:58.086Z",
+  "generatedAt": "2026-05-21T17:35:06.123Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,8 +81,14 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-          "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+          "title": "AdventHealth advances whole-person care with OpenAI",
+          "link": "https://openai.com/index/adventhealth",
+          "pubDate": "Thu, 21 May 2026 12:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "The next phase of OpenAI’s Education for Countries",
+          "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
           "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
           "source": ""
         },
@@ -93,8 +99,8 @@
           "source": ""
         },
         {
-          "title": "The next phase of OpenAI’s Education for Countries",
-          "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
           "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
           "source": ""
         },
@@ -102,12 +108,6 @@
           "title": "Introducing OpenAI for Singapore",
           "link": "https://openai.com/index/introducing-openai-for-singapore",
           "pubDate": "Tue, 19 May 2026 20:30:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-          "link": "https://openai.com/index/advancing-content-provenance",
-          "pubDate": "Tue, 19 May 2026 10:45:00 GMT",
           "source": ""
         }
       ]
