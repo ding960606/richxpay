@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-21T18:08:09.224Z",
+  "generatedAt": "2026-05-21T20:10:09.908Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-9-1779386889224-0",
-      "platform": "x",
-      "localTime": "02:18",
-      "topicBucket": "ai-subscriptions",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "hook": "AI tool adoption keeps growing.",
-      "copy": "AI tool adoption keeps growing.\nModels are now solving complex geometry conjectures, making AI an essential R&D expense.\nRichXPay provides virtual cards for stable recurring billing via USDT and USDC.",
+      "id": "linkedin-10-1779394209907-0",
+      "platform": "linkedin",
+      "localTime": "03:06",
+      "topicBucket": "cross-border-payments",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "hook": "Cross-border payments are getting faster.",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
       "sourceTitles": [
-        "An OpenAI model has disproved a central conjecture in discrete geometry",
-        "AdventHealth advances whole-person care with OpenAI"
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
       ],
-      "path": "/netflix-virtual-card/",
-      "landingTitle": "Netflix virtual card",
-      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
-      "campaign": "x_ai-subscriptions_2026-05-21_slot9"
+      "path": "/",
+      "landingTitle": "RichXPay homepage",
+      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
+      "campaign": "linkedin_cross-border-payments_2026-05-21_slot10"
     }
   ]
 }
