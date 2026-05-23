@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-23",
+      "postId": "x-5-1779537883260-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nHow we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google better ad tooling still needs cleaner billing and pa...",
+      "sourceTitles": [
+        "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google",
+        "Google Marketing Live 2026"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1779537883260-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a1197dbf78e0c34522bfcdb",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-23",
       "postId": "linkedin-4-1779536130436-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2496,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69fb5b3e5efde6e83e3363fd",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-06",
-      "postId": "x-5-1778072400617-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools. New AI Max features help scale campaigns instantly, but smarter targeting is useless if your card declines. RichXPay keeps your Google Ads running via USDT.",
-      "sourceTitles": [
-        "Meet travelers in the moments that matter with Search Campaigns for Travel.",
-        "AI Max for Shopping"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1778072400617-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69fb3b510b8dba6c39dc06f3",
         "status": "sent"
       }
     }
