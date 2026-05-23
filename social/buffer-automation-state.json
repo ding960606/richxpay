@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-23",
+      "postId": "linkedin-10-1779565057773-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1779565057773-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a120202f78e0c34522d5d22",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-23",
       "postId": "x-9-1779556453501-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2496,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69fc8007e6d7e980e5da579f",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-07",
-      "postId": "x-3-1778147209599-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nIntroducing ChatGPT Futures: Class of 2026 AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT...",
-      "sourceTitles": [
-        "Introducing ChatGPT Futures: Class of 2026",
-        "How frontier enterprises are building an AI advantage"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1778147209599-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69fc5f8a204cad250d5c8e98",
         "status": "sent"
       }
     }
