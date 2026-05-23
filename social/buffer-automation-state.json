@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-23",
+      "postId": "x-7-1779547741180-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. payment rails are improving but card access...",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1779547741180-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a11be5d0dc6571b69f22ce3",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-23",
       "postId": "linkedin-6-1779545907692-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2496,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69fb7f227388fa05f02f2024",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-06",
-      "postId": "linkedin-8-1778086946588-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\n5 gardening tips you can try right in Search Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
-      "sourceTitles": [
-        "5 gardening tips you can try right in Search",
-        "AI is reshaping ad creative. Here’s how brands can get it right."
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-8-1778086946588-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "69fb7423f0e28329883eecc2",
         "status": "sent"
       }
     }
