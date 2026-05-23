@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-05-22",
+  "lastGeneratedDate": "2026-05-23",
   "history": [
+    {
+      "date": "2026-05-23",
+      "postId": "x-3-1779527729323-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nOpenAI named a Leader in enterprise coding agents by Gartner AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that...",
+      "sourceTitles": [
+        "OpenAI named a Leader in enterprise coding agents by Gartner",
+        "How Virgin Atlantic ships faster with Codex"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1779527729323-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a1170320dc6571b69f1328d",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-05-22",
       "postId": "linkedin-10-1779480602807-0",
@@ -2496,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "69fb2ea7554649d16ff367aa",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-06",
-      "postId": "x-3-1778060258007-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nGPT-5.5 Instant: smarter, clearer, and more personalized AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that work...",
-      "sourceTitles": [
-        "GPT-5.5 Instant: smarter, clearer, and more personalized",
-        "GPT-5.5 Instant System Card"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1778060258007-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69fb0be20f14362c2874c07c",
         "status": "sent"
       }
     }

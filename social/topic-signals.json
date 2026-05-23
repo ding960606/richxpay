@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T20:09:57.170Z",
+  "generatedAt": "2026-05-23T09:15:16.555Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -87,6 +87,12 @@
           "source": ""
         },
         {
+          "title": "How Virgin Atlantic ships faster with Codex",
+          "link": "https://openai.com/index/virgin-atlantic",
+          "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "AdventHealth advances whole-person care with OpenAI",
           "link": "https://openai.com/index/adventhealth",
           "pubDate": "Thu, 21 May 2026 12:00:00 GMT",
@@ -95,12 +101,6 @@
         {
           "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
           "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-          "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "How Ramp engineers accelerate code review with Codex",
-          "link": "https://openai.com/index/ramp",
           "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
           "source": ""
         },
