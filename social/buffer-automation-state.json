@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-24",
+      "postId": "x-5-1779624487439-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nHow we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google better ad tooling still needs cleaner billing and pa...",
+      "sourceTitles": [
+        "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google",
+        "Google Marketing Live 2026"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1779624487439-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a12ea278b8c04304a45f5fe",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-24",
       "postId": "linkedin-4-1779622906202-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2496,27 +2517,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69fcedb0a0a11e26b389fab5",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-07",
-      "postId": "x-9-1778176575170-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nParloa builds service agents customers want to talk to AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workfl...",
-      "sourceTitles": [
-        "Parloa builds service agents customers want to talk to",
-        "Advancing voice intelligence with new models in the API"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1778176575170-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69fcd23f588fda54657db6a2",
         "status": "sent"
       }
     }
