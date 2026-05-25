@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-25",
+      "postId": "linkedin-10-1779739120646-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1779739120646-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a14a9f198903fd2cba5877d",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-25",
       "postId": "x-9-1779729480845-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2496,27 +2517,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69ff162c8c697e6b3c1a3454",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-09",
-      "postId": "x-3-1778319627856-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nRunning Codex safely at OpenAI AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC fun...",
-      "sourceTitles": [
-        "Running Codex safely at OpenAI",
-        "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1778319627856-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69ff010c8c697e6b3c1976a7",
         "status": "sent"
       }
     }
