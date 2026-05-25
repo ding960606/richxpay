@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-25",
+      "postId": "x-5-1779710334289-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nHow we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google better ad tooling still needs cleaner billing and pa...",
+      "sourceTitles": [
+        "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google",
+        "Google Marketing Live 2026"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1779710334289-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a14397f6648ba98cbe5ed5a",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-25",
       "postId": "linkedin-4-1779707868871-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2496,27 +2517,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "69fe13629bd8a94121828ae5",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-08",
-      "postId": "x-7-1778252973428-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. payment rails are improving but card access...",
-      "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-        "Expanding digital IDs in India and around the world"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1778252973428-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "69fdfcae9bd8a9412181c869",
         "status": "sent"
       }
     }
