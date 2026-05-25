@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-24T19:39:58.365Z",
+  "generatedAt": "2026-05-25T11:17:48.872Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-10-1779651598365-0",
+      "id": "linkedin-4-1779707868871-0",
       "platform": "linkedin",
-      "localTime": "03:06",
+      "localTime": "19:06",
       "topicBucket": "cross-border-payments",
       "angle": "payment rails are improving but card access still blocks teams",
       "hook": "Cross-border payments are getting faster.",
@@ -17,7 +17,7 @@
       "path": "/",
       "landingTitle": "RichXPay homepage",
       "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
-      "campaign": "linkedin_cross-border-payments_2026-05-24_slot10"
+      "campaign": "linkedin_cross-border-payments_2026-05-25_slot4"
     }
   ]
 }
