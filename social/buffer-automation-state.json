@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-27",
+      "postId": "x-9-1779905297982-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nBuilding self-improving tax agents with Codex AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with U...",
+      "sourceTitles": [
+        "Building self-improving tax agents with Codex",
+        "Election information and safeguards in 2026"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1779905297982-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a173312814ee6919d8fdd39",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-27",
       "postId": "linkedin-8-1779899508048-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2496,27 +2517,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "6a0091ec2789e816c91b60a8",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-10",
-      "postId": "x-5-1778414382839-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nNew AI-powered bidding and budgeting innovations in Search and Shopping better ad tooling still needs cleaner billing and payment control RichXPay fits that...",
-      "sourceTitles": [
-        "New AI-powered bidding and budgeting innovations in Search and Shopping",
-        "5 gardening tips you can try right in Search"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1778414382839-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a00732f2789e816c91a1649",
         "status": "sent"
       }
     }

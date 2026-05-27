@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T16:28:42.730Z",
+  "generatedAt": "2026-05-27T18:08:15.712Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -87,6 +87,12 @@
           "source": ""
         },
         {
+          "title": "Election information and safeguards in 2026",
+          "link": "https://openai.com/index/election-safeguards-2026",
+          "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
           "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
           "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "How Virgin Atlantic ships faster with Codex",
           "link": "https://openai.com/index/virgin-atlantic",
           "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "AdventHealth advances whole-person care with OpenAI",
-          "link": "https://openai.com/index/adventhealth",
-          "pubDate": "Thu, 21 May 2026 12:00:00 GMT",
           "source": ""
         }
       ]
