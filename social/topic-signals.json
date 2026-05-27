@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T13:47:40.039Z",
+  "generatedAt": "2026-05-27T14:32:26.157Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,15 +81,15 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-          "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-          "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
+          "title": "Building self-improving tax agents with Codex",
+          "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+          "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
           "source": ""
         },
         {
-          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-          "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-          "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
+          "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+          "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+          "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
@@ -99,15 +99,15 @@
           "source": ""
         },
         {
-          "title": "AdventHealth advances whole-person care with OpenAI",
-          "link": "https://openai.com/index/adventhealth",
-          "pubDate": "Thu, 21 May 2026 12:00:00 GMT",
+          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+          "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+          "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-          "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-          "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
+          "title": "AdventHealth advances whole-person care with OpenAI",
+          "link": "https://openai.com/index/adventhealth",
+          "pubDate": "Thu, 21 May 2026 12:00:00 GMT",
           "source": ""
         }
       ]
