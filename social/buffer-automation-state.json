@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-27",
+      "postId": "linkedin-8-1779899508048-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nGoogle Display Ads has a new home in Demand Gen. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Google Display Ads has a new home in Demand Gen.",
+        "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1779899508048-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a171c74d197a00f1f6e16c4",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-27",
       "postId": "x-7-1779892405134-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
@@ -2496,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "6a00732f2789e816c91a1649",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-10",
-      "postId": "linkedin-4-1778411619039-0",
-      "platform": "linkedin",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
-      "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-        "Expanding digital IDs in India and around the world"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-4-1778411619039-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a0068638c697e6b3c254530",
         "status": "sent"
       }
     }
