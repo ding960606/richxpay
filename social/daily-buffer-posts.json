@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-28T17:12:10.886Z",
+  "generatedAt": "2026-05-28T18:20:41.697Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-8-1779988330886-0",
-      "platform": "linkedin",
-      "localTime": "00:06",
-      "topicBucket": "ad-spend",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools. Google's shift of Display Ads into Demand Gen shows how much the foundation of modern marketing is being rebuilt around AI-driven automation.\n\nFor media buyers and founders, better targeting tools do not solve the underlying operational friction of billing. If your payment setup is not as agile as your campaigns, you risk account pauses and missed opportunities during scaling.\n\nRichXPay provides the payment layer for this workflow. By funding virtual cards with USDT or USDC, you can manage spend across Meta and Google Ads without the delays of traditional cross-border banking.",
+      "id": "x-9-1779992441697-0",
+      "platform": "x",
+      "localTime": "02:18",
+      "topicBucket": "ai-subscriptions",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "hook": "AI tool adoption keeps growing.",
+      "copy": "AI tool adoption keeps growing.\n\nOpenAI’s Frontier Governance Framework AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or...",
       "sourceTitles": [
-        "Google Display Ads has a new home in Demand Gen.",
-        "Here's how AI is rebuilding the foundation of modern marketing."
+        "OpenAI’s Frontier Governance Framework",
+        "Cisco and OpenAI redefine enterprise engineering with Codex"
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "linkedin_ad-spend_2026-05-28_slot8"
+      "path": "/netflix-virtual-card/",
+      "landingTitle": "Netflix virtual card",
+      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
+      "campaign": "x_ai-subscriptions_2026-05-28_slot9"
     }
   ]
 }
