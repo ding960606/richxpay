@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-28",
+      "postId": "linkedin-8-1779988330886-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools. Google's shift of Display Ads into Demand Gen shows how much the foundation of modern marketing is being rebuilt around AI-driven automation.\n\nFor media buyers and founders, better targeting tools do not solve the underlying operational friction of billing. If your payment setup is not as agile as your campaigns, you risk account pauses and missed opportunities during scaling.\n\nRichXPay provides the payment layer for this workflow. By funding virtual cards with USDT or USDC, you can manage spend across Meta and Google Ads without the delays of traditional cross-border banking.",
+      "sourceTitles": [
+        "Google Display Ads has a new home in Demand Gen.",
+        "Here's how AI is rebuilding the foundation of modern marketing."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1779988330886-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a18776b32e1933fecc36b10",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-28",
       "postId": "linkedin-8-1779986693659-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2496,27 +2517,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "6a01de9c1e8fca1bb3c38369",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-11",
-      "postId": "x-5-1778503787302-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nNew AI-powered bidding and budgeting innovations in Search and Shopping better ad tooling still needs cleaner billing and payment control RichXPay fits that...",
-      "sourceTitles": [
-        "New AI-powered bidding and budgeting innovations in Search and Shopping",
-        "5 gardening tips you can try right in Search"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1778503787302-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a01d06bfb75ceeb6865a164",
         "status": "sent"
       }
     }

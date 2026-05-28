@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-28T16:44:53.659Z",
+  "generatedAt": "2026-05-28T17:12:10.886Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-8-1779986693659-0",
+      "id": "linkedin-8-1779988330886-0",
       "platform": "linkedin",
       "localTime": "00:06",
       "topicBucket": "ad-spend",
       "angle": "better ad tooling still needs cleaner billing and payment control",
       "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools.\n\nCatch up on 12 major I/O 2026 moments Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "copy": "Ad platforms keep adding smarter tools. Google's shift of Display Ads into Demand Gen shows how much the foundation of modern marketing is being rebuilt around AI-driven automation.\n\nFor media buyers and founders, better targeting tools do not solve the underlying operational friction of billing. If your payment setup is not as agile as your campaigns, you risk account pauses and missed opportunities during scaling.\n\nRichXPay provides the payment layer for this workflow. By funding virtual cards with USDT or USDC, you can manage spend across Meta and Google Ads without the delays of traditional cross-border banking.",
       "sourceTitles": [
-        "Catch up on 12 major I/O 2026 moments",
+        "Google Display Ads has a new home in Demand Gen.",
         "Here's how AI is rebuilding the foundation of modern marketing."
       ],
       "path": "/usdt-to-virtual-card/",
