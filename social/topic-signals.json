@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T20:28:51.562Z",
+  "generatedAt": "2026-05-28T11:03:40.806Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,15 +81,15 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Building self-improving tax agents with Codex",
-          "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-          "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+          "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+          "link": "https://openai.com/index/cisco",
+          "pubDate": "Wed, 27 May 2026 11:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Warp’s big bet on building open source with GPT-5.5",
-          "link": "https://openai.com/index/warp",
-          "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
+          "title": "Building self-improving tax agents with Codex",
+          "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+          "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
           "source": ""
         },
         {
@@ -99,15 +99,15 @@
           "source": ""
         },
         {
-          "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-          "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-          "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
+          "title": "Warp’s big bet on building open source with GPT-5.5",
+          "link": "https://openai.com/index/warp",
+          "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-          "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-          "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
+          "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+          "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+          "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]
