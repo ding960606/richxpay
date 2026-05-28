@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T18:20:20.634Z",
+  "generatedAt": "2026-05-28T20:36:55.225Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -99,14 +99,14 @@
           "source": ""
         },
         {
-          "title": "Election information and safeguards in 2026",
-          "link": "https://openai.com/index/election-safeguards-2026",
+          "title": "Warp’s big bet on building open source with GPT-5.5",
+          "link": "https://openai.com/index/warp",
           "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Warp’s big bet on building open source with GPT-5.5",
-          "link": "https://openai.com/index/warp",
+          "title": "Election information and safeguards in 2026",
+          "link": "https://openai.com/index/election-safeguards-2026",
           "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
           "source": ""
         }
