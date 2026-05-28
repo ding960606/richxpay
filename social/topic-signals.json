@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T14:44:08.213Z",
+  "generatedAt": "2026-05-28T16:44:17.479Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Catch up on 12 major I/O 2026 moments",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+          "pubDate": "Thu, 28 May 2026 15:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "Here's how AI is rebuilding the foundation of modern marketing.",
           "link": "https://blog.google/products/ads-commerce/ads-decoded-finale/",
           "pubDate": "Thu, 28 May 2026 13:00:00 +0000",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products/ads-commerce/google-marketing-live-2026-collection/",
           "pubDate": "Wed, 20 May 2026 16:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Turn data into decisions with unified measurement.",
-          "link": "https://blog.google/products/marketingplatform/analytics/meridian-google-analytics-360/",
-          "pubDate": "Wed, 20 May 2026 16:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -80,6 +80,12 @@
       "label": "AI subscriptions",
       "url": "https://openai.com/news/rss.xml",
       "items": [
+        {
+          "title": "OpenAI’s Frontier Governance Framework",
+          "link": "https://openai.com/index/openai-frontier-governance-framework",
+          "pubDate": "Thu, 28 May 2026 00:00:00 GMT",
+          "source": ""
+        },
         {
           "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
           "link": "https://openai.com/index/cisco",
@@ -93,21 +99,15 @@
           "source": ""
         },
         {
-          "title": "Warp’s big bet on building open source with GPT-5.5",
-          "link": "https://openai.com/index/warp",
-          "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
           "title": "Election information and safeguards in 2026",
           "link": "https://openai.com/index/election-safeguards-2026",
           "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-          "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-          "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
+          "title": "Warp’s big bet on building open source with GPT-5.5",
+          "link": "https://openai.com/index/warp",
+          "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]
