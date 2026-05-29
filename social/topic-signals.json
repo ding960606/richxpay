@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T18:40:29.940Z",
+  "generatedAt": "2026-05-29T20:37:48.069Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -87,6 +87,12 @@
           "source": ""
         },
         {
+          "title": "How Braintrust turns customer requests into code with Codex",
+          "link": "https://openai.com/index/braintrust",
+          "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Strengthening societal resilience with Rosalind Biodefense",
           "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
           "pubDate": "Fri, 29 May 2026 03:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "How Endava builds an agentic organization with Codex",
           "link": "https://openai.com/index/endava",
           "pubDate": "Thu, 28 May 2026 12:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "MUFG aims to become AI-native with OpenAI",
-          "link": "https://openai.com/index/mufg",
-          "pubDate": "Thu, 28 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]
