@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-29",
+      "postId": "linkedin-6-1780061603325-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nStrengthening societal resilience with Rosalind Biodefense Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "Strengthening societal resilience with Rosalind Biodefense",
+        "How Endava builds an agentic organization with Codex"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1780061603325-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a1995a345a63739417f9bf4",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-29",
       "postId": "linkedin-4-1780052132304-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2496,27 +2517,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "6a0235fbe105085af8bcf27d",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-11",
-      "postId": "x-9-1778520675954-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nHow enterprises are scaling AI AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC fun...",
-      "sourceTitles": [
-        "How enterprises are scaling AI",
-        "OpenAI Campus Network: Student club interest form"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1778520675954-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a02126441f25edb5ab3cb12",
         "status": "sent"
       }
     }
