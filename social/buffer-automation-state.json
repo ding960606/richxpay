@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-29",
+      "postId": "x-9-1780080075446-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nBoston Children’s uses AI to unlock new diagnoses AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow wi...",
+      "sourceTitles": [
+        "Boston Children’s uses AI to unlock new diagnoses",
+        "Strengthening societal resilience with Rosalind Biodefense"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1780080075446-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a19ddcc19f751d89386130d",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-29",
       "postId": "x-9-1780078658306-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2496,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "6a03485c265cbdb26b37dc4c",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-12",
-      "postId": "x-5-1778588180325-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nNew AI-powered bidding and budgeting innovations in Search and Shopping better ad tooling still needs cleaner billing and payment control RichXPay fits that...",
-      "sourceTitles": [
-        "New AI-powered bidding and budgeting innovations in Search and Shopping",
-        "5 gardening tips you can try right in Search"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1778588180325-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a031a1408d041f508181c65",
         "status": "sent"
       }
     }
