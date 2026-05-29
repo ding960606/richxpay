@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T13:32:36.865Z",
+  "generatedAt": "2026-05-29T16:31:20.232Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Boston Children’s uses AI to unlock new diagnoses",
+          "link": "https://openai.com/index/boston-childrens-hospital",
+          "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Strengthening societal resilience with Rosalind Biodefense",
           "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
           "pubDate": "Fri, 29 May 2026 03:00:00 GMT",
@@ -93,21 +99,15 @@
           "source": ""
         },
         {
-          "title": "OpenAI’s Frontier Governance Framework",
-          "link": "https://openai.com/index/openai-frontier-governance-framework",
-          "pubDate": "Thu, 28 May 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
           "title": "MUFG aims to become AI-native with OpenAI",
           "link": "https://openai.com/index/mufg",
           "pubDate": "Thu, 28 May 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-          "link": "https://openai.com/index/cisco",
-          "pubDate": "Wed, 27 May 2026 11:00:00 GMT",
+          "title": "OpenAI’s Frontier Governance Framework",
+          "link": "https://openai.com/index/openai-frontier-governance-framework",
+          "pubDate": "Thu, 28 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]
