@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-30",
+      "postId": "linkedin-6-1780150785450-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nBoston Children’s uses AI to unlock new diagnoses Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "Boston Children’s uses AI to unlock new diagnoses",
+        "How Braintrust turns customer requests into code with Codex"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1780150785450-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a1af20187e69d1399250c50",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-30",
       "postId": "x-5-1780143199412-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2497,27 +2518,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a047b7ca9cc5dd58830eb0d",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-13",
-      "postId": "x-5-1778675011448-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nNew AI-powered bidding and budgeting innovations in Search and Shopping better ad tooling still needs cleaner billing and payment control RichXPay fits that...",
-      "sourceTitles": [
-        "New AI-powered bidding and budgeting innovations in Search and Shopping",
-        "5 gardening tips you can try right in Search"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1778675011448-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a046d4429dbcd38eeab6090",
-        "status": "sent"
       }
     }
   ]
