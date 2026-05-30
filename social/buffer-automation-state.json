@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-30",
+      "postId": "x-7-1780152917660-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. payment rails are improving but card access...",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1780152917660-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a1afa5619f751d8938b2d8e",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-30",
       "postId": "linkedin-6-1780150785450-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2497,27 +2518,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a049ac4b66a3e31b92823a4",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-13",
-      "postId": "linkedin-6-1778678652137-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nHow finance teams use Codex Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "How finance teams use Codex",
-        "How NVIDIA engineers and researchers build with Codex"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1778678652137-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a047b7ca9cc5dd58830eb0d",
-        "status": "error"
       }
     }
   ]
