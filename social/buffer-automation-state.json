@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-31",
+      "postId": "x-7-1780239810713-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. payment rails are improving but card access...",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1780239810713-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a1c4dc373337d7a137ad315",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-31",
       "postId": "linkedin-6-1780237355009-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2496,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "6a0602ec911ce5d7f210da3a",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-14",
-      "postId": "x-7-1778771487875-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. payment rails are improving but card access...",
-      "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-        "Expanding digital IDs in India and around the world"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1778771487875-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a05e620f05c8cc3602f38af",
         "status": "sent"
       }
     }
