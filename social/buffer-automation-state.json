@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-31",
+      "postId": "linkedin-8-1780245462862-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nCatch up on 12 major I/O 2026 moments Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Catch up on 12 major I/O 2026 moments",
+        "Here's how AI is rebuilding the foundation of modern marketing."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1780245462862-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a1c63d773337d7a137b3773",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-31",
       "postId": "x-7-1780239810713-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
@@ -2496,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "6a060ee10dd566162104ea1d",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-14",
-      "postId": "x-9-1778778859792-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nBuilding a safe, effective sandbox to enable Codex on Windows AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that...",
-      "sourceTitles": [
-        "Building a safe, effective sandbox to enable Codex on Windows",
-        "Our response to the TanStack npm supply chain attack"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1778778859792-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a0602ec911ce5d7f210da3a",
         "status": "sent"
       }
     }
