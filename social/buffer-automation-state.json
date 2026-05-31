@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-31",
+      "postId": "linkedin-4-1780228296486-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1780228296486-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a1c20c897f5fea3f19aabea",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-05-31",
       "postId": "x-3-1780221555792-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2496,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "6a05ba7ba0eccb279bcd5d42",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-14",
-      "postId": "x-3-1778751703128-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nBuilding a safe, effective sandbox to enable Codex on Windows AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that...",
-      "sourceTitles": [
-        "Building a safe, effective sandbox to enable Codex on Windows",
-        "Our response to the TanStack npm supply chain attack"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1778751703128-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a0598d73a48e64809ad7544",
         "status": "sent"
       }
     }
