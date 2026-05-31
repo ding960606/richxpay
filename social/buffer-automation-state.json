@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-05-31",
+      "postId": "x-5-1780229899695-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nCatch up on 12 major I/O 2026 moments better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with USDT or USDC fundin...",
+      "sourceTitles": [
+        "Catch up on 12 major I/O 2026 moments",
+        "Here's how AI is rebuilding the foundation of modern marketing."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1780229899695-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a1c270cefeb482ae3412ffd",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-05-31",
       "postId": "linkedin-4-1780228296486-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2496,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "6a05c7c484f7091d0dbdad43",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-14",
-      "postId": "x-5-1778760315218-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nCheck out the latest news from YouTube’s Brandcast 2026. better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with...",
-      "sourceTitles": [
-        "Check out the latest news from YouTube’s Brandcast 2026.",
-        "New AI-powered bidding and budgeting innovations in Search and Shopping"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1778760315218-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a05ba7ba0eccb279bcd5d42",
         "status": "sent"
       }
     }
