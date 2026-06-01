@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-01",
+      "postId": "x-9-1780338565965-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nBoston Children’s uses AI to unlock new diagnoses AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow wi...",
+      "sourceTitles": [
+        "Boston Children’s uses AI to unlock new diagnoses",
+        "How Braintrust turns customer requests into code with Codex"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1780338565965-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a1dcf869ee7781a57119b81",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-01",
       "postId": "linkedin-8-1780330765204-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2497,27 +2518,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a075ceab7c26bd36e00f19c",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-15",
-      "postId": "linkedin-8-1778864558034-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nCheck out the latest news from YouTube’s Brandcast 2026. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
-      "sourceTitles": [
-        "Check out the latest news from YouTube’s Brandcast 2026.",
-        "New AI-powered bidding and budgeting innovations in Search and Shopping"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-8-1778864558034-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a0751aeae9a4d2f57600622",
-        "status": "error"
       }
     }
   ]
