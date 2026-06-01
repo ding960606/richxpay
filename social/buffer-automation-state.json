@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-01",
+      "postId": "linkedin-6-1780321500640-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nBoston Children’s uses AI to unlock new diagnoses Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "Boston Children’s uses AI to unlock new diagnoses",
+        "How Braintrust turns customer requests into code with Codex"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1780321500640-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a1d8cdef4e2463f1a8870a1",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-01",
       "postId": "x-5-1780318905745-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2496,27 +2517,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "6a0736b4e6c8a3efcdcea586",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-15",
-      "postId": "x-5-1778846813995-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nCheck out the latest news from YouTube’s Brandcast 2026. better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with...",
-      "sourceTitles": [
-        "Check out the latest news from YouTube’s Brandcast 2026.",
-        "New AI-powered bidding and budgeting innovations in Search and Shopping"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1778846813995-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a070c5e338e887ce9f1fd35",
         "status": "sent"
       }
     }
