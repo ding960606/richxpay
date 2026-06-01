@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-01T13:45:00.641Z",
+  "generatedAt": "2026-06-01T16:19:25.205Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-6-1780321500640-0",
+      "id": "linkedin-8-1780330765204-0",
       "platform": "linkedin",
-      "localTime": "21:36",
-      "topicBucket": "ai-subscriptions",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "hook": "AI tool adoption keeps growing.",
-      "copy": "AI tool adoption keeps growing.\n\nBoston Children’s uses AI to unlock new diagnoses Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "localTime": "00:06",
+      "topicBucket": "ad-spend",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "hook": "Ad platforms keep adding smarter tools.",
+      "copy": "Ad platforms keep adding smarter tools.\n\nCatch up on 12 major I/O 2026 moments Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
       "sourceTitles": [
-        "Boston Children’s uses AI to unlock new diagnoses",
-        "How Braintrust turns customer requests into code with Codex"
+        "Catch up on 12 major I/O 2026 moments",
+        "Here's how AI is rebuilding the foundation of modern marketing."
       ],
-      "path": "/netflix-virtual-card/",
-      "landingTitle": "Netflix virtual card",
-      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
-      "campaign": "linkedin_ai-subscriptions_2026-06-01_slot6"
+      "path": "/usdt-to-virtual-card/",
+      "landingTitle": "USDT to virtual card",
+      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
+      "campaign": "linkedin_ad-spend_2026-06-01_slot8"
     }
   ]
 }
