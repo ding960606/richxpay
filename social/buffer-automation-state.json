@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-02",
+      "postId": "x-5-1780402395777-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nCatch up on 12 major I/O 2026 moments better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with USDT or USDC fundin...",
+      "sourceTitles": [
+        "Catch up on 12 major I/O 2026 moments",
+        "Here's how AI is rebuilding the foundation of modern marketing."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1780402395777-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a1ec8dcca83693d52f48b16",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-02",
       "postId": "linkedin-4-1780400967996-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2497,27 +2518,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a083d8fb7c26bd36e08acec",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-16",
-      "postId": "linkedin-2-1778922187105-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nCheck out the latest news from YouTube’s Brandcast 2026. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
-      "sourceTitles": [
-        "Check out the latest news from YouTube’s Brandcast 2026.",
-        "New AI-powered bidding and budgeting innovations in Search and Shopping"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-2-1778922187105-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a0832cbb7c26bd36e083fec",
-        "status": "error"
       }
     }
   ]
