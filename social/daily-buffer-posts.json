@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-02T12:13:15.777Z",
+  "generatedAt": "2026-06-02T14:24:47.718Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-5-1780402395777-0",
-      "platform": "x",
-      "localTime": "20:48",
-      "topicBucket": "ad-spend",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools.\n\nCatch up on 12 major I/O 2026 moments better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with USDT or USDC fundin...",
+      "id": "linkedin-6-1780410287718-0",
+      "platform": "linkedin",
+      "localTime": "21:36",
+      "topicBucket": "ai-subscriptions",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "hook": "AI tool adoption keeps growing.",
+      "copy": "AI tool adoption keeps growing.\n\nCodex is becoming a productivity tool for everyone Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
       "sourceTitles": [
-        "Catch up on 12 major I/O 2026 moments",
-        "Here's how AI is rebuilding the foundation of modern marketing."
+        "Codex is becoming a productivity tool for everyone",
+        "Our views on AI policy and political advocacy"
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "x_ad-spend_2026-06-02_slot5"
+      "path": "/netflix-virtual-card/",
+      "landingTitle": "Netflix virtual card",
+      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
+      "campaign": "linkedin_ai-subscriptions_2026-06-02_slot6"
     }
   ]
 }
