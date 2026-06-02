@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-06-01",
+  "lastGeneratedDate": "2026-06-02",
   "history": [
+    {
+      "date": "2026-06-02",
+      "postId": "linkedin-4-1780400967996-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1780400967996-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a1ec3488e0b3710f2c45ac9",
+        "status": "error"
+      }
+    },
     {
       "date": "2026-06-01",
       "postId": "linkedin-10-1780341123704-0",
@@ -2496,27 +2517,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "6a0832cbb7c26bd36e083fec",
-        "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-15",
-      "postId": "linkedin-10-1778874812483-0",
-      "platform": "linkedin",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
-      "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-        "Expanding digital IDs in India and around the world"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-10-1778874812483-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a0779bdb7c26bd36e01c05b",
         "status": "error"
       }
     }

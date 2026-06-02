@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T19:11:46.925Z",
+  "generatedAt": "2026-06-02T11:44:37.376Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,33 +81,33 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Codex is becoming a productivity tool for everyone",
+          "link": "https://openai.com/index/codex-for-knowledge-work",
+          "pubDate": "Tue, 02 Jun 2026 02:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Our views on AI policy and political advocacy",
+          "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+          "pubDate": "Mon, 01 Jun 2026 17:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Building the infrastructure for the Intelligence Age in Michigan",
           "link": "https://openai.com/index/stargate-michigan-data-center",
           "pubDate": "Mon, 01 Jun 2026 12:00:00 GMT",
           "source": ""
         },
         {
+          "title": "OpenAI frontier models and Codex are now available on AWS",
+          "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+          "pubDate": "Mon, 01 Jun 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Boston Children’s uses AI to unlock new diagnoses",
           "link": "https://openai.com/index/boston-childrens-hospital",
           "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "How Braintrust turns customer requests into code with Codex",
-          "link": "https://openai.com/index/braintrust",
-          "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Strengthening societal resilience with Rosalind Biodefense",
-          "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-          "pubDate": "Fri, 29 May 2026 03:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "A shared playbook for trustworthy third party evaluations",
-          "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-          "pubDate": "Fri, 29 May 2026 00:00:00 GMT",
           "source": ""
         }
       ]
