@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T15:03:11.831Z",
+  "generatedAt": "2026-06-02T17:09:17.072Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -87,6 +87,12 @@
           "source": ""
         },
         {
+          "title": "Codex for every role, tool, and workflow",
+          "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
+          "pubDate": "Tue, 02 Jun 2026 09:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Advancing youth safety and opportunity through global leadership",
           "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
           "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "Our views on AI policy and political advocacy",
           "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
           "pubDate": "Mon, 01 Jun 2026 17:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Building the infrastructure for the Intelligence Age in Michigan",
-          "link": "https://openai.com/index/stargate-michigan-data-center",
-          "pubDate": "Mon, 01 Jun 2026 12:00:00 GMT",
           "source": ""
         }
       ]
