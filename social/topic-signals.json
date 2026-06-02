@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T14:22:03.679Z",
+  "generatedAt": "2026-06-02T15:03:11.831Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,18 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+          "link": "https://openai.com/index/travelers",
+          "pubDate": "Tue, 02 Jun 2026 12:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Advancing youth safety and opportunity through global leadership",
+          "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+          "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Codex is becoming a productivity tool for everyone",
           "link": "https://openai.com/index/codex-for-knowledge-work",
           "pubDate": "Tue, 02 Jun 2026 02:00:00 GMT",
@@ -96,18 +108,6 @@
           "title": "Building the infrastructure for the Intelligence Age in Michigan",
           "link": "https://openai.com/index/stargate-michigan-data-center",
           "pubDate": "Mon, 01 Jun 2026 12:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "OpenAI frontier models and Codex are now available on AWS",
-          "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-          "pubDate": "Mon, 01 Jun 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Boston Children’s uses AI to unlock new diagnoses",
-          "link": "https://openai.com/index/boston-childrens-hospital",
-          "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
           "source": ""
         }
       ]
