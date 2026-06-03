@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-03",
+      "postId": "linkedin-10-1780513265468-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+        "Expanding digital IDs in India and around the world"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1780513265468-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2079f1beb1cfcdf51038ad",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-03",
       "postId": "x-9-1780509229313-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a09a7638f418d36956591d0",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-17",
-      "postId": "x-3-1779011816280-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nScaling ChatGPT Plus requires stable recurring payments. RichXPay provides virtual cards funded via USDT to keep your AI subscriptions active and friction-free.",
-      "sourceTitles": [
-        "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-        "How business operations teams use Codex"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1779011816280-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a0990e9e9a56b849fd962c8",
-        "status": "sent"
       }
     }
   ]
