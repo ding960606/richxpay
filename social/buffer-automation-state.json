@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-03",
+      "postId": "x-9-1780509229313-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nOpenAI public policy agenda AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC fundin...",
+      "sourceTitles": [
+        "OpenAI public policy agenda",
+        "A blueprint for democratic governance of frontier AI"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1780509229313-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a206a2d283b4aaafde3e201",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-03",
       "postId": "x-7-1780498982728-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
@@ -2497,27 +2518,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "6a0990e9e9a56b849fd962c8",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-17",
-      "postId": "x-3-1779009296343-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI and Malta partner to bring ChatGPT Plus to all citizens AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits tha...",
-      "sourceTitles": [
-        "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-        "How business operations teams use Codex"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1779009296343-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a0987100557e54b5702c13d",
         "status": "sent"
       }
     }
