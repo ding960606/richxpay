@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T17:57:40.637Z",
+  "generatedAt": "2026-06-04T20:23:53.100Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -105,8 +105,8 @@
           "source": ""
         },
         {
-          "title": "A blueprint for democratic governance of frontier AI",
-          "link": "https://openai.com/index/frontier-safety-blueprint",
+          "title": "OpenAI public policy agenda",
+          "link": "https://openai.com/index/public-policy-agenda",
           "pubDate": "Wed, 03 Jun 2026 10:00:00 GMT",
           "source": ""
         }
