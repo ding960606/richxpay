@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T13:30:11.476Z",
+  "generatedAt": "2026-06-04T16:12:54.301Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -87,6 +87,12 @@
           "source": ""
         },
         {
+          "title": "Dreaming: Better memory for a more helpful ChatGPT",
+          "link": "https://openai.com/index/chatgpt-memory-dreaming",
+          "pubDate": "Thu, 04 Jun 2026 09:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Introducing new capabilities to GPT-Rosalind",
           "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
           "pubDate": "Wed, 03 Jun 2026 13:15:00 GMT",
@@ -96,12 +102,6 @@
           "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
           "link": "https://openai.com/index/wasmer",
           "pubDate": "Wed, 03 Jun 2026 12:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "OpenAI public policy agenda",
-          "link": "https://openai.com/index/public-policy-agenda",
-          "pubDate": "Wed, 03 Jun 2026 10:00:00 GMT",
           "source": ""
         },
         {

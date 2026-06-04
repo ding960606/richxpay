@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-04T13:32:34.733Z",
+  "generatedAt": "2026-06-04T16:19:40.841Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-6-1780579954733-0",
+      "id": "linkedin-8-1780589980841-0",
       "platform": "linkedin",
-      "localTime": "21:36",
-      "topicBucket": "ai-subscriptions",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "hook": "AI tool adoption keeps growing.",
-      "copy": "AI tool adoption keeps growing.\n\nHow Endava is redesigning software delivery around AI agents Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "localTime": "00:06",
+      "topicBucket": "ad-spend",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "hook": "Ad platforms keep adding smarter tools.",
+      "copy": "Ad platforms keep adding smarter tools.\n\nYouTube earns industry's first MRC accreditation for short-form video. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
       "sourceTitles": [
-        "How Endava is redesigning software delivery around AI agents",
-        "Introducing new capabilities to GPT-Rosalind"
+        "YouTube earns industry's first MRC accreditation for short-form video.",
+        "5 ways Google Search can level up your thrift and vintage shopping"
       ],
-      "path": "/netflix-virtual-card/",
-      "landingTitle": "Netflix virtual card",
-      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
-      "campaign": "linkedin_ai-subscriptions_2026-06-04_slot6"
+      "path": "/usdt-to-virtual-card/",
+      "landingTitle": "USDT to virtual card",
+      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
+      "campaign": "linkedin_ad-spend_2026-06-04_slot8"
     }
   ]
 }
