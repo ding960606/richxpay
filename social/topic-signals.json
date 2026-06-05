@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T20:23:53.100Z",
+  "generatedAt": "2026-06-05T10:55:27.515Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -93,6 +93,12 @@
           "source": ""
         },
         {
+          "title": "Biodefense in the Intelligence Age",
+          "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+          "pubDate": "Thu, 04 Jun 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Introducing new capabilities to GPT-Rosalind",
           "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
           "pubDate": "Wed, 03 Jun 2026 13:15:00 GMT",
@@ -102,12 +108,6 @@
           "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
           "link": "https://openai.com/index/wasmer",
           "pubDate": "Wed, 03 Jun 2026 12:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "OpenAI public policy agenda",
-          "link": "https://openai.com/index/public-policy-agenda",
-          "pubDate": "Wed, 03 Jun 2026 10:00:00 GMT",
           "source": ""
         }
       ]
