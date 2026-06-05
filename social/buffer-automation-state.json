@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-05",
+      "postId": "x-7-1780674445777-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster. While new protocols emerge, card access still blocks global teams at checkout. RichXPay provides virtual cards for Meta ads and AI tools, funded via USDT.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1780674445777-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a22ef8ec22ac0e8b5eab845",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-05",
       "postId": "linkedin-6-1780668024698-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a0b3b95c3b2374044ec054d",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-18",
-      "postId": "x-7-1779115029182-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. payment rails are improving but card access...",
-      "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-        "Expanding digital IDs in India and around the world"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1779115029182-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a0b241586cb7f46ab56516e",
-        "status": "sent"
       }
     }
   ]
