@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-05",
+      "postId": "linkedin-6-1780668024698-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nHow Endava is redesigning software delivery around AI agents Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "How Endava is redesigning software delivery around AI agents",
+        "Dreaming: Better memory for a more helpful ChatGPT"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1780668024698-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a22d6794ab490dab8721dc8",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-05",
       "postId": "x-5-1780664134627-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a0b241586cb7f46ab56516e",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-18",
-      "postId": "linkedin-6-1779112839267-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI and Malta partner to bring ChatGPT Plus to all citizens Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-        "Databricks brings GPT-5.5 to enterprise agent workflows"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1779112839267-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a0b1b878b441db6ac47d3a7",
-        "status": "error"
       }
     }
   ]
