@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-05",
+      "postId": "x-9-1780680325530-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nHow Endava is redesigning software delivery around AI agents AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that...",
+      "sourceTitles": [
+        "How Endava is redesigning software delivery around AI agents",
+        "Dreaming: Better memory for a more helpful ChatGPT"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1780680325530-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a230686fed6294af9000faa",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-05",
       "postId": "linkedin-8-1780676123258-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a0b6fefe791669ddffcef67",
         "status": "sending"
-      }
-    },
-    {
-      "date": "2026-05-18",
-      "postId": "x-9-1779125914489-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments AI adoption creates more recurring subscriptions that need a reliable paymen...",
-      "sourceTitles": [
-        "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-        "OpenAI and Malta partner to bring ChatGPT Plus to all citizens"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1779125914489-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a0b4e9a939376f231b8f858",
-        "status": "sent"
       }
     }
   ]
