@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-06",
+      "postId": "linkedin-4-1780746280350-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1780746280350-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a240828a1f61c27dba028d4",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-06",
       "postId": "x-3-1780738347599-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2497,27 +2518,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "6a0c89fd3a31cb5c6b374abf",
-        "status": "sending"
-      }
-    },
-    {
-      "date": "2026-05-19",
-      "postId": "linkedin-6-1779197464446-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-        "OpenAI and Malta partner to bring ChatGPT Plus to all citizens"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1779197464446-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a0c66190d7ee3402fbd005a",
         "status": "sending"
       }
     }
