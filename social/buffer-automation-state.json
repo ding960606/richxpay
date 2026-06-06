@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-06",
+      "postId": "x-9-1780766591450-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nHow Endava is redesigning software delivery around AI agents AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that...",
+      "sourceTitles": [
+        "How Endava is redesigning software delivery around AI agents",
+        "Dreaming: Better memory for a more helpful ChatGPT"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1780766591450-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a24577f8490187966a1c825",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-06",
       "postId": "linkedin-8-1780763761860-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a0d9820cb8fe2827b0dd01f",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-20",
-      "postId": "x-3-1779273003276-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nThe next phase of OpenAI’s Education for Countries AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow w...",
-      "sourceTitles": [
-        "The next phase of OpenAI’s Education for Countries",
-        "Introducing OpenAI for Singapore"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1779273003276-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a0d8d2b95a84ec4de0945a8",
-        "status": "sent"
       }
     }
   ]
