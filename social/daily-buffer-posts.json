@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-07T14:33:02.681Z",
+  "generatedAt": "2026-06-07T16:47:46.795Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-7-1780842782681-0",
-      "platform": "x",
-      "localTime": "23:18",
-      "topicBucket": "cross-border-payments",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "hook": "Cross-border payments are getting faster.",
-      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
+      "id": "linkedin-8-1780850866795-0",
+      "platform": "linkedin",
+      "localTime": "00:06",
+      "topicBucket": "ad-spend",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "hook": "Ad platforms keep adding smarter tools.",
+      "copy": "Ad platforms keep adding smarter tools.\n\nThe latest AI news we announced in May 2026 Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
       "sourceTitles": [
-        "Bringing secure digital identity and payment tools to more people",
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+        "The latest AI news we announced in May 2026",
+        "YouTube earns industry's first MRC accreditation for short-form video."
       ],
-      "path": "/",
-      "landingTitle": "RichXPay homepage",
-      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
-      "campaign": "x_cross-border-payments_2026-06-07_slot7"
+      "path": "/usdt-to-virtual-card/",
+      "landingTitle": "USDT to virtual card",
+      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
+      "campaign": "linkedin_ad-spend_2026-06-07_slot8"
     }
   ]
 }
