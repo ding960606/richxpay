@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-08",
+      "postId": "linkedin-8-1780936842034-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nThe latest AI news we announced in May 2026 Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "The latest AI news we announced in May 2026",
+        "YouTube earns industry's first MRC accreditation for short-form video."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1780936842034-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a26f08a67c445b75e852a0c",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-08",
       "postId": "x-7-1780930278571-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
@@ -2497,27 +2518,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "6a0f4a0a0134cff812de0e61",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-21",
-      "postId": "x-9-1779384926071-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nAdventHealth advances whole-person care with OpenAI AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow...",
-      "sourceTitles": [
-        "AdventHealth advances whole-person care with OpenAI",
-        "The next phase of OpenAI’s Education for Countries"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1779384926071-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a0f425e3de67aaf7a4fbb83",
         "status": "sent"
       }
     }
