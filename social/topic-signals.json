@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:57:16.125Z",
+  "generatedAt": "2026-06-08T18:08:52.972Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Introducing the OpenAI Economic Research Exchange",
+          "link": "https://openai.com/index/economic-research-exchange",
+          "pubDate": "Mon, 08 Jun 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "How Endava is redesigning software delivery around AI agents",
           "link": "https://openai.com/index/endava-frontiers",
           "pubDate": "Thu, 04 Jun 2026 12:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "Introducing new capabilities to GPT-Rosalind",
           "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
           "pubDate": "Wed, 03 Jun 2026 13:15:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-          "link": "https://openai.com/index/wasmer",
-          "pubDate": "Wed, 03 Jun 2026 12:00:00 GMT",
           "source": ""
         }
       ]
