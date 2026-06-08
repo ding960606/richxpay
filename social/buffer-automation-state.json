@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-08",
+      "postId": "x-9-1780943548921-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing. Managing multiple AI subscriptions across borders often leads to card declines. RichXPay virtual cards provide a stable payment layer for ChatGPT Plus funded via USDT.",
+      "sourceTitles": [
+        "Dreaming: Better memory for a more helpful ChatGPT",
+        "Introducing the OpenAI Economic Research Exchange"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1780943548921-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a270abd9d09a94011d5bf1f",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-08",
       "postId": "x-9-1780942206636-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a103a4446ad8c4ddef9cedb",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-22",
-      "postId": "x-3-1779445786808-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nAdventHealth advances whole-person care with OpenAI AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow...",
-      "sourceTitles": [
-        "AdventHealth advances whole-person care with OpenAI",
-        "How Ramp engineers accelerate code review with Codex"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1779445786808-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a10301bf550c8083f8a2b08",
-        "status": "sent"
       }
     }
   ]
