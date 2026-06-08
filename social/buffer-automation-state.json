@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-08",
+      "postId": "linkedin-10-1780950759063-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1780950759063-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2726e785863bc060f00b2e",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-08",
       "postId": "x-9-1780943548921-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a104d7e611cd1e6390ebec2",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-22",
-      "postId": "linkedin-4-1779448387297-0",
-      "platform": "linkedin",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
-      "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-        "Expanding digital IDs in India and around the world"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-4-1779448387297-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a103a4446ad8c4ddef9cedb",
-        "status": "error"
       }
     }
   ]
