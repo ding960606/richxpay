@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-08",
+      "postId": "x-7-1780930278571-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster. New identity protocols are emerging, but card access still blocks teams at checkout. RichXPay provides virtual cards for Meta Ads and AI tools via USDT.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1780930278571-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a26d6e7eb20d707b182e6f0",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-08",
       "postId": "linkedin-6-1780928490082-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a0f425e3de67aaf7a4fbb83",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-21",
-      "postId": "linkedin-8-1779379397009-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nHow we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
-      "sourceTitles": [
-        "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google",
-        "Google Marketing Live 2026"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-8-1779379397009-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a0f2cc5e63b9fa8828d2c86",
-        "status": "error"
       }
     }
   ]
