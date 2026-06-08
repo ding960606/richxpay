@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-08",
+      "postId": "linkedin-10-1780953312741-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1780953312741-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2730e185863bc060f043e6",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-08",
       "postId": "linkedin-10-1780950759063-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a105b9433262db6110011b1",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-22",
-      "postId": "x-5-1779453310370-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nHow we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google better ad tooling still needs cleaner billing and pa...",
-      "sourceTitles": [
-        "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google",
-        "Google Marketing Live 2026"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1779453310370-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a104d7e611cd1e6390ebec2",
-        "status": "sent"
       }
     }
   ]
