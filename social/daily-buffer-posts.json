@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-07T19:45:33.979Z",
+  "generatedAt": "2026-06-08T12:10:48.558Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-10-1780861533979-0",
-      "platform": "linkedin",
-      "localTime": "03:06",
-      "topicBucket": "cross-border-payments",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "hook": "Cross-border payments are getting faster.",
-      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "id": "x-5-1780920648558-0",
+      "platform": "x",
+      "localTime": "20:48",
+      "topicBucket": "ad-spend",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "hook": "Ad platforms keep adding smarter tools.",
+      "copy": "Ad platforms keep adding smarter tools.\n\nThe latest AI news we announced in May 2026 better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with USDT or USDC...",
       "sourceTitles": [
-        "Bringing secure digital identity and payment tools to more people",
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+        "The latest AI news we announced in May 2026",
+        "YouTube earns industry's first MRC accreditation for short-form video."
       ],
-      "path": "/",
-      "landingTitle": "RichXPay homepage",
-      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
-      "campaign": "linkedin_cross-border-payments_2026-06-07_slot10"
+      "path": "/usdt-to-virtual-card/",
+      "landingTitle": "USDT to virtual card",
+      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
+      "campaign": "x_ad-spend_2026-06-08_slot5"
     }
   ]
 }

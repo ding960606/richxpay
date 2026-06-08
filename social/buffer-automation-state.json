@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-06-07",
+  "lastGeneratedDate": "2026-06-08",
   "history": [
+    {
+      "date": "2026-06-08",
+      "postId": "x-5-1780920648558-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nThe latest AI news we announced in May 2026 better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with USDT or USDC...",
+      "sourceTitles": [
+        "The latest AI news we announced in May 2026",
+        "YouTube earns industry's first MRC accreditation for short-form video."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1780920648558-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a26b1495da4171775079436",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-06-07",
       "postId": "linkedin-10-1780861533979-0",
@@ -2497,27 +2518,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "6a0f13e03e782e8f031c44be",
-        "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-21",
-      "postId": "linkedin-6-1779370309105-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nThe next phase of OpenAI’s Education for Countries Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "The next phase of OpenAI’s Education for Countries",
-        "An OpenAI model has disproved a central conjecture in discrete geometry"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1779370309105-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a0f09453e782e8f031c15ec",
         "status": "error"
       }
     }
