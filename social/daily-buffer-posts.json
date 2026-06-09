@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-09T10:43:16.339Z",
+  "generatedAt": "2026-06-09T11:26:59.154Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-3-1781001796339-0",
-      "platform": "x",
-      "localTime": "18:18",
-      "topicBucket": "ai-subscriptions",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "hook": "AI tool adoption keeps growing.",
-      "copy": "AI tool adoption keeps growing.\n\nConfidential submission of draft S-1 to the SEC AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with...",
+      "id": "linkedin-4-1781004419154-0",
+      "platform": "linkedin",
+      "localTime": "19:06",
+      "topicBucket": "cross-border-payments",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "hook": "Cross-border payments are getting faster.",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
       "sourceTitles": [
-        "Confidential submission of draft S-1 to the SEC",
-        "Built to benefit everyone: our plan"
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
       ],
-      "path": "/netflix-virtual-card/",
-      "landingTitle": "Netflix virtual card",
-      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
-      "campaign": "x_ai-subscriptions_2026-06-09_slot3"
+      "path": "/",
+      "landingTitle": "RichXPay homepage",
+      "landingSummary": "Virtual card for global payments, USDT/USDC top-up, Apple Pay and subscription use cases.",
+      "campaign": "linkedin_cross-border-payments_2026-06-09_slot4"
     }
   ]
 }
