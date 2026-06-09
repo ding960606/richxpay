@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T17:30:58.332Z",
+  "generatedAt": "2026-06-09T20:20:02.652Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "How engineers at Nextdoor use Codex to build without limits",
+          "link": "https://openai.com/index/nextdoor",
+          "pubDate": "Tue, 09 Jun 2026 12:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Confidential submission of draft S-1 to the SEC",
           "link": "https://openai.com/index/openai-submits-confidential-s-1",
           "pubDate": "Mon, 08 Jun 2026 14:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "How Endava is redesigning software delivery around AI agents",
           "link": "https://openai.com/index/endava-frontiers",
           "pubDate": "Thu, 04 Jun 2026 12:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Dreaming: Better memory for a more helpful ChatGPT",
-          "link": "https://openai.com/index/chatgpt-memory-dreaming",
-          "pubDate": "Thu, 04 Jun 2026 09:00:00 GMT",
           "source": ""
         }
       ]
