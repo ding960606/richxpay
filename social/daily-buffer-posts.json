@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-09T12:50:24.540Z",
+  "generatedAt": "2026-06-09T13:46:54.655Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-5-1781009424540-0",
-      "platform": "x",
-      "localTime": "20:48",
-      "topicBucket": "ad-spend",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools. Better AI targeting won't scale if your billing cycle keeps failing. RichXPay provides virtual cards funded via USDT to keep Meta and Google Ads running.",
+      "id": "linkedin-6-1781012814654-0",
+      "platform": "linkedin",
+      "localTime": "21:36",
+      "topicBucket": "ai-subscriptions",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "hook": "AI tool adoption keeps growing.",
+      "copy": "AI tool adoption keeps growing.\n\nConfidential submission of draft S-1 to the SEC Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
       "sourceTitles": [
-        "The latest AI news we announced in May 2026",
-        "YouTube earns industry's first MRC accreditation for short-form video."
+        "Confidential submission of draft S-1 to the SEC",
+        "Built to benefit everyone: our plan"
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "x_ad-spend_2026-06-09_slot5"
+      "path": "/netflix-virtual-card/",
+      "landingTitle": "Netflix virtual card",
+      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
+      "campaign": "linkedin_ai-subscriptions_2026-06-09_slot6"
     }
   ]
 }
