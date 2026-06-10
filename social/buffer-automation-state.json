@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-10",
+      "postId": "linkedin-6-1781099291366-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nFrom data to decisions: how LSEG is scaling trusted AI Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "From data to decisions: how LSEG is scaling trusted AI",
+        "How engineers at Nextdoor use Codex to build without limits"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781099291366-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a296b1bf8192bd214610b73",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-10",
       "postId": "linkedin-4-1781092057198-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a120202f78e0c34522d5d22",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-23",
-      "postId": "x-9-1779556453501-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI named a Leader in enterprise coding agents by Gartner AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that...",
-      "sourceTitles": [
-        "OpenAI named a Leader in enterprise coding agents by Gartner",
-        "How Virgin Atlantic ships faster with Codex"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1779556453501-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a11e066cc9ff193f815c5e1",
-        "status": "sent"
       }
     }
   ]
