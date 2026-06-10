@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-10",
+      "postId": "linkedin-10-1781126811500-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781126811500-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a29d69b0e4cea804c9569eb",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-10",
       "postId": "linkedin-10-1781124312385-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a131035f78e0c345230b3e7",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "postId": "linkedin-6-1779632063996-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI named a Leader in enterprise coding agents by Gartner Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "OpenAI named a Leader in enterprise coding agents by Gartner",
-        "How Virgin Atlantic ships faster with Codex"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1779632063996-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a1307c0cc9ff193f8196898",
-        "status": "error"
       }
     }
   ]
