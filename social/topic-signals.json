@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T18:10:23.920Z",
+  "generatedAt": "2026-06-10T20:44:19.247Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "PRC-linked influence operations are targeting AI debates in the US",
+          "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+          "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "From data to decisions: how LSEG is scaling trusted AI",
           "link": "https://openai.com/index/lseg",
           "pubDate": "Wed, 10 Jun 2026 00:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "Industrial policy for the Intelligence Age",
           "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
           "pubDate": "Tue, 09 Jun 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Confidential submission of draft S-1 to the SEC",
-          "link": "https://openai.com/index/openai-submits-confidential-s-1",
-          "pubDate": "Mon, 08 Jun 2026 14:00:00 GMT",
           "source": ""
         }
       ]
