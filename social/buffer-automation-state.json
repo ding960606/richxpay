@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-11",
+      "postId": "linkedin-6-1781187340598-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nSupporting Europe’s work in ensuring a trustworthy AI ecosystem Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+        "How an astrophysicist uses Codex to help simulate black holes"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781187340598-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2ac30de5741a485ed6b877",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-11",
       "postId": "x-5-1781180321516-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a13540e4c78530d64e3f180",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "postId": "x-9-1779642826883-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI named a Leader in enterprise coding agents by Gartner AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that...",
-      "sourceTitles": [
-        "OpenAI named a Leader in enterprise coding agents by Gartner",
-        "How Virgin Atlantic ships faster with Codex"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1779642826883-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a1331cb8b8c04304a4710ab",
-        "status": "sent"
       }
     }
   ]
