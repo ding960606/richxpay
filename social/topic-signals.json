@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T17:07:44.587Z",
+  "generatedAt": "2026-06-11T18:28:42.664Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,14 +81,14 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+          "title": "OpenAI to acquire Ona",
+          "link": "https://openai.com/index/openai-to-acquire-ona",
           "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "OpenAI to acquire Ona",
-          "link": "https://openai.com/index/openai-to-acquire-ona",
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
           "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
           "source": ""
         },
@@ -99,15 +99,15 @@
           "source": ""
         },
         {
-          "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-          "link": "https://openai.com/index/openai-on-oracle-cloud",
-          "pubDate": "Wed, 10 Jun 2026 20:00:00 GMT",
+          "title": "BBVA puts AI at the core of banking with OpenAI",
+          "link": "https://openai.com/index/bbva",
+          "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "PRC-linked influence operations are targeting AI debates in the US",
-          "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-          "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
+          "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+          "link": "https://openai.com/index/openai-on-oracle-cloud",
+          "pubDate": "Wed, 10 Jun 2026 20:00:00 GMT",
           "source": ""
         }
       ]
