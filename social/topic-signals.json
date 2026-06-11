@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T11:50:31.027Z",
+  "generatedAt": "2026-06-11T12:16:03.675Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "We’re bringing Walmart Connect to Display & Video 360.",
+          "link": "https://blog.google/products/marketingplatform/360/walmart-connect/",
+          "pubDate": "Thu, 11 Jun 2026 12:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "The latest AI news we announced in May 2026",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
           "pubDate": "Fri, 05 Jun 2026 14:45:00 +0000",
@@ -65,12 +71,6 @@
           "title": "Catch up on 12 major I/O 2026 moments",
           "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
           "pubDate": "Thu, 28 May 2026 15:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Here's how AI is rebuilding the foundation of modern marketing.",
-          "link": "https://blog.google/products/ads-commerce/ads-decoded-finale/",
-          "pubDate": "Thu, 28 May 2026 13:00:00 +0000",
           "source": ""
         }
       ]

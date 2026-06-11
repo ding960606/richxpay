@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-11",
+      "postId": "x-5-1781180321516-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nWe’re bringing Walmart Connect to Display & Video 360. better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with US...",
+      "sourceTitles": [
+        "We’re bringing Walmart Connect to Display & Video 360.",
+        "The latest AI news we announced in May 2026"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1781180321516-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2aa7a2b880c6daab55e100",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-11",
       "postId": "linkedin-4-1781178764841-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a1331cb8b8c04304a4710ab",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "postId": "linkedin-8-1779639367217-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nHow we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
-      "sourceTitles": [
-        "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google",
-        "Google Marketing Live 2026"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-8-1779639367217-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a1324478b8c04304a46d5bc",
-        "status": "error"
       }
     }
   ]
