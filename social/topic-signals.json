@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T14:50:53.164Z",
+  "generatedAt": "2026-06-11T16:41:14.812Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+          "link": "https://blog.google/products/ads-commerce/new-real-estate-ads-formats/",
+          "pubDate": "Thu, 11 Jun 2026 15:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "We’re bringing Walmart Connect to Display & Video 360.",
           "link": "https://blog.google/products/marketingplatform/360/walmart-connect/",
           "pubDate": "Thu, 11 Jun 2026 12:00:00 +0000",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
           "pubDate": "Wed, 03 Jun 2026 13:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Catch up on 12 major I/O 2026 moments",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-          "pubDate": "Thu, 28 May 2026 15:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -81,14 +81,20 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
           "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+          "title": "OpenAI to acquire Ona",
+          "link": "https://openai.com/index/openai-to-acquire-ona",
+          "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
           "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
           "source": ""
         },
@@ -102,12 +108,6 @@
           "title": "PRC-linked influence operations are targeting AI debates in the US",
           "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
           "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "From data to decisions: how LSEG is scaling trusted AI",
-          "link": "https://openai.com/index/lseg",
-          "pubDate": "Wed, 10 Jun 2026 00:00:00 GMT",
           "source": ""
         }
       ]
