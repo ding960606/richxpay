@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-12",
+      "postId": "linkedin-10-1781298382238-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781298382238-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2c74ce768f4d60d567c91a",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-12",
       "postId": "linkedin-10-1781295960729-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a173312814ee6919d8fdd39",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-27",
-      "postId": "linkedin-8-1779899508048-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nGoogle Display Ads has a new home in Demand Gen. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
-      "sourceTitles": [
-        "Google Display Ads has a new home in Demand Gen.",
-        "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-8-1779899508048-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a171c74d197a00f1f6e16c4",
-        "status": "error"
       }
     }
   ]
