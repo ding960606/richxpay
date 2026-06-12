@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-12",
+      "postId": "x-9-1781286146566-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew OpenAI Academy courses for the next era of work AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow...",
+      "sourceTitles": [
+        "New OpenAI Academy courses for the next era of work",
+        "How Preply combines AI and human tutors to personalize learning"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781286146566-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2c450334f386fffe23ca03",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-12",
       "postId": "linkedin-8-1781282239756-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a1700b50d710f3d2f76b5df",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-27",
-      "postId": "linkedin-6-1779889722167-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI, Grupo Folha and Grupo UOL announce strategic content partnership Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-        "OpenAI named a Leader in enterprise coding agents by Gartner"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1779889722167-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a16f63a481477001d9a7502",
-        "status": "error"
       }
     }
   ]
