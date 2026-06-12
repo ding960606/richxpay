@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-12",
+      "postId": "linkedin-6-1781273680355-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nHow Preply combines AI and human tutors to personalize learning Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "How Preply combines AI and human tutors to personalize learning",
+        "OpenAI to acquire Ona"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781273680355-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2c1450cc0cb54a68f5b124",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-12",
       "postId": "linkedin-6-1781271927035-0",
       "platform": "linkedin",
       "topicBucket": "ai-subscriptions",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a1601e4501dac1cec2c0c97",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-26",
-      "postId": "x-9-1779818832898-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI, Grupo Folha and Grupo UOL announce strategic content partnership AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPa...",
-      "sourceTitles": [
-        "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-        "How Virgin Atlantic ships faster with Codex"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1779818832898-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a15e151756b7beb5b27eb6d",
-        "status": "sent"
       }
     }
   ]
