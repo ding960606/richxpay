@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-13",
+      "postId": "x-5-1781352242640-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. better ad tooling still needs cleaner billing and payment control...",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1781352242640-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2d473308bd17e5f3a80b7b",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-13",
       "postId": "x-3-1781345375120-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2497,27 +2518,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "6a1821fe788ed57c14decae5",
-        "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-27",
-      "postId": "linkedin-10-1779913779267-0",
-      "platform": "linkedin",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
-      "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-        "Expanding digital IDs in India and around the world"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-10-1779913779267-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a1754345bf1883b2f603884",
         "status": "error"
       }
     }
