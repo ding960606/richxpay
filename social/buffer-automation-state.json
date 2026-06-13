@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-13",
+      "postId": "linkedin-8-1781369433773-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781369433773-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2d8a5a9017a527dd66191a",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-13",
       "postId": "x-7-1781362457488-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a1854eb06df5a0279d0975e",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-28",
-      "postId": "linkedin-6-1779977730310-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nCisco and OpenAI redefine enterprise engineering with Codex Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "Cisco and OpenAI redefine enterprise engineering with Codex",
-        "Building self-improving tax agents with Codex"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1779977730310-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a184e03a494429d1a686a37",
-        "status": "error"
       }
     }
   ]
