@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-13",
+      "postId": "x-9-1781372460029-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew OpenAI Academy courses for the next era of work AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow...",
+      "sourceTitles": [
+        "New OpenAI Academy courses for the next era of work",
+        "How Preply combines AI and human tutors to personalize learning"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781372460029-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2d962c61b0aab8c160c5b8",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-13",
       "postId": "linkedin-8-1781369433773-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a187106529a99b3b2ad3d35",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-28",
-      "postId": "x-7-1779979498794-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nWe’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments. payment rails are improving but card access...",
-      "sourceTitles": [
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-        "Expanding digital IDs in India and around the world"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1779979498794-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a1854eb06df5a0279d0975e",
-        "status": "sent"
       }
     }
   ]
