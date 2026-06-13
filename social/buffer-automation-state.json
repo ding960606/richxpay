@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-06-12",
+  "lastGeneratedDate": "2026-06-13",
   "history": [
+    {
+      "date": "2026-06-13",
+      "postId": "x-3-1781345375120-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew OpenAI Academy courses for the next era of work AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow...",
+      "sourceTitles": [
+        "New OpenAI Academy courses for the next era of work",
+        "How Preply combines AI and human tutors to personalize learning"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1781345375120-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2d2c5f768f4d60d56c3b50",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-06-12",
       "postId": "linkedin-10-1781298382238-0",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a1754345bf1883b2f603884",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-05-27",
-      "postId": "x-9-1779905297982-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nBuilding self-improving tax agents with Codex AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with U...",
-      "sourceTitles": [
-        "Building self-improving tax agents with Codex",
-        "Election information and safeguards in 2026"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1779905297982-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a173312814ee6919d8fdd39",
-        "status": "sent"
       }
     }
   ]
