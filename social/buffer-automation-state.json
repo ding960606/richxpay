@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-14",
+      "postId": "x-9-1781458816069-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew OpenAI Academy courses for the next era of work AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow...",
+      "sourceTitles": [
+        "New OpenAI Academy courses for the next era of work",
+        "How Preply combines AI and human tutors to personalize learning"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781458816069-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2ee780caa57c9820232f30",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-14",
       "postId": "linkedin-8-1781455677660-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2497,27 +2518,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "6a19ddcc19f751d89386130d",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-29",
-      "postId": "x-9-1780078658306-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing. As teams integrate models into core workflows, payment reliability becomes a bottleneck. RichXPay provides virtual cards funded by USDT to keep subscriptions active.",
-      "sourceTitles": [
-        "Boston Children’s uses AI to unlock new diagnoses",
-        "Strengthening societal resilience with Rosalind Biodefense"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1780078658306-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a19d8420ec87dc50734154c",
         "status": "sent"
       }
     }
