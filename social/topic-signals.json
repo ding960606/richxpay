@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T12:14:07.067Z",
+  "generatedAt": "2026-06-14T14:59:34.401Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -93,20 +93,20 @@
           "source": ""
         },
         {
+          "title": "OpenAI to acquire Ona",
+          "link": "https://openai.com/index/openai-to-acquire-ona",
+          "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
           "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
           "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "BBVA puts AI at the core of banking with OpenAI",
-          "link": "https://openai.com/index/bbva",
-          "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "OpenAI to acquire Ona",
-          "link": "https://openai.com/index/openai-to-acquire-ona",
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
           "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
           "source": ""
         }
