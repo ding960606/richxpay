@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T20:23:27.241Z",
+  "generatedAt": "2026-06-15T13:27:02.431Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Introducing the OpenAI Partner Network",
+          "link": "https://openai.com/index/introducing-openai-partner-network",
+          "pubDate": "Sun, 14 Jun 2026 17:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "New OpenAI Academy courses for the next era of work",
           "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
           "pubDate": "Fri, 12 Jun 2026 10:00:00 GMT",
@@ -95,12 +101,6 @@
         {
           "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
           "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-          "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
           "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
           "source": ""
         },

@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-06-14",
+  "lastGeneratedDate": "2026-06-15",
   "history": [
+    {
+      "date": "2026-06-15",
+      "postId": "linkedin-6-1781530191628-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing the OpenAI Partner Network Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "Introducing the OpenAI Partner Network",
+        "New OpenAI Academy courses for the next era of work"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781530191628-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2ffe5022b6a21ff2a44059",
+        "status": "error"
+      }
+    },
     {
       "date": "2026-06-14",
       "postId": "linkedin-10-1781468608064-0",
@@ -2497,27 +2518,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "6a1ab76487e69d139923e839",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-30",
-      "postId": "x-3-1780133187307-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nBoston Children’s uses AI to unlock new diagnoses AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow wi...",
-      "sourceTitles": [
-        "Boston Children’s uses AI to unlock new diagnoses",
-        "How Braintrust turns customer requests into code with Codex"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1780133187307-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a1aad43586c8076cfe2c434",
         "status": "sent"
       }
     }
