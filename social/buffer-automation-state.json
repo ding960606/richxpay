@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-16",
+      "postId": "linkedin-10-1781639317125-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781639317125-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a31a895b2cfc6bc63383d08",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-16",
       "postId": "linkedin-10-1781636312402-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a1c6d9f57233bc2952b67c5",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "postId": "linkedin-8-1780245462862-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nCatch up on 12 major I/O 2026 moments Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
-      "sourceTitles": [
-        "Catch up on 12 major I/O 2026 moments",
-        "Here's how AI is rebuilding the foundation of modern marketing."
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-8-1780245462862-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a1c63d773337d7a137b3773",
-        "status": "error"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T18:58:18.418Z",
+  "generatedAt": "2026-06-16T19:48:27.541Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Predicting model behavior before release by simulating deployment",
+          "link": "https://openai.com/index/deployment-simulation",
+          "pubDate": "Tue, 16 Jun 2026 00:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Introducing the OpenAI Partner Network",
           "link": "https://openai.com/index/introducing-openai-partner-network",
           "pubDate": "Sun, 14 Jun 2026 17:00:00 GMT",
@@ -99,14 +105,8 @@
           "source": ""
         },
         {
-          "title": "BBVA puts AI at the core of banking with OpenAI",
-          "link": "https://openai.com/index/bbva",
-          "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "title": "OpenAI to acquire Ona",
+          "link": "https://openai.com/index/openai-to-acquire-ona",
           "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
           "source": ""
         }
