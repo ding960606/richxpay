@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-17T12:23:10.075Z",
+  "generatedAt": "2026-06-17T14:00:28.786Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "x-5-1781698990075-0",
-      "platform": "x",
-      "localTime": "20:48",
-      "topicBucket": "ad-spend",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. better ad tooling still needs cleaner billing and payment control...",
+      "id": "linkedin-6-1781704828786-0",
+      "platform": "linkedin",
+      "localTime": "21:36",
+      "topicBucket": "ai-subscriptions",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "hook": "AI tool adoption keeps growing.",
+      "copy": "AI tool adoption keeps growing.\n\nPredicting model behavior before release by simulating deployment Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
       "sourceTitles": [
-        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
-        "We’re bringing Walmart Connect to Display & Video 360."
+        "Predicting model behavior before release by simulating deployment",
+        "Introducing the OpenAI Partner Network"
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "x_ad-spend_2026-06-17_slot5"
+      "path": "/netflix-virtual-card/",
+      "landingTitle": "Netflix virtual card",
+      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
+      "campaign": "linkedin_ai-subscriptions_2026-06-17_slot6"
     }
   ]
 }
