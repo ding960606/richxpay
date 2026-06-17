@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-17",
+      "postId": "x-5-1781698990075-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. better ad tooling still needs cleaner billing and payment control...",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1781698990075-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a3291aedbefae608cad6421",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-17",
       "postId": "linkedin-4-1781697547225-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2497,27 +2518,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "6a1db10dd698c4c36a078f0c",
-        "status": "error"
-      }
-    },
-    {
-      "date": "2026-06-01",
-      "postId": "linkedin-6-1780321500640-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nBoston Children’s uses AI to unlock new diagnoses Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "Boston Children’s uses AI to unlock new diagnoses",
-        "How Braintrust turns customer requests into code with Codex"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1780321500640-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a1d8cdef4e2463f1a8870a1",
         "status": "error"
       }
     }
