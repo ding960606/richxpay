@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-17",
+      "postId": "x-9-1781719215553-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nA near-autonomous AI chemist improves a challenging reaction in medicinal chemistry AI adoption creates more recurring subscriptions that need a reliable payment la...",
+      "sourceTitles": [
+        "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+        "Predicting model behavior before release by simulating deployment"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781719215553-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a32e0b03078dec0f42d50af",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-17",
       "postId": "linkedin-8-1781714817687-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a1ee7b0a8846a9a02c0566d",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-06-02",
-      "postId": "x-5-1780402395777-0",
-      "platform": "x",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nCatch up on 12 major I/O 2026 moments better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with USDT or USDC fundin...",
-      "sourceTitles": [
-        "Catch up on 12 major I/O 2026 moments",
-        "Here's how AI is rebuilding the foundation of modern marketing."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-5-1780402395777-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a1ec8dcca83693d52f48b16",
-        "status": "sent"
       }
     }
   ]
