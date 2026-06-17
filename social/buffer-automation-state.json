@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-17",
+      "postId": "linkedin-10-1781728163080-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781728163080-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3303a30ce7290e13bc3923",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-17",
       "postId": "x-9-1781719215553-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a1ef0f9bdca0af91fe68d3e",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-06-02",
-      "postId": "linkedin-6-1780410287718-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nCodex is becoming a productivity tool for everyone Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "Codex is becoming a productivity tool for everyone",
-        "Our views on AI policy and political advocacy"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1780410287718-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a1ee7b0a8846a9a02c0566d",
-        "status": "error"
       }
     }
   ]
