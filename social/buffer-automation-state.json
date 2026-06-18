@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-18",
+      "postId": "linkedin-8-1781801183423-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781801183423-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3420df8fe63089afc51139",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-18",
       "postId": "linkedin-8-1781799607860-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a2079f1beb1cfcdf51038ad",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-06-03",
-      "postId": "x-9-1780509229313-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nOpenAI public policy agenda AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC fundin...",
-      "sourceTitles": [
-        "OpenAI public policy agenda",
-        "A blueprint for democratic governance of frontier AI"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1780509229313-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a206a2d283b4aaafde3e201",
-        "status": "sent"
       }
     }
   ]
