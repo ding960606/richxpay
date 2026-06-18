@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T18:11:27.840Z",
+  "generatedAt": "2026-06-18T20:38:04.652Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "New usage analytics and updated spend controls for enterprises",
+          "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+          "pubDate": "Thu, 18 Jun 2026 17:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Improving health intelligence in ChatGPT",
           "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
           "pubDate": "Thu, 18 Jun 2026 11:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "Introducing LifeSciBench",
           "link": "https://openai.com/index/introducing-life-sci-bench",
           "pubDate": "Wed, 17 Jun 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Predicting model behavior before release by simulating deployment",
-          "link": "https://openai.com/index/deployment-simulation",
-          "pubDate": "Tue, 16 Jun 2026 00:00:00 GMT",
           "source": ""
         }
       ]
