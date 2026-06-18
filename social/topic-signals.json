@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T16:45:32.798Z",
+  "generatedAt": "2026-06-18T18:11:27.840Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Improving health intelligence in ChatGPT",
+          "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+          "pubDate": "Thu, 18 Jun 2026 11:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
           "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
           "pubDate": "Thu, 18 Jun 2026 08:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "Predicting model behavior before release by simulating deployment",
           "link": "https://openai.com/index/deployment-simulation",
           "pubDate": "Tue, 16 Jun 2026 00:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Introducing the OpenAI Partner Network",
-          "link": "https://openai.com/index/introducing-openai-partner-network",
-          "pubDate": "Sun, 14 Jun 2026 17:00:00 GMT",
           "source": ""
         }
       ]
