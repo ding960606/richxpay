@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-18",
+      "postId": "linkedin-4-1781783900978-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1781783900978-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a33dd5d791f47a3b6044929",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-18",
       "postId": "linkedin-4-1781782635600-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a1f276128f47bd8652b7ff1",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-06-02",
-      "postId": "x-9-1780422824328-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nTravelers deploys AI-powered claims countrywide with OpenAI AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that w...",
-      "sourceTitles": [
-        "Travelers deploys AI-powered claims countrywide with OpenAI",
-        "Codex for every role, tool, and workflow"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1780422824328-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a1f18a8d44ab75e2fa86569",
-        "status": "sent"
       }
     }
   ]
