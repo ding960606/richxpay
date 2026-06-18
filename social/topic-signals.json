@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T14:18:07.542Z",
+  "generatedAt": "2026-06-18T16:18:24.354Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+          "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+          "pubDate": "Thu, 18 Jun 2026 08:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
           "link": "https://openai.com/index/ai-chemist-improves-reaction",
           "pubDate": "Wed, 17 Jun 2026 10:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "Introducing the OpenAI Partner Network",
           "link": "https://openai.com/index/introducing-openai-partner-network",
           "pubDate": "Sun, 14 Jun 2026 17:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "New OpenAI Academy courses for the next era of work",
-          "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-          "pubDate": "Fri, 12 Jun 2026 10:00:00 GMT",
           "source": ""
         }
       ]
