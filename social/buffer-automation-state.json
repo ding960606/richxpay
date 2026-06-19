@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-19",
+      "postId": "linkedin-6-1781876993166-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew usage analytics and updated spend controls for enterprises Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "New usage analytics and updated spend controls for enterprises",
+        "Improving health intelligence in ChatGPT"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781876993166-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a35490138963732f33ec17f",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-19",
       "postId": "x-5-1781871327495-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2497,27 +2518,6 @@
         "channelId": "69d4761e031bfa423cd8b0ce",
         "scheduledAt": null,
         "bufferPostId": "6a22ac48bd9c37a0c74ef11b",
-        "status": "error"
-      }
-    },
-    {
-      "date": "2026-06-04",
-      "postId": "linkedin-10-1780604638663-0",
-      "platform": "linkedin",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
-      "sourceTitles": [
-        "Bringing secure digital identity and payment tools to more people",
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-10-1780604638663-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a21dedf52d3f4849b8d1040",
         "status": "error"
       }
     }
