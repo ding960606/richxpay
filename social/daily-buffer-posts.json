@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-19T16:20:59.754Z",
+  "generatedAt": "2026-06-19T17:27:28.806Z",
   "timezone": "Asia/Shanghai",
   "posts": [
     {
-      "id": "linkedin-8-1781886059754-0",
-      "platform": "linkedin",
-      "localTime": "00:06",
-      "topicBucket": "ad-spend",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "hook": "Ad platforms keep adding smarter tools.",
-      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "id": "x-9-1781890048806-0",
+      "platform": "x",
+      "localTime": "02:18",
+      "topicBucket": "ai-subscriptions",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "hook": "AI tool adoption keeps growing.",
+      "copy": "AI tool adoption keeps growing.\n\nNew usage analytics and updated spend controls for enterprises AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits tha...",
       "sourceTitles": [
-        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
-        "We’re bringing Walmart Connect to Display & Video 360."
+        "New usage analytics and updated spend controls for enterprises",
+        "Improving health intelligence in ChatGPT"
       ],
-      "path": "/usdt-to-virtual-card/",
-      "landingTitle": "USDT to virtual card",
-      "landingSummary": "Use case page for funding a virtual card with USDT or USDC for subscriptions, ads and overseas spending.",
-      "campaign": "linkedin_ad-spend_2026-06-19_slot8"
+      "path": "/netflix-virtual-card/",
+      "landingTitle": "Netflix virtual card",
+      "landingSummary": "Subscription payment page focused on recurring billing stability and virtual-card management.",
+      "campaign": "x_ai-subscriptions_2026-06-19_slot9"
     }
   ]
 }
