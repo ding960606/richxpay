@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-06-19",
+  "lastGeneratedDate": "2026-06-20",
   "history": [
+    {
+      "date": "2026-06-20",
+      "postId": "x-3-1781950625736-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew usage analytics and updated spend controls for enterprises AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits tha...",
+      "sourceTitles": [
+        "New usage analytics and updated spend controls for enterprises",
+        "Improving health intelligence in ChatGPT"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1781950625736-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a3668a29513262b4d2c4e06",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-06-19",
       "postId": "linkedin-10-1781901757782-0",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a23e92c556e567c77bbdf54",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-06-05",
-      "postId": "linkedin-10-1780690383634-0",
-      "platform": "linkedin",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
-      "sourceTitles": [
-        "Bringing secure digital identity and payment tools to more people",
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-10-1780690383634-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a232dd0c6a5ca7fa4f8f043",
-        "status": "error"
       }
     }
   ]
