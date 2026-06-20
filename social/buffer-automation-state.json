@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-20",
+      "postId": "x-9-1781977358318-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew usage analytics and updated spend controls for enterprises AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits tha...",
+      "sourceTitles": [
+        "New usage analytics and updated spend controls for enterprises",
+        "Improving health intelligence in ChatGPT"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781977358318-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a36d10e9513262b4d2eca65",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-20",
       "postId": "linkedin-8-1781974445688-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a24360da1f61c27dba11d5d",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "postId": "linkedin-6-1780755655548-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nHow Endava is redesigning software delivery around AI agents Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "How Endava is redesigning software delivery around AI agents",
-        "Dreaming: Better memory for a more helpful ChatGPT"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1780755655548-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a242cc78490187966a1088f",
-        "status": "error"
       }
     }
   ]
