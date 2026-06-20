@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-20",
+      "postId": "linkedin-10-1781985397472-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781985397472-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a36f0758f0197acb5d2611e",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-20",
       "postId": "x-9-1781977358318-0",
       "platform": "x",
       "topicBucket": "ai-subscriptions",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a244c72a0f5aeb6f4dc1d5a",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "postId": "x-7-1780758029318-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
-      "sourceTitles": [
-        "Bringing secure digital identity and payment tools to more people",
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1780758029318-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a24360da1f61c27dba11d5d",
-        "status": "sent"
       }
     }
   ]
