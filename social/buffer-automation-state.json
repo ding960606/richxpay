@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-21",
+      "postId": "x-5-1782044449050-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. better ad tooling still needs cleaner billing and payment control...",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1782044449050-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a37d721aa8f9e94bc0ecaea",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-21",
       "postId": "linkedin-4-1782040974922-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2497,27 +2518,6 @@
         "channelId": "69ca29c9af47dacb696c32aa",
         "scheduledAt": null,
         "bufferPostId": "6a255da0e49e864d495dd3d6",
-        "status": "sent"
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "postId": "x-3-1780827045764-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nHow Endava is redesigning software delivery around AI agents AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that...",
-      "sourceTitles": [
-        "How Endava is redesigning software delivery around AI agents",
-        "Dreaming: Better memory for a more helpful ChatGPT"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1780827045764-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a2543a674031f4964cf6d10",
         "status": "sent"
       }
     }
