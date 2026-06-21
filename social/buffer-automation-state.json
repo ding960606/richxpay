@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-21",
+      "postId": "x-9-1782064087959-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew usage analytics and updated spend controls for enterprises AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits tha...",
+      "sourceTitles": [
+        "New usage analytics and updated spend controls for enterprises",
+        "Improving health intelligence in ChatGPT"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1782064087959-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a3823d88644245cc3e6264c",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-21",
       "postId": "linkedin-8-1782060947564-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a25ca5e32bfe18df58d0133",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "postId": "x-9-1780853873609-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nHow Endava is redesigning software delivery around AI agents AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that...",
-      "sourceTitles": [
-        "How Endava is redesigning software delivery around AI agents",
-        "Dreaming: Better memory for a more helpful ChatGPT"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1780853873609-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a25ac7232bfe18df58c568e",
-        "status": "sent"
       }
     }
   ]
