@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T19:39:13.145Z",
+  "generatedAt": "2026-06-22T21:12:42.181Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,14 +81,14 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-          "link": "https://openai.com/index/patch-the-planet",
+          "title": "Daybreak: Tools for securing every organization in the world",
+          "link": "https://openai.com/index/daybreak-securing-the-world",
           "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Daybreak: Tools for securing every organization in the world",
-          "link": "https://openai.com/index/daybreak-securing-the-world",
+          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+          "link": "https://openai.com/index/patch-the-planet",
           "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
           "source": ""
         },
