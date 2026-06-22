@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-22",
+      "postId": "linkedin-10-1782157169599-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1782157169599-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a398f72e495ddc395ada35c",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-22",
       "postId": "linkedin-10-1782154412921-0",
       "platform": "linkedin",
       "topicBucket": "cross-border-payments",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a2726e785863bc060f00b2e",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "postId": "x-9-1780943548921-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing. Managing multiple AI subscriptions across borders often leads to card declines. RichXPay virtual cards provide a stable payment layer for ChatGPT Plus funded via USDT.",
-      "sourceTitles": [
-        "Dreaming: Better memory for a more helpful ChatGPT",
-        "Introducing the OpenAI Economic Research Exchange"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-9-1780943548921-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a270abd9d09a94011d5bf1f",
-        "status": "sent"
       }
     }
   ]
