@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-22",
+      "postId": "linkedin-6-1782135758940-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nSamsung Electronics brings ChatGPT and Codex to employees Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "Samsung Electronics brings ChatGPT and Codex to employees",
+        "New usage analytics and updated spend controls for enterprises"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1782135758940-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a393bcfccfc98346c04f8b8",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-22",
       "postId": "x-5-1782133637557-0",
       "platform": "x",
       "topicBucket": "ad-spend",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a26f08a67c445b75e852a0c",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "postId": "x-7-1780930278571-0",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/",
-      "angle": "payment rails are improving but card access still blocks teams",
-      "copy": "Cross-border payments are getting faster. New identity protocols are emerging, but card access still blocks teams at checkout. RichXPay provides virtual cards for Meta Ads and AI tools via USDT.",
-      "sourceTitles": [
-        "Bringing secure digital identity and payment tools to more people",
-        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-7-1780930278571-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a26d6e7eb20d707b182e6f0",
-        "status": "sent"
       }
     }
   ]
