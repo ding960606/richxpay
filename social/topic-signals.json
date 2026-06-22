@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T15:31:48.290Z",
+  "generatedAt": "2026-06-22T17:19:02.610Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,18 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+          "link": "https://openai.com/index/patch-the-planet",
+          "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Daybreak: Tools for securing every organization in the world",
+          "link": "https://openai.com/index/daybreak-securing-the-world",
+          "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "Samsung Electronics brings ChatGPT and Codex to employees",
           "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
           "pubDate": "Sun, 21 Jun 2026 23:00:00 GMT",
@@ -96,18 +108,6 @@
           "title": "Improving health intelligence in ChatGPT",
           "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
           "pubDate": "Thu, 18 Jun 2026 11:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-          "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
-          "pubDate": "Thu, 18 Jun 2026 08:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-          "link": "https://openai.com/index/ai-chemist-improves-reaction",
-          "pubDate": "Wed, 17 Jun 2026 10:00:00 GMT",
           "source": ""
         }
       ]

@@ -3,6 +3,27 @@
   "history": [
     {
       "date": "2026-06-22",
+      "postId": "x-9-1782148757372-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nPatch the Planet: a Daybreak initiative to support open source maintainers AI adoption creates more recurring subscriptions that need a reliable payment layer RichX...",
+      "sourceTitles": [
+        "Patch the Planet: a Daybreak initiative to support open source maintainers",
+        "Daybreak: Tools for securing every organization in the world"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1782148757372-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a396e95f698b193f175a42c",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-22",
       "postId": "x-7-1782142479795-0",
       "platform": "x",
       "topicBucket": "cross-border-payments",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a27057f801dc375555ed2f7",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "postId": "linkedin-8-1780937849011-0",
-      "platform": "linkedin",
-      "topicBucket": "ad-spend",
-      "path": "/usdt-to-virtual-card/",
-      "angle": "better ad tooling still needs cleaner billing and payment control",
-      "copy": "Ad platforms keep adding smarter tools.\n\nThe latest AI news we announced in May 2026 Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
-      "sourceTitles": [
-        "The latest AI news we announced in May 2026",
-        "YouTube earns industry's first MRC accreditation for short-form video."
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-8-1780937849011-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a26f47967c445b75e8548f2",
-        "status": "error"
       }
     }
   ]
