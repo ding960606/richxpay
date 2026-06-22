@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-06-21",
+  "lastGeneratedDate": "2026-06-22",
   "history": [
+    {
+      "date": "2026-06-22",
+      "postId": "x-5-1782133637557-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\nNew inventory like Walmart Connect expands reach, but scaling needs better billing control.\nRichXPay provides USDT-funded virtual cards for Meta and Google Ads.",
+      "sourceTitles": [
+        "We’re bringing Walmart Connect to Display & Video 360.",
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1782133637557-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a39338661ab10b680e66410",
+        "status": "sent"
+      }
+    },
     {
       "date": "2026-06-21",
       "postId": "linkedin-10-1782074640207-0",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a26d6e7eb20d707b182e6f0",
         "status": "sent"
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "postId": "linkedin-6-1780928490082-0",
-      "platform": "linkedin",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nHow Endava is redesigning software delivery around AI agents Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
-      "sourceTitles": [
-        "How Endava is redesigning software delivery around AI agents",
-        "Dreaming: Better memory for a more helpful ChatGPT"
-      ],
-      "result": {
-        "platform": "linkedin",
-        "postId": "linkedin-6-1780928490082-0",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": null,
-        "bufferPostId": "6a26cfea3cd09a7c169ccf81",
-        "status": "error"
       }
     }
   ]

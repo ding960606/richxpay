@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T20:43:52.500Z",
+  "generatedAt": "2026-06-22T13:07:12.758Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -81,6 +81,12 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
+          "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+          "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+          "pubDate": "Sun, 21 Jun 2026 23:00:00 GMT",
+          "source": ""
+        },
+        {
           "title": "New usage analytics and updated spend controls for enterprises",
           "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
           "pubDate": "Thu, 18 Jun 2026 17:00:00 GMT",
@@ -102,12 +108,6 @@
           "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
           "link": "https://openai.com/index/ai-chemist-improves-reaction",
           "pubDate": "Wed, 17 Jun 2026 10:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "Introducing LifeSciBench",
-          "link": "https://openai.com/index/introducing-life-sci-bench",
-          "pubDate": "Wed, 17 Jun 2026 00:00:00 GMT",
           "source": ""
         }
       ]
