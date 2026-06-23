@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T21:34:06.708Z",
+  "generatedAt": "2026-06-23T10:44:50.439Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Expanding financial advertiser verification across Europe",
+          "link": "https://blog.google/products/ads-commerce/eu-financial-advertiser-verification/",
+          "pubDate": "Tue, 23 Jun 2026 05:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
           "link": "https://blog.google/products/ads-commerce/new-real-estate-ads-formats/",
           "pubDate": "Thu, 11 Jun 2026 15:00:00 +0000",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products/ads-commerce/youtube-mrc-accreditation-shorts/",
           "pubDate": "Wed, 03 Jun 2026 16:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "5 ways Google Search can level up your thrift and vintage shopping",
-          "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-          "pubDate": "Wed, 03 Jun 2026 13:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -80,6 +80,12 @@
       "label": "AI subscriptions",
       "url": "https://openai.com/news/rss.xml",
       "items": [
+        {
+          "title": "How Omio is building the future of conversational travel",
+          "link": "https://openai.com/index/omio",
+          "pubDate": "Tue, 23 Jun 2026 00:00:00 GMT",
+          "source": ""
+        },
         {
           "title": "Daybreak: Tools for securing every organization in the world",
           "link": "https://openai.com/index/daybreak-securing-the-world",
@@ -102,12 +108,6 @@
           "title": "Samsung Electronics brings ChatGPT and Codex to employees",
           "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
           "pubDate": "Sun, 21 Jun 2026 23:00:00 GMT",
-          "source": ""
-        },
-        {
-          "title": "New usage analytics and updated spend controls for enterprises",
-          "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-          "pubDate": "Thu, 18 Jun 2026 17:00:00 GMT",
           "source": ""
         }
       ]

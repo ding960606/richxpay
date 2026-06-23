@@ -1,6 +1,27 @@
 {
-  "lastGeneratedDate": "2026-06-22",
+  "lastGeneratedDate": "2026-06-23",
   "history": [
+    {
+      "date": "2026-06-23",
+      "postId": "linkedin-4-1782211504576-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1782211504576-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3a63b1cd5a01c623803a14",
+        "status": "error"
+      }
+    },
     {
       "date": "2026-06-22",
       "postId": "linkedin-10-1782164047218-0",
@@ -2498,27 +2519,6 @@
         "scheduledAt": null,
         "bufferPostId": "6a27f883273b644a3a21c778",
         "status": "error"
-      }
-    },
-    {
-      "date": "2026-06-09",
-      "postId": "x-3-1781001796339-0",
-      "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/netflix-virtual-card/",
-      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
-      "copy": "AI tool adoption keeps growing.\n\nConfidential submission of draft S-1 to the SEC AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with...",
-      "sourceTitles": [
-        "Confidential submission of draft S-1 to the SEC",
-        "Built to benefit everyone: our plan"
-      ],
-      "result": {
-        "platform": "x",
-        "postId": "x-3-1781001796339-0",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": null,
-        "bufferPostId": "6a27ee447c0c8e048c8594ac",
-        "status": "sent"
       }
     }
   ]
