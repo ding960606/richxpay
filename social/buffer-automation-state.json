@@ -1,145 +1,2524 @@
 {
-  "lastGeneratedDate": "2026-04-07",
+  "lastGeneratedDate": "2026-06-23",
   "history": [
     {
-      "date": "2026-04-07",
-      "postId": "x-1-bootstrap",
-      "platform": "x",
-      "topicBucket": "cross-border-payments",
-      "path": "/apple-pay-virtual-card/",
-      "angle": "Apple Pay and wallet expectations keep rising, but card setup still slows cross-border users.",
-      "copy": "Wallet expectations are rising.\n\nUsers expect checkout to feel instant, but card setup still slows many cross-border teams. RichXPay helps bridge that gap with a virtual card funded by USDT or USDC, ready for global spend and Apple Pay flows.",
+      "date": "2026-06-23",
+      "postId": "linkedin-6-1782222373934-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nHow Omio is building the future of conversational travel Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
       "sourceTitles": [
-        "We’re adding 3 new ways to make web payments easier and more flexible."
+        "How Omio is building the future of conversational travel",
+        "Daybreak: Tools for securing every organization in the world"
       ],
       "result": {
-        "mode": "dry-run",
-        "platform": "x",
-        "postId": "x-1-bootstrap",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": "2026-04-08T01:18:00.000Z",
-        "text": "Wallet expectations are rising.\n\nUsers expect checkout to feel instant, but card setup still slows many cross-border teams. RichXPay helps bridge that gap with a virtual card funded by USDT or USDC, ready for global spend and Apple Pay flows.\n\nhttps://www.richxpay.com/?utm_source=x&utm_medium=social&utm_campaign=x_cross-border-payments_2026-04-07_slot1"
+        "platform": "linkedin",
+        "postId": "linkedin-6-1782222373934-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3a8e26997c88150d6799c2",
+        "status": "error"
       }
     },
     {
-      "date": "2026-04-07",
-      "postId": "linkedin-2-bootstrap",
+      "date": "2026-06-23",
+      "postId": "x-5-1782218798512-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nCannes Lions 2026: Strengthen creative campaigns with new tools from YouTube better ad tooling still needs cleaner billing and payment control RichXPay fits...",
+      "sourceTitles": [
+        "Cannes Lions 2026: Strengthen creative campaigns with new tools from YouTube",
+        "Expanding financial advertiser verification across Europe"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1782218798512-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a3a802f415b254bc18da2b2",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "postId": "linkedin-4-1782213977933-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1782213977933-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3a6d5afbd0963c8b5ccfa3",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "postId": "linkedin-4-1782211504576-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1782211504576-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3a63b1cd5a01c623803a14",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "postId": "linkedin-10-1782164047218-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1782164047218-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a39aa4f548cb64c79cc0ecb",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "postId": "linkedin-10-1782162767486-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1782162767486-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a39a54fea98e9a4ba0d8c17",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "postId": "linkedin-10-1782157169599-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1782157169599-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a398f72e495ddc395ada35c",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "postId": "linkedin-10-1782154412921-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1782154412921-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3984ad6fc476bef78d26a8",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "postId": "x-9-1782148757372-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nPatch the Planet: a Daybreak initiative to support open source maintainers AI adoption creates more recurring subscriptions that need a reliable payment layer RichX...",
+      "sourceTitles": [
+        "Patch the Planet: a Daybreak initiative to support open source maintainers",
+        "Daybreak: Tools for securing every organization in the world"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1782148757372-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a396e95f698b193f175a42c",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "postId": "x-7-1782142479795-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1782142479795-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a39561068c82eeb3234785d",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "postId": "linkedin-6-1782135758940-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nSamsung Electronics brings ChatGPT and Codex to employees Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "Samsung Electronics brings ChatGPT and Codex to employees",
+        "New usage analytics and updated spend controls for enterprises"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1782135758940-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a393bcfccfc98346c04f8b8",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "postId": "x-5-1782133637557-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\nNew inventory like Walmart Connect expands reach, but scaling needs better billing control.\nRichXPay provides USDT-funded virtual cards for Meta and Google Ads.",
+      "sourceTitles": [
+        "We’re bringing Walmart Connect to Display & Video 360.",
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1782133637557-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a39338661ab10b680e66410",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "postId": "linkedin-10-1782074640207-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1782074640207-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a384d1076ab69cadf5734df",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "postId": "linkedin-10-1782072093767-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1782072093767-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a38431e9e777c8009cf9b0b",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "postId": "x-9-1782064087959-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew usage analytics and updated spend controls for enterprises AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits tha...",
+      "sourceTitles": [
+        "New usage analytics and updated spend controls for enterprises",
+        "Improving health intelligence in ChatGPT"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1782064087959-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a3823d88644245cc3e6264c",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "postId": "linkedin-8-1782060947564-0",
       "platform": "linkedin",
       "topicBucket": "ad-spend",
       "path": "/usdt-to-virtual-card/",
-      "angle": "Ad automation is getting smarter, which makes billing reliability more important for media buyers.",
-      "copy": "Campaign automation is moving fast.\n\nTeams can launch tests, rotate creative, and scale budgets in hours. But billing setup still breaks momentum when cards fail or top-up takes too long.\n\nRichXPay gives media buyers a simpler path: fund with USDT or USDC, issue a virtual card, and keep Meta Ads, Google Ads, and Amazon spend moving.",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
       "sourceTitles": [
-        "Upgrade your creative performance with March’s Demand Gen Drop.",
-        "5 ways to collaborate with our agentic advisors"
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
       ],
       "result": {
-        "mode": "dry-run",
         "platform": "linkedin",
-        "postId": "linkedin-2-bootstrap",
+        "postId": "linkedin-8-1782060947564-0",
         "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": "2026-04-08T03:36:00.000Z",
-        "text": "Campaign automation is moving fast.\n\nTeams can launch tests, rotate creative, and scale budgets in hours. But billing setup still breaks momentum when cards fail or top-up takes too long.\n\nRichXPay gives media buyers a simpler path: fund with USDT or USDC, issue a virtual card, and keep Meta Ads, Google Ads, and Amazon spend moving.\n\nhttps://www.richxpay.com/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_ad-spend_2026-04-07_slot2"
+        "scheduledAt": null,
+        "bufferPostId": "6a3817949e777c8009ce52bb",
+        "status": "error"
       }
     },
     {
-      "date": "2026-04-07",
-      "postId": "x-3-bootstrap",
+      "date": "2026-06-21",
+      "postId": "x-7-1782054229428-0",
       "platform": "x",
-      "topicBucket": "ai-subscriptions",
-      "path": "/chatgpt-plus-virtual-card/",
-      "angle": "More AI tools means more recurring subscriptions, and payment sprawl becomes an ops problem.",
-      "copy": "The AI subscription stack is getting crowded.\n\nAs teams add tools like ChatGPT Plus, recurring charges become an ops issue, not just a software issue. RichXPay makes it easier to fund and manage those payments with a global virtual card and USDT or USDC top-up.",
-      "sourceTitles": [
-        "Codex now offers more flexible pricing for teams"
-      ],
-      "result": {
-        "mode": "dry-run",
-        "platform": "x",
-        "postId": "x-3-bootstrap",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": "2026-04-07T06:08:00.000Z",
-        "text": "The AI subscription stack is getting crowded.\n\nAs teams add tools like ChatGPT Plus, recurring charges become an ops issue, not just a software issue. RichXPay makes it easier to fund and manage those payments with a global virtual card and USDT or USDC top-up.\n\nhttps://www.richxpay.com/?utm_source=x&utm_medium=social&utm_campaign=x_ai-subscriptions_2026-04-07_slot3"
-      }
-    },
-    {
-      "date": "2026-04-07",
-      "postId": "linkedin-4-bootstrap",
-      "platform": "linkedin",
       "topicBucket": "cross-border-payments",
-      "path": "/crypto-virtual-card/",
-      "angle": "Global payment rails are improving, but operational friction still sits at funding and card issuance.",
-      "copy": "Cross-border payments are getting faster.\n\nThe user-facing side of global commerce keeps improving. Wallets are smoother, checkout is cleaner, and expectations are higher. The slower layer is often internal: funding, card access, and spend control.\n\nRichXPay is built for that layer. Teams can top up with USDT or USDC, issue a virtual card quickly, and use it for global software, services, and wallet-linked payments.",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
       "sourceTitles": [
-        "Personalize your experience across Google based on your purchases, your way."
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
       ],
       "result": {
-        "mode": "dry-run",
-        "platform": "linkedin",
-        "postId": "linkedin-4-bootstrap",
-        "channelId": "69d4761e031bfa423cd8b0ce",
-        "scheduledAt": "2026-04-07T09:28:00.000Z",
-        "text": "Cross-border payments are getting faster.\n\nThe user-facing side of global commerce keeps improving. Wallets are smoother, checkout is cleaner, and expectations are higher. The slower layer is often internal: funding, card access, and spend control.\n\nRichXPay is built for that layer. Teams can top up with USDT or USDC, issue a virtual card quickly, and use it for global software, services, and wallet-linked payments.\n\nhttps://www.richxpay.com/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_cross-border-payments_2026-04-07_slot4"
+        "platform": "x",
+        "postId": "x-7-1782054229428-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a37fd55d1470a5faab266e8",
+        "status": "sent"
       }
     },
     {
-      "date": "2026-04-07",
-      "postId": "x-5-bootstrap",
+      "date": "2026-06-21",
+      "postId": "linkedin-6-1782047766519-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew usage analytics and updated spend controls for enterprises Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "New usage analytics and updated spend controls for enterprises",
+        "Improving health intelligence in ChatGPT"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1782047766519-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a37e4163505a878de9289e3",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "postId": "x-5-1782044449050-0",
       "platform": "x",
       "topicBucket": "ad-spend",
-      "path": "/crypto-virtual-card/",
-      "angle": "Paid media teams move faster when payments do not interrupt testing and scaling.",
-      "copy": "Paid media teams have more leverage than ever.\n\nBut leverage drops fast when payment setup slows down campaign changes. RichXPay helps teams fund spend with USDT or USDC and use a virtual card across ad accounts without extra banking friction.",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. better ad tooling still needs cleaner billing and payment control...",
       "sourceTitles": [
-        "Ads Decoded episode 5 navigates the challenges and impact of effective lead gen advertising."
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
       ],
       "result": {
-        "mode": "dry-run",
         "platform": "x",
-        "postId": "x-5-bootstrap",
+        "postId": "x-5-1782044449050-0",
         "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": "2026-04-07T12:36:00.000Z",
-        "text": "Paid media teams have more leverage than ever.\n\nBut leverage drops fast when payment setup slows down campaign changes. RichXPay helps teams fund spend with USDT or USDC and use a virtual card across ad accounts without extra banking friction.\n\nhttps://www.richxpay.com/?utm_source=x&utm_medium=social&utm_campaign=x_ad-spend_2026-04-07_slot5"
+        "scheduledAt": null,
+        "bufferPostId": "6a37d721aa8f9e94bc0ecaea",
+        "status": "sent"
       }
     },
     {
-      "date": "2026-04-07",
-      "postId": "x-1-bootstrap",
-      "platform": "x",
+      "date": "2026-06-21",
+      "postId": "linkedin-4-1782040974922-0",
+      "platform": "linkedin",
       "topicBucket": "cross-border-payments",
-      "path": "/apple-pay-virtual-card/",
-      "angle": "Apple Pay and wallet expectations keep rising, but card setup still slows cross-border users.",
-      "copy": "Wallet expectations are rising.\n\nUsers expect checkout to feel instant, but card setup still slows many cross-border teams. RichXPay helps bridge that gap with a virtual card funded by USDT or USDC, ready for global spend and Apple Pay flows.",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
       "sourceTitles": [
-        "We’re adding 3 new ways to make web payments easier and more flexible."
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
       ],
       "result": {
-        "platform": "x",
-        "postId": "x-1-bootstrap",
-        "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": "2026-04-08T01:18:00.000Z",
-        "bufferPostId": "69d47d1c45bc467d3d928607",
-        "status": "scheduled"
+        "platform": "linkedin",
+        "postId": "linkedin-4-1782040974922-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a37c98fc3e23728391d9ff6",
+        "status": "error"
       }
     },
     {
-      "date": "2026-04-07",
-      "postId": "x-1-bootstrap",
-      "platform": "x",
+      "date": "2026-06-21",
+      "postId": "linkedin-4-1782038976243-0",
+      "platform": "linkedin",
       "topicBucket": "cross-border-payments",
-      "path": "/apple-pay-virtual-card/",
-      "angle": "Apple Pay and wallet expectations keep rising, but card setup still slows cross-border users.",
-      "copy": "Wallet expectations are rising.\n\nUsers expect checkout to feel instant, but card setup still slows many cross-border teams. RichXPay helps bridge that gap with a virtual card funded by USDT or USDC, ready for global spend and Apple Pay flows.",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
       "sourceTitles": [
-        "We’re adding 3 new ways to make web payments easier and more flexible."
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
       ],
       "result": {
-        "mode": "dry-run",
+        "platform": "linkedin",
+        "postId": "linkedin-4-1782038976243-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a37c1c0aa8f9e94bc0e3c72",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "postId": "linkedin-10-1781986986505-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781986986505-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a36f6aaf87277d0d7a82a82",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "postId": "linkedin-10-1781985397472-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781985397472-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a36f0758f0197acb5d2611e",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "postId": "x-9-1781977358318-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew usage analytics and updated spend controls for enterprises AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits tha...",
+      "sourceTitles": [
+        "New usage analytics and updated spend controls for enterprises",
+        "Improving health intelligence in ChatGPT"
+      ],
+      "result": {
         "platform": "x",
-        "postId": "x-1-bootstrap",
+        "postId": "x-9-1781977358318-0",
         "channelId": "69ca29c9af47dacb696c32aa",
-        "scheduledAt": "2026-04-08T01:18:00.000Z",
-        "text": "Wallet expectations are rising.\n\nUsers expect checkout to feel instant, but card setup still slows many cross-border teams. RichXPay helps bridge that gap with a virtual card funded by USDT or USDC, ready for global spend and Apple Pay flows.\n\nhttps://www.richxpay.com/?utm_source=x&utm_medium=social&utm_campaign=x_cross-border-payments_2026-04-07_slot1"
+        "scheduledAt": null,
+        "bufferPostId": "6a36d10e9513262b4d2eca65",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "postId": "linkedin-8-1781974445688-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781974445688-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a36c5ae2186d297628a092e",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "postId": "x-7-1781967401866-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1781967401866-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a36aa2a9513262b4d2dd69f",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "postId": "x-5-1781957337548-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. better ad tooling still needs cleaner billing and payment control...",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1781957337548-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a3682d99513262b4d2cf3c5",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "postId": "x-3-1781950625736-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew usage analytics and updated spend controls for enterprises AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits tha...",
+      "sourceTitles": [
+        "New usage analytics and updated spend controls for enterprises",
+        "Improving health intelligence in ChatGPT"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1781950625736-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a3668a29513262b4d2c4e06",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "postId": "linkedin-10-1781901757782-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781901757782-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a35a9be8e48eaada7cb6f62",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "postId": "linkedin-10-1781899375234-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781899375234-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a35a06f38963732f34241d0",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "postId": "x-9-1781890048806-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew usage analytics and updated spend controls for enterprises AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits tha...",
+      "sourceTitles": [
+        "New usage analytics and updated spend controls for enterprises",
+        "Improving health intelligence in ChatGPT"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781890048806-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a357c019513262b4d2479a9",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "postId": "linkedin-8-1781886059754-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781886059754-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a356c6c9513262b4d23bfbc",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "postId": "x-7-1781884637460-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1781884637460-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a3566de9513262b4d23786a",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "postId": "linkedin-6-1781878692561-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew usage analytics and updated spend controls for enterprises Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "New usage analytics and updated spend controls for enterprises",
+        "Improving health intelligence in ChatGPT"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781878692561-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a354fa45199a6071635e70b",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "postId": "linkedin-6-1781876993166-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew usage analytics and updated spend controls for enterprises Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "New usage analytics and updated spend controls for enterprises",
+        "Improving health intelligence in ChatGPT"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781876993166-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a35490138963732f33ec17f",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "postId": "x-5-1781871327495-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. better ad tooling still needs cleaner billing and payment control...",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1781871327495-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a3532df8cced62613c4fb8a",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "postId": "linkedin-4-1781869463720-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1781869463720-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a352b988cced62613c49160",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "postId": "linkedin-10-1781817965252-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781817965252-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a34626d696a917079735c10",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "postId": "linkedin-10-1781815088215-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781815088215-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3457309fb9364d3c3524e7",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "postId": "x-9-1781806310765-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nImproving health intelligence in ChatGPT AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT o...",
+      "sourceTitles": [
+        "Improving health intelligence in ChatGPT",
+        "Using AI to help physicians diagnose rare genetic diseases affecting children"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781806310765-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a3434e7d7ce0798d74481fb",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "postId": "linkedin-8-1781801183423-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781801183423-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3420df8fe63089afc51139",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "postId": "linkedin-8-1781799607860-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781799607860-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a341ab8e6ef3f679732ca14",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "postId": "linkedin-6-1781792343865-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nA near-autonomous AI chemist improves a challenging reaction in medicinal chemistry Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+        "Introducing LifeSciBench"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781792343865-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a33fe5849f57fff08462dfd",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "postId": "linkedin-6-1781790154549-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nA near-autonomous AI chemist improves a challenging reaction in medicinal chemistry Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+        "Introducing LifeSciBench"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781790154549-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a33f5cb58543c31d71af026",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "postId": "linkedin-4-1781783900978-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1781783900978-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a33dd5d791f47a3b6044929",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "postId": "linkedin-4-1781782635600-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1781782635600-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a33d86c791f47a3b6042df5",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "postId": "linkedin-10-1781731124778-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781731124778-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a330f35af7196ed329b8156",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "postId": "linkedin-10-1781728163080-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781728163080-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3303a30ce7290e13bc3923",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "postId": "x-9-1781719215553-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nA near-autonomous AI chemist improves a challenging reaction in medicinal chemistry AI adoption creates more recurring subscriptions that need a reliable payment la...",
+      "sourceTitles": [
+        "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+        "Predicting model behavior before release by simulating deployment"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781719215553-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a32e0b03078dec0f42d50af",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "postId": "linkedin-8-1781714817687-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781714817687-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a32cf82eef077266176ae69",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "postId": "linkedin-8-1781713807402-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781713807402-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a32cb8f5e74e6ce23e3465f",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "postId": "x-7-1781706680933-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1781706680933-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a32afb96e152f14d2cba869",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "postId": "linkedin-6-1781704828786-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nPredicting model behavior before release by simulating deployment Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "Predicting model behavior before release by simulating deployment",
+        "Introducing the OpenAI Partner Network"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781704828786-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a32a87deb0ea19839baa07f",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "postId": "x-5-1781698990075-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. better ad tooling still needs cleaner billing and payment control...",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1781698990075-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a3291aedbefae608cad6421",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "postId": "linkedin-4-1781697547225-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1781697547225-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a328c0b182404effc94636f",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "postId": "linkedin-10-1781646252275-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781646252275-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a31c3ad3dad4409fe576282",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "postId": "linkedin-10-1781644730756-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781644730756-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a31bdbb17093faf203dd8a7",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "postId": "linkedin-10-1781639317125-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781639317125-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a31a895b2cfc6bc63383d08",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "postId": "linkedin-10-1781636312402-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781636312402-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a319cd8ea0211b671d281d4",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "postId": "x-9-1781632240514-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing the OpenAI Partner Network AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or...",
+      "sourceTitles": [
+        "Introducing the OpenAI Partner Network",
+        "New OpenAI Academy courses for the next era of work"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781632240514-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a318cf09fb145b5f60fd4ef",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "postId": "linkedin-8-1781625917203-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781625917203-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a31743dde94411379c106d3",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "postId": "x-7-1781623487628-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1781623487628-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a316ac05c08e26becda79a2",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "postId": "x-5-1781612653326-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. better ad tooling still needs cleaner billing and payment control...",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1781612653326-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a31406d7d1a1f620f1e4d00",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "postId": "linkedin-10-1781560065469-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781560065469-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3073015fcdd1a7ca628da0",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "postId": "linkedin-10-1781558462619-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781558462619-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a306cbe2cefeda2a31befd3",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "postId": "linkedin-10-1781553330899-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781553330899-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3058b3435f2edc32c4151d",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "postId": "linkedin-10-1781550601707-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781550601707-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a304e0a435f2edc32c3dcc3",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "postId": "x-9-1781545588566-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing the OpenAI Partner Network AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or...",
+      "sourceTitles": [
+        "Introducing the OpenAI Partner Network",
+        "New OpenAI Academy courses for the next era of work"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781545588566-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a303a7522723041b05f8122",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "postId": "linkedin-8-1781540583533-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781540583533-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a3026e7826d04e8d43253e9",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "postId": "linkedin-8-1781539724724-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781539724724-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a30238de5f24bec13f5dfac",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "postId": "x-7-1781533955308-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1781533955308-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a300d033f29fb7109eb175c",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "postId": "linkedin-6-1781530191628-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nIntroducing the OpenAI Partner Network Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "Introducing the OpenAI Partner Network",
+        "New OpenAI Academy courses for the next era of work"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781530191628-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2ffe5022b6a21ff2a44059",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "postId": "linkedin-10-1781468608064-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781468608064-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2f0dc061b0aab8c168eb8a",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "postId": "linkedin-10-1781467037946-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781467037946-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2f079e824a5ebfe36bbe81",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "postId": "x-9-1781458816069-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew OpenAI Academy courses for the next era of work AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow...",
+      "sourceTitles": [
+        "New OpenAI Academy courses for the next era of work",
+        "How Preply combines AI and human tutors to personalize learning"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781458816069-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2ee780caa57c9820232f30",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "postId": "linkedin-8-1781455677660-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781455677660-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2edb3ecbbe21946a3a0488",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "postId": "x-7-1781449186953-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1781449186953-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2ec1e3cbbe21946a396a9d",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "postId": "x-5-1781439260064-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. better ad tooling still needs cleaner billing and payment control...",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1781439260064-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2e9b1ccbbe21946a38986b",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "postId": "linkedin-4-1781434414264-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1781434414264-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2e882e61b0aab8c1662120",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "postId": "x-3-1781433208602-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew OpenAI Academy courses for the next era of work AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow...",
+      "sourceTitles": [
+        "New OpenAI Academy courses for the next era of work",
+        "How Preply combines AI and human tutors to personalize learning"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1781433208602-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2e8379caa57c9820212234",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "postId": "linkedin-10-1781382207578-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781382207578-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2dbc41adc07817f4143d04",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "postId": "linkedin-10-1781380418307-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781380418307-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2db542699f807eb3035d91",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "postId": "x-9-1781372460029-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew OpenAI Academy courses for the next era of work AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow...",
+      "sourceTitles": [
+        "New OpenAI Academy courses for the next era of work",
+        "How Preply combines AI and human tutors to personalize learning"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781372460029-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2d962c61b0aab8c160c5b8",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "postId": "linkedin-8-1781369433773-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781369433773-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2d8a5a9017a527dd66191a",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "postId": "x-7-1781362457488-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1781362457488-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2d6f199017a527dd65407a",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "postId": "x-5-1781352242640-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. better ad tooling still needs cleaner billing and payment control...",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1781352242640-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2d473308bd17e5f3a80b7b",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "postId": "x-3-1781345375120-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew OpenAI Academy courses for the next era of work AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow...",
+      "sourceTitles": [
+        "New OpenAI Academy courses for the next era of work",
+        "How Preply combines AI and human tutors to personalize learning"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-3-1781345375120-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2d2c5f768f4d60d56c3b50",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "postId": "linkedin-10-1781298382238-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781298382238-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2c74ce768f4d60d567c91a",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "postId": "linkedin-10-1781295960729-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781295960729-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2c6b59da3868703ac0cd6c",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "postId": "x-9-1781286146566-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nNew OpenAI Academy courses for the next era of work AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow...",
+      "sourceTitles": [
+        "New OpenAI Academy courses for the next era of work",
+        "How Preply combines AI and human tutors to personalize learning"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781286146566-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2c450334f386fffe23ca03",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "postId": "linkedin-8-1781282239756-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781282239756-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2c35c0f25930ac05b79ffd",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "postId": "x-7-1781279933844-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1781279933844-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2c2cbea04746e173d540f0",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "postId": "linkedin-6-1781273680355-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nHow Preply combines AI and human tutors to personalize learning Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "How Preply combines AI and human tutors to personalize learning",
+        "OpenAI to acquire Ona"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781273680355-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2c1450cc0cb54a68f5b124",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "postId": "linkedin-6-1781271927035-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nHow Preply combines AI and human tutors to personalize learning Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "How Preply combines AI and human tutors to personalize learning",
+        "Supporting Europe’s work in ensuring a trustworthy AI ecosystem"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781271927035-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2c0d77b817326568992e51",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "postId": "linkedin-4-1781265201425-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1781265201425-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2bf331b473ceee62616420",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "postId": "linkedin-4-1781262712313-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1781262712313-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2be978227c4574cdd5e4a1",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "postId": "linkedin-10-1781213482144-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781213482144-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2b292a919955cfca01e149",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "postId": "linkedin-10-1781210111892-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781210111892-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2b1c0052660ab0b1893724",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "postId": "linkedin-10-1781204028696-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781204028696-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2b043d57796b074f02511f",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "postId": "x-9-1781202588457-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nOpenAI to acquire Ona AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with USDT or USDC funding and...",
+      "sourceTitles": [
+        "OpenAI to acquire Ona",
+        "How an astrophysicist uses Codex to help simulate black holes"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781202588457-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2afe9cc664e87c962eda55",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "postId": "linkedin-8-1781197794540-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781197794540-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2aebe23e50a7276d28635e",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "postId": "linkedin-8-1781196248206-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nEnhanced Local Services Ads for Home Listings bring homebuyers and local agents together. Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+        "We’re bringing Walmart Connect to Display & Video 360."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781196248206-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2ae5d843489c6fac8efee8",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "postId": "x-7-1781189615115-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1781189615115-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2acbefd8ebf4b5820fa771",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "postId": "linkedin-6-1781187340598-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nSupporting Europe’s work in ensuring a trustworthy AI ecosystem Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+        "How an astrophysicist uses Codex to help simulate black holes"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781187340598-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2ac30de5741a485ed6b877",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "postId": "x-5-1781180321516-0",
+      "platform": "x",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nWe’re bringing Walmart Connect to Display & Video 360. better ad tooling still needs cleaner billing and payment control RichXPay fits that workflow with US...",
+      "sourceTitles": [
+        "We’re bringing Walmart Connect to Display & Video 360.",
+        "The latest AI news we announced in May 2026"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-5-1781180321516-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a2aa7a2b880c6daab55e100",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "postId": "linkedin-4-1781178764841-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1781178764841-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2aa18db880c6daab55a860",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "postId": "linkedin-10-1781126811500-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781126811500-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a29d69b0e4cea804c9569eb",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "postId": "linkedin-10-1781124312385-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781124312385-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a29ccd8c39d608f8297c827",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "postId": "x-9-1781115167394-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nFrom data to decisions: how LSEG is scaling trusted AI AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workfl...",
+      "sourceTitles": [
+        "From data to decisions: how LSEG is scaling trusted AI",
+        "How engineers at Nextdoor use Codex to build without limits"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781115167394-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a29a91f05a8f8328b5e20c9",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "postId": "linkedin-8-1781110183611-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nThe latest AI news we announced in May 2026 Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "The latest AI news we announced in May 2026",
+        "YouTube earns industry's first MRC accreditation for short-form video."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781110183611-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2995a8b3d44b5e2b86f722",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "postId": "linkedin-8-1781108933985-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nThe latest AI news we announced in May 2026 Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "The latest AI news we announced in May 2026",
+        "YouTube earns industry's first MRC accreditation for short-form video."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781108933985-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2990c6cbc019b4d3ad0f96",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "postId": "linkedin-6-1781101836143-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nFrom data to decisions: how LSEG is scaling trusted AI Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "From data to decisions: how LSEG is scaling trusted AI",
+        "How engineers at Nextdoor use Codex to build without limits"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781101836143-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a29750cb93a4149ccd6cd14",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "postId": "linkedin-6-1781099291366-0",
+      "platform": "linkedin",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nFrom data to decisions: how LSEG is scaling trusted AI Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports subscription payment page focused on recurring billing stability and virtual-card management.",
+      "sourceTitles": [
+        "From data to decisions: how LSEG is scaling trusted AI",
+        "How engineers at Nextdoor use Codex to build without limits"
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-6-1781099291366-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a296b1bf8192bd214610b73",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "postId": "linkedin-4-1781092057198-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1781092057198-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a294ed997146d765989cacd",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "postId": "linkedin-4-1781089569089-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-4-1781089569089-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a2945215a96f1c802bdbb52",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "postId": "linkedin-10-1781039127622-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781039127622-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a288018e82a4e2733aed6a4",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "postId": "linkedin-10-1781036423605-0",
+      "platform": "linkedin",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports virtual card for global payments, usdt/usdc top-up, apple pay and subscription use cases.",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-10-1781036423605-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a287588ff91123f129d705a",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "postId": "x-9-1781026271704-0",
+      "platform": "x",
+      "topicBucket": "ai-subscriptions",
+      "path": "/netflix-virtual-card/",
+      "angle": "AI adoption creates more recurring subscriptions that need a reliable payment layer",
+      "copy": "AI tool adoption keeps growing.\n\nConfidential submission of draft S-1 to the SEC AI adoption creates more recurring subscriptions that need a reliable payment layer RichXPay fits that workflow with...",
+      "sourceTitles": [
+        "Confidential submission of draft S-1 to the SEC",
+        "Built to benefit everyone: our plan"
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-9-1781026271704-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a284de0cf895d098b46719b",
+        "status": "sent"
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "postId": "linkedin-8-1781021962841-0",
+      "platform": "linkedin",
+      "topicBucket": "ad-spend",
+      "path": "/usdt-to-virtual-card/",
+      "angle": "better ad tooling still needs cleaner billing and payment control",
+      "copy": "Ad platforms keep adding smarter tools.\n\nThe latest AI news we announced in May 2026 Teams move faster when payment setup does not slow subscriptions, ads, or cross-border checkout.\n\nRichXPay supports use case page for funding a virtual card with usdt or usdc for subscriptions, ads and overseas spending.",
+      "sourceTitles": [
+        "The latest AI news we announced in May 2026",
+        "YouTube earns industry's first MRC accreditation for short-form video."
+      ],
+      "result": {
+        "platform": "linkedin",
+        "postId": "linkedin-8-1781021962841-0",
+        "channelId": "69d4761e031bfa423cd8b0ce",
+        "scheduledAt": null,
+        "bufferPostId": "6a283d0baee5c0b72d579b04",
+        "status": "error"
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "postId": "x-7-1781019962064-0",
+      "platform": "x",
+      "topicBucket": "cross-border-payments",
+      "path": "/",
+      "angle": "payment rails are improving but card access still blocks teams",
+      "copy": "Cross-border payments are getting faster.\n\nBringing secure digital identity and payment tools to more people payment rails are improving but card access still blocks teams RichXPay fits that workfl...",
+      "sourceTitles": [
+        "Bringing secure digital identity and payment tools to more people",
+        "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments."
+      ],
+      "result": {
+        "platform": "x",
+        "postId": "x-7-1781019962064-0",
+        "channelId": "69ca29c9af47dacb696c32aa",
+        "scheduledAt": null,
+        "bufferPostId": "6a28353a496e4c166b4ce19d",
+        "status": "sent"
       }
     }
   ]
