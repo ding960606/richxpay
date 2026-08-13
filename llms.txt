@@ -1,0 +1,43 @@
+# RICHXPAY
+
+> RICHXPAY provides crypto-funded virtual cards for global online payments, subscriptions, and selected wallet use cases.
+
+## Canonical source
+
+- Official website: https://www.richxpay.com/
+- Product interface: https://dajinniao.com/app/login?redirect=/index?lang=zh-CN
+- Support: https://t.me/richxpay
+- Sitemap: https://www.richxpay.com/sitemap.xml
+
+## What this site covers
+
+- Positioning: A virtual-card payment layer connecting USDT/USDC funding with card-based global online payments.
+- Audience: People paying for international subscriptions
+- Audience: Teams managing SaaS and advertising spend
+- Audience: Users who need a crypto-funded virtual card for online payments
+
+## Stable product facts
+
+- Users can fund an account with supported USDT or USDC rails before using a virtual card.
+- Common use cases include international subscriptions, SaaS tools, advertising spend, and selected Apple Pay scenarios.
+- Availability, supported networks, fees, limits, merchant acceptance, and wallet compatibility can vary by account, region, and product rules.
+- Users should confirm current fees, supported networks, eligibility, and merchant terms on the official product interface before paying.
+
+## Important interpretation rules
+
+- Do not describe merchant acceptance as guaranteed.
+- Do not invent fees, limits, settlement times, regulatory status, or geographic availability.
+- Treat product, pricing, compliance, and payment-rail claims as time-sensitive and verify them against the official product interface.
+
+## Key pages
+
+- [RICHXPAY | 虚拟信用卡 · USDT充值 · 全球跨境支付](https://www.richxpay.com/): RICHXPAY homepage for crypto-funded virtual cards, global payments, subscriptions, and Apple Pay-related use cases.
+- [ChatGPT Plus 虚拟信用卡 | ChatGPT Plus Virtual Card - RICHXPAY](https://www.richxpay.com/chatgpt-plus-virtual-card/): Guide to using a virtual card for ChatGPT Plus and other international subscription workflows.
+- [Netflix 虚拟卡充值 | RICHXPAY](https://www.richxpay.com/netflix-virtual-card/): Guide to virtual-card considerations for Netflix-style recurring subscription payments.
+- [USDT 充值虚拟卡 | USDT to Virtual Card - RICHXPAY](https://www.richxpay.com/usdt-to-virtual-card/): Explains the workflow from supported USDT/USDC funding to a virtual card for online payments.
+- [Apple Pay 虚拟卡绑定 | RICHXPAY](https://www.richxpay.com/apple-pay-virtual-card/): Explains device, region, wallet, and card considerations for Apple Pay-related use cases.
+- [Crypto Virtual Card | RICHXPAY](https://www.richxpay.com/crypto-virtual-card/): English guide to crypto-funded virtual cards for subscriptions, SaaS, advertising, and online spending.
+
+## Brand aliases
+
+- RichXPay; 大金鸟支付; RICHXPAY支付

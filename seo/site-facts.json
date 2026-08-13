@@ -1,0 +1,68 @@
+{
+  "siteName": "RICHXPAY",
+  "alternateNames": ["RichXPay", "大金鸟支付", "RICHXPAY支付"],
+  "baseUrl": "https://www.richxpay.com",
+  "defaultLanguage": "zh-CN",
+  "description": "RICHXPAY provides crypto-funded virtual cards for global online payments, subscriptions, and selected wallet use cases.",
+  "positioning": "A virtual-card payment layer connecting USDT/USDC funding with card-based global online payments.",
+  "audiences": [
+    "People paying for international subscriptions",
+    "Teams managing SaaS and advertising spend",
+    "Users who need a crypto-funded virtual card for online payments"
+  ],
+  "facts": [
+    "Users can fund an account with supported USDT or USDC rails before using a virtual card.",
+    "Common use cases include international subscriptions, SaaS tools, advertising spend, and selected Apple Pay scenarios.",
+    "Availability, supported networks, fees, limits, merchant acceptance, and wallet compatibility can vary by account, region, and product rules.",
+    "Users should confirm current fees, supported networks, eligibility, and merchant terms on the official product interface before paying."
+  ],
+  "policies": [
+    "Do not describe merchant acceptance as guaranteed.",
+    "Do not invent fees, limits, settlement times, regulatory status, or geographic availability.",
+    "Treat product, pricing, compliance, and payment-rail claims as time-sensitive and verify them against the official product interface."
+  ],
+  "pages": [
+    {
+      "path": "/",
+      "title": "RICHXPAY | 虚拟信用卡 · USDT充值 · 全球跨境支付",
+      "summary": "RICHXPAY homepage for crypto-funded virtual cards, global payments, subscriptions, and Apple Pay-related use cases.",
+      "language": "zh-CN"
+    },
+    {
+      "path": "/chatgpt-plus-virtual-card/",
+      "title": "ChatGPT Plus 虚拟信用卡 | ChatGPT Plus Virtual Card - RICHXPAY",
+      "summary": "Guide to using a virtual card for ChatGPT Plus and other international subscription workflows.",
+      "language": "zh-CN"
+    },
+    {
+      "path": "/netflix-virtual-card/",
+      "title": "Netflix 虚拟卡充值 | RICHXPAY",
+      "summary": "Guide to virtual-card considerations for Netflix-style recurring subscription payments.",
+      "language": "zh-CN"
+    },
+    {
+      "path": "/usdt-to-virtual-card/",
+      "title": "USDT 充值虚拟卡 | USDT to Virtual Card - RICHXPAY",
+      "summary": "Explains the workflow from supported USDT/USDC funding to a virtual card for online payments.",
+      "language": "zh-CN"
+    },
+    {
+      "path": "/apple-pay-virtual-card/",
+      "title": "Apple Pay 虚拟卡绑定 | RICHXPAY",
+      "summary": "Explains device, region, wallet, and card considerations for Apple Pay-related use cases.",
+      "language": "zh-CN"
+    },
+    {
+      "path": "/crypto-virtual-card/",
+      "title": "Crypto Virtual Card | RICHXPAY",
+      "summary": "English guide to crypto-funded virtual cards for subscriptions, SaaS, advertising, and online spending.",
+      "language": "en"
+    }
+  ],
+  "officialLinks": {
+    "product": "https://dajinniao.com/app/login?redirect=/index?lang=zh-CN",
+    "support": "https://t.me/richxpay",
+    "x": "https://twitter.com/richxpay",
+    "sitemap": "https://www.richxpay.com/sitemap.xml"
+  }
+}

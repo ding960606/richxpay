@@ -43,4 +43,4 @@ User-agent: Yandex
 Allow: /
 
 # Sitemap
-Sitemap: https://richxpay.com/sitemap.xml
+Sitemap: https://www.richxpay.com/sitemap.xml

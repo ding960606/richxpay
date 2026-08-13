@@ -1,0 +1,41 @@
+name: Weekly SEO and GEO content brief
+
+on:
+  schedule:
+    - cron: "31 2 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-seo-content-brief
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    name: Generate reviewable content opportunities
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch current topic signals
+        continue-on-error: true
+        run: node scripts/fetch-topic-signals.mjs
+
+      - name: Generate SEO/GEO content brief
+        run: node scripts/generate-seo-content-brief.mjs
+
+      - name: Commit reviewable brief
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seo/content-brief.md social/topic-signals.json
+          git diff --cached --quiet || git commit -m "chore: refresh weekly seo geo content brief"
+          git push

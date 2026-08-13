@@ -1,0 +1,42 @@
+name: Refresh SEO and GEO assets
+
+on:
+  schedule:
+    - cron: "17 1 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-seo-geo-assets
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    name: Generate sitemap and AI discovery manifest
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate derived SEO/GEO assets
+        run: node scripts/generate-seo-assets.mjs
+
+      - name: Validate generated assets
+        run: node scripts/seo-audit.mjs
+
+      - name: Commit changes when needed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml llms.txt
+          git diff --cached --quiet || git commit -m "chore: refresh seo and geo assets"
+          git push

@@ -49,3 +49,16 @@ This setup generates and queues 5 posts per day:
 - `social/automation-config.json`
 - `social/gemini-prompt.md`
 - `social/buffer-automation-state.json`
+
+## SEO/GEO automation
+
+The static site also has a separate quality and discovery pipeline:
+
+- `seo/site-facts.json` is the reviewed source of truth for brand, product, audience, and safety claims.
+- `scripts/generate-seo-assets.mjs` generates `sitemap.xml` and the AI-readable `llms.txt` manifest.
+- `scripts/seo-audit.mjs` checks every landing page for core SEO metadata, JSON-LD validity, sitemap coverage, and GEO manifest coverage.
+- `.github/workflows/seo-geo.yml` runs the audit on relevant pull requests and pushes, then runs Lighthouse CI.
+- `.github/workflows/generate-seo-assets.yml` refreshes derived assets weekly or on demand and commits only generated changes.
+- `.github/workflows/weekly-seo-content-brief.yml` creates a reviewable weekly content brief from current topic signals; it does not publish claims automatically.
+
+Content claims about fees, limits, availability, merchant acceptance, compliance, and payment rails should be reviewed in `seo/site-facts.json` before publishing. The workflow intentionally does not auto-publish AI-generated financial claims.
