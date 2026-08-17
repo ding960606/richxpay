@@ -1,6 +1,6 @@
 # Weekly SEO/GEO content brief
 
-Generated: 2026-08-13T10:05:14.840Z
+Generated: 2026-08-17T03:27:38.709Z
 
 > Review every product, pricing, compliance, availability, and payment-rail claim against the official product interface before publishing.
 
@@ -64,10 +64,10 @@ Generated: 2026-08-13T10:05:14.840Z
 
 ## Current external signals to review
 
-- Cross-border payments: [Personalize your experience across Google based on your purchases, your way.](https://blog.google/products-and-platforms/platforms/google-pay/payments-personalized-content-purchases/)
-- Cross-border payments: [We’re adding 3 new ways to make web payments easier and more flexible.](https://blog.google/products-and-platforms/platforms/google-pay/new-ways-to-make-web-payments/)
-- Ad spend and paid media: [Upgrade your creative performance with March’s Demand Gen Drop.](https://blog.google/products/ads-commerce/demand-gen-drop-march-2026/)
-- Ad spend and paid media: [5 ways to collaborate with our agentic advisors](https://blog.google/products/ads-commerce/tips-to-collaborate-with-agentic-advisors/)
-- AI subscriptions: [Announcing the OpenAI Safety Fellowship](https://openai.com/index/introducing-openai-safety-fellowship)
-- AI subscriptions: [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age)
+- Cross-border payments: [Parents can now send money to their kids on Google Wallet.](https://blog.google/products-and-platforms/platforms/google-pay/send-kids-money-google-wallet/)
+- Cross-border payments: [Google Wallet makes TSA PreCheck Touchless ID available for more travelers](https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-tsa/)
+- Ad spend and paid media: [Evolve your marketing with new AI tools](https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/)
+- Ad spend and paid media: [Prepare for the holiday season with July’s Demand Gen Drop.](https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/)
+- AI subscriptions: [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6)
+- AI subscriptions: [Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed](https://openai.com/index/previewing-ultrafast)
 
