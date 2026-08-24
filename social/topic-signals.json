@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-17T03:27:38.662Z",
+  "generatedAt": "2026-08-24T03:30:58.217Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
       "label": "Cross-border payments",
       "url": "https://blog.google/products/google-pay/rss/",
       "items": [
+        {
+          "title": "Tap to pay with Google Pay is coming to Walmart.",
+          "link": "https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/",
+          "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+          "source": ""
+        },
         {
           "title": "Parents can now send money to their kids on Google Wallet.",
           "link": "https://blog.google/products-and-platforms/platforms/google-pay/send-kids-money-google-wallet/",
@@ -29,12 +35,6 @@
           "link": "https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/",
           "pubDate": "Tue, 28 Apr 2026 13:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Expanding digital IDs in India and around the world",
-          "link": "https://blog.google/products-and-platforms/platforms/google-pay/aadhaar-digital-id/",
-          "pubDate": "Tue, 28 Apr 2026 04:30:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -43,6 +43,18 @@
       "label": "Ad spend and paid media",
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
+        {
+          "title": "Make AI Max work for your business with new testing and planning tools.",
+          "link": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/",
+          "pubDate": "Thu, 20 Aug 2026 13:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "What 3 creatives built with unlimited access to Google Flow",
+          "link": "https://blog.google/products/ads-commerce/the-small-brief/",
+          "pubDate": "Wed, 19 Aug 2026 14:00:00 +0000",
+          "source": ""
+        },
         {
           "title": "Evolve your marketing with new AI tools",
           "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
@@ -60,18 +72,6 @@
           "link": "https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/",
           "pubDate": "Thu, 16 Jul 2026 17:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "6 back-to-school shopping tricks every student should know",
-          "link": "https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/",
-          "pubDate": "Thu, 16 Jul 2026 17:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Optimize your reach and frequency across campaigns with video campaign groups.",
-          "link": "https://blog.google/products/ads-commerce/video-campaign-groups/",
-          "pubDate": "Mon, 13 Jul 2026 16:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -81,33 +81,33 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "The builder’s guide to GPT‑5.6",
-          "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
+          "title": "Introducing AI Futures",
+          "link": "https://openai.com/index/introducing-ai-futures",
+          "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-          "link": "https://openai.com/index/previewing-ultrafast",
-          "pubDate": "Thu, 13 Aug 2026 10:00:00 GMT",
+          "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+          "link": "https://openai.com/index/stampli",
+          "pubDate": "Thu, 20 Aug 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
+          "title": "Offering Zero Data Retention for frontier models",
+          "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
           "source": ""
         },
         {
-          "title": "From assistance to execution: How enterprises put AI to work",
-          "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-          "pubDate": "Wed, 12 Aug 2026 06:00:00 GMT",
+          "title": "Replit expands access to software creation with GPT-5.6 Luna",
+          "link": "https://openai.com/index/replit",
+          "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
           "source": ""
         },
         {
-          "title": "How RingCentral builds AI-native work from engineering to ops",
-          "link": "https://openai.com/index/ringcentral",
-          "pubDate": "Wed, 12 Aug 2026 00:00:00 GMT",
+          "title": "ChatGPT Ads expands across Europe",
+          "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "pubDate": "Tue, 18 Aug 2026 22:00:00 GMT",
           "source": ""
         }
       ]
