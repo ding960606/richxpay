@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T03:30:58.217Z",
+  "generatedAt": "2026-08-31T08:48:06.141Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Reach your audience in new ways with August’s Demand Gen Drop.",
+          "link": "https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/",
+          "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "Make AI Max work for your business with new testing and planning tools.",
           "link": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/",
           "pubDate": "Thu, 20 Aug 2026 13:00:00 +0000",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/",
           "pubDate": "Wed, 29 Jul 2026 15:30:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Beach vibes and temporary wallpaper are trending for back-to-school season.",
-          "link": "https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/",
-          "pubDate": "Thu, 16 Jul 2026 17:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -81,33 +81,33 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Introducing AI Futures",
-          "link": "https://openai.com/index/introducing-ai-futures",
-          "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "pubDate": "Fri, 28 Aug 2026 06:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-          "link": "https://openai.com/index/stampli",
-          "pubDate": "Thu, 20 Aug 2026 00:00:00 GMT",
+          "title": "Supporting Thailand’s next generation of AI startups",
+          "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "pubDate": "Fri, 28 Aug 2026 02:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Offering Zero Data Retention for frontier models",
-          "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-          "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
+          "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "pubDate": "Thu, 27 Aug 2026 09:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Replit expands access to software creation with GPT-5.6 Luna",
-          "link": "https://openai.com/index/replit",
-          "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
+          "title": "Expanding OpenAI’s presence in Brazil",
+          "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "pubDate": "Thu, 27 Aug 2026 03:00:00 GMT",
           "source": ""
         },
         {
-          "title": "ChatGPT Ads expands across Europe",
-          "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-          "pubDate": "Tue, 18 Aug 2026 22:00:00 GMT",
+          "title": "Learning never stops: How AI makes learning continuous",
+          "link": "https://openai.com/index/learning-never-stops",
+          "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
           "source": ""
         }
       ]

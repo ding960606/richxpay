@@ -1,6 +1,6 @@
 # Weekly SEO/GEO content brief
 
-Generated: 2026-08-24T03:30:58.254Z
+Generated: 2026-08-31T08:48:06.193Z
 
 > Review every product, pricing, compliance, availability, and payment-rail claim against the official product interface before publishing.
 
@@ -66,8 +66,8 @@ Generated: 2026-08-24T03:30:58.254Z
 
 - Cross-border payments: [Tap to pay with Google Pay is coming to Walmart.](https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/)
 - Cross-border payments: [Parents can now send money to their kids on Google Wallet.](https://blog.google/products-and-platforms/platforms/google-pay/send-kids-money-google-wallet/)
+- Ad spend and paid media: [Reach your audience in new ways with August’s Demand Gen Drop.](https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/)
 - Ad spend and paid media: [Make AI Max work for your business with new testing and planning tools.](https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/)
-- Ad spend and paid media: [What 3 creatives built with unlimited access to Google Flow](https://blog.google/products/ads-commerce/the-small-brief/)
-- AI subscriptions: [Introducing AI Futures](https://openai.com/index/introducing-ai-futures)
-- AI subscriptions: [Stampli cuts launch hours by 68% using ChatGPT Work](https://openai.com/index/stampli)
+- AI subscriptions: [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)
+- AI subscriptions: [Supporting Thailand’s next generation of AI startups](https://openai.com/index/supporting-next-generation-ai-startups-thailand)
 
