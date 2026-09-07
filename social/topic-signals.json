@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-31T08:48:06.141Z",
+  "generatedAt": "2026-09-07T07:27:46.421Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
       "label": "Cross-border payments",
       "url": "https://blog.google/products/google-pay/rss/",
       "items": [
+        {
+          "title": "Our latest Linux Foundation Europe donation will build a more private digital world.",
+          "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
+          "pubDate": "Wed, 02 Sep 2026 16:00:00 +0000",
+          "source": ""
+        },
         {
           "title": "Tap to pay with Google Pay is coming to Walmart.",
           "link": "https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/",
@@ -29,12 +35,6 @@
           "link": "https://blog.google/products-and-platforms/platforms/google-pay/secure-identity-payment-tools/",
           "pubDate": "Thu, 04 Jun 2026 08:25:00 +0000",
           "source": ""
-        },
-        {
-          "title": "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
-          "link": "https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/",
-          "pubDate": "Tue, 28 Apr 2026 13:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -43,6 +43,12 @@
       "label": "Ad spend and paid media",
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
+        {
+          "title": "Build a measurement stack you can rely on to steer your campaigns.",
+          "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/",
+          "pubDate": "Wed, 02 Sep 2026 17:00:00 +0000",
+          "source": ""
+        },
         {
           "title": "Reach your audience in new ways with August’s Demand Gen Drop.",
           "link": "https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/",
@@ -56,21 +62,15 @@
           "source": ""
         },
         {
+          "title": "Get your product data holiday-ready on Google Merchant Center.",
+          "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-merchant-center-holidays/",
+          "pubDate": "Wed, 19 Aug 2026 17:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "What 3 creatives built with unlimited access to Google Flow",
           "link": "https://blog.google/products/ads-commerce/the-small-brief/",
           "pubDate": "Wed, 19 Aug 2026 14:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Evolve your marketing with new AI tools",
-          "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-          "pubDate": "Mon, 10 Aug 2026 14:30:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Prepare for the holiday season with July’s Demand Gen Drop.",
-          "link": "https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/",
-          "pubDate": "Wed, 29 Jul 2026 15:30:00 +0000",
           "source": ""
         }
       ]
@@ -81,33 +81,33 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Our decision on Cursor following its acquisition by SpaceX",
-          "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "pubDate": "Fri, 28 Aug 2026 06:00:00 GMT",
+          "title": "An Alien Mind",
+          "link": "https://openai.com/index/an-alien-mind",
+          "pubDate": "Sun, 06 Sep 2026 09:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Supporting Thailand’s next generation of AI startups",
-          "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-          "pubDate": "Fri, 28 Aug 2026 02:00:00 GMT",
+          "title": "Research acceleration: The view inside OpenAI",
+          "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "pubDate": "Sun, 06 Sep 2026 08:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-          "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-          "pubDate": "Thu, 27 Aug 2026 09:00:00 GMT",
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "pubDate": "Thu, 03 Sep 2026 13:15:00 GMT",
           "source": ""
         },
         {
-          "title": "Expanding OpenAI’s presence in Brazil",
-          "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-          "pubDate": "Thu, 27 Aug 2026 03:00:00 GMT",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Learning never stops: How AI makes learning continuous",
-          "link": "https://openai.com/index/learning-never-stops",
-          "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
           "source": ""
         }
       ]
