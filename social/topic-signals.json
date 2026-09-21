@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T08:01:45.777Z",
+  "generatedAt": "2026-09-21T08:06:59.156Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,33 +44,33 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Build campaigns that drive high-converting, sales-ready leads.",
+          "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/",
+          "pubDate": "Fri, 18 Sep 2026 12:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Rethink your strategy to drive sales this holiday season.",
+          "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/",
+          "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Boost your holiday sales with these agentic commerce updates",
+          "link": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/",
+          "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Rethink 2026",
+          "link": "https://blog.google/products/ads-commerce/rethink-2026/",
+          "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "3 ways to prep for your next big race with Search",
           "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
           "pubDate": "Thu, 10 Sep 2026 16:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Drive profitable growth with new data and measurement tools",
-          "link": "https://blog.google/products/ads-commerce/data-strength-updates/",
-          "pubDate": "Thu, 10 Sep 2026 13:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Build a measurement stack you can rely on to steer your campaigns.",
-          "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/",
-          "pubDate": "Wed, 02 Sep 2026 17:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Reach your audience in new ways with August’s Demand Gen Drop.",
-          "link": "https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/",
-          "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Make AI Max work for your business with new testing and planning tools.",
-          "link": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/",
-          "pubDate": "Thu, 20 Aug 2026 13:00:00 +0000",
           "source": ""
         }
       ]
@@ -81,33 +81,33 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "link": "https://openai.com/index/australian-youth-safety-blueprint",
+          "pubDate": "Fri, 18 Sep 2026 12:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "pubDate": "Fri, 11 Sep 2026 10:00:00 GMT",
+          "title": "How Cooley is accelerating IPO work with ChatGPT",
+          "link": "https://openai.com/index/cooley-gopublic",
+          "pubDate": "Thu, 17 Sep 2026 12:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "pubDate": "Fri, 11 Sep 2026 16:00:00 GMT",
+          "title": "Introducing Astra for Law",
+          "link": "https://openai.com/index/astra-for-law",
+          "pubDate": "Thu, 17 Sep 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-          "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-          "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
+          "title": "Helping older adults use AI in everyday life",
+          "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "pubDate": "Wed, 16 Sep 2026 16:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Now everyone can put data to work",
-          "link": "https://openai.com/index/put-data-to-work",
-          "pubDate": "Thu, 10 Sep 2026 15:00:00 GMT",
+          "title": "Reimagining advertising with AI",
+          "link": "https://openai.com/index/reimagining-advertising-with-ai",
+          "pubDate": "Wed, 16 Sep 2026 13:00:00 GMT",
           "source": ""
         }
       ]

@@ -1,6 +1,6 @@
 # Weekly SEO/GEO content brief
 
-Generated: 2026-09-14T08:01:45.825Z
+Generated: 2026-09-21T08:06:59.199Z
 
 > Review every product, pricing, compliance, availability, and payment-rail claim against the official product interface before publishing.
 
@@ -66,8 +66,8 @@ Generated: 2026-09-14T08:01:45.825Z
 
 - Cross-border payments: [Our latest Linux Foundation Europe donation will build a more private digital world.](https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/)
 - Cross-border payments: [Tap to pay with Google Pay is coming to Walmart.](https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/)
-- Ad spend and paid media: [3 ways to prep for your next big race with Search](https://blog.google/products-and-platforms/products/search/running-race-training-tips/)
-- Ad spend and paid media: [Drive profitable growth with new data and measurement tools](https://blog.google/products/ads-commerce/data-strength-updates/)
-- AI subscriptions: [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
-- AI subscriptions: [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one)
+- Ad spend and paid media: [Build campaigns that drive high-converting, sales-ready leads.](https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/)
+- Ad spend and paid media: [Rethink your strategy to drive sales this holiday season.](https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/)
+- AI subscriptions: [Introducing the Australian Youth Safety Blueprint](https://openai.com/index/australian-youth-safety-blueprint)
+- AI subscriptions: [How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic)
 
