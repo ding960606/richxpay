@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T08:06:59.156Z",
+  "generatedAt": "2026-09-28T08:51:47.691Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,18 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Turn discovery into action with September’s Demand Gen Drop.",
+          "link": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
+          "pubDate": "Thu, 24 Sep 2026 16:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.",
+          "link": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/",
+          "pubDate": "Wed, 23 Sep 2026 08:30:00 +0000",
+          "source": ""
+        },
+        {
           "title": "Build campaigns that drive high-converting, sales-ready leads.",
           "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/",
           "pubDate": "Fri, 18 Sep 2026 12:00:00 +0000",
@@ -60,18 +72,6 @@
           "link": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/",
           "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Rethink 2026",
-          "link": "https://blog.google/products/ads-commerce/rethink-2026/",
-          "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "3 ways to prep for your next big race with Search",
-          "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-          "pubDate": "Thu, 10 Sep 2026 16:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -81,33 +81,33 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Introducing the Australian Youth Safety Blueprint",
-          "link": "https://openai.com/index/australian-youth-safety-blueprint",
-          "pubDate": "Fri, 18 Sep 2026 12:00:00 GMT",
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "link": "https://openai.com/index/proaction",
+          "pubDate": "Fri, 25 Sep 2026 19:00:00 GMT",
           "source": ""
         },
         {
-          "title": "How Cooley is accelerating IPO work with ChatGPT",
-          "link": "https://openai.com/index/cooley-gopublic",
-          "pubDate": "Thu, 17 Sep 2026 12:00:00 GMT",
+          "title": "Two years of OpenAI Academy",
+          "link": "https://openai.com/index/two-years-of-openai-academy",
+          "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Introducing Astra for Law",
-          "link": "https://openai.com/index/astra-for-law",
-          "pubDate": "Thu, 17 Sep 2026 00:00:00 GMT",
+          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "pubDate": "Wed, 23 Sep 2026 13:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Helping older adults use AI in everyday life",
-          "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "pubDate": "Wed, 16 Sep 2026 16:00:00 GMT",
+          "title": "Sam Altman’s remarks at the United Nations Security Council",
+          "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+          "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Reimagining advertising with AI",
-          "link": "https://openai.com/index/reimagining-advertising-with-ai",
-          "pubDate": "Wed, 16 Sep 2026 13:00:00 GMT",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+          "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
           "source": ""
         }
       ]

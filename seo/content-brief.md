@@ -1,6 +1,6 @@
 # Weekly SEO/GEO content brief
 
-Generated: 2026-09-21T08:06:59.199Z
+Generated: 2026-09-28T08:51:47.745Z
 
 > Review every product, pricing, compliance, availability, and payment-rail claim against the official product interface before publishing.
 
@@ -66,8 +66,8 @@ Generated: 2026-09-21T08:06:59.199Z
 
 - Cross-border payments: [Our latest Linux Foundation Europe donation will build a more private digital world.](https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/)
 - Cross-border payments: [Tap to pay with Google Pay is coming to Walmart.](https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/)
-- Ad spend and paid media: [Build campaigns that drive high-converting, sales-ready leads.](https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/)
-- Ad spend and paid media: [Rethink your strategy to drive sales this holiday season.](https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/)
-- AI subscriptions: [Introducing the Australian Youth Safety Blueprint](https://openai.com/index/australian-youth-safety-blueprint)
-- AI subscriptions: [How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic)
+- Ad spend and paid media: [Turn discovery into action with September’s Demand Gen Drop.](https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/)
+- Ad spend and paid media: [We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.](https://blog.google/products/ads-commerce/ai-max-language-reporting-features/)
+- AI subscriptions: [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction)
+- AI subscriptions: [Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)
 
