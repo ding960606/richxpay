@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T08:51:47.691Z",
+  "generatedAt": "2026-10-05T09:26:07.771Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,12 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Turn your existing social assets into high-impact YouTube ads.",
+          "link": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+          "pubDate": "Thu, 01 Oct 2026 20:30:00 +0000",
+          "source": ""
+        },
+        {
           "title": "Turn discovery into action with September’s Demand Gen Drop.",
           "link": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
           "pubDate": "Thu, 24 Sep 2026 16:00:00 +0000",
@@ -66,12 +72,6 @@
           "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/",
           "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Boost your holiday sales with these agentic commerce updates",
-          "link": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/",
-          "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -81,33 +81,33 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "link": "https://openai.com/index/proaction",
-          "pubDate": "Fri, 25 Sep 2026 19:00:00 GMT",
+          "title": "A model guide for the GPT-6 family",
+          "link": "https://openai.com/index/practical-guide-building-gpt-6",
+          "pubDate": "Fri, 02 Oct 2026 16:15:00 GMT",
           "source": ""
         },
         {
-          "title": "Two years of OpenAI Academy",
-          "link": "https://openai.com/index/two-years-of-openai-academy",
-          "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+          "title": "Chatham scales its capital markets expertise with OpenAI",
+          "link": "https://openai.com/index/chatham-financial",
+          "pubDate": "Fri, 02 Oct 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-          "pubDate": "Wed, 23 Sep 2026 13:00:00 GMT",
+          "title": "The eternal complement",
+          "link": "https://openai.com/index/the-eternal-complement",
+          "pubDate": "Thu, 01 Oct 2026 17:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Sam Altman’s remarks at the United Nations Security Council",
-          "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-          "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "link": "https://openai.com/index/albertsons-reimagining-retail",
+          "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-          "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+          "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "link": "https://openai.com/index/the-den-family-social",
+          "pubDate": "Thu, 01 Oct 2026 00:00:00 GMT",
           "source": ""
         }
       ]

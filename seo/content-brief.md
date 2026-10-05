@@ -1,6 +1,6 @@
 # Weekly SEO/GEO content brief
 
-Generated: 2026-09-28T08:51:47.745Z
+Generated: 2026-10-05T09:26:07.826Z
 
 > Review every product, pricing, compliance, availability, and payment-rail claim against the official product interface before publishing.
 
@@ -66,8 +66,8 @@ Generated: 2026-09-28T08:51:47.745Z
 
 - Cross-border payments: [Our latest Linux Foundation Europe donation will build a more private digital world.](https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/)
 - Cross-border payments: [Tap to pay with Google Pay is coming to Walmart.](https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/)
+- Ad spend and paid media: [Turn your existing social assets into high-impact YouTube ads.](https://blog.google/products/ads-commerce/creating-assets-youtube-ads/)
 - Ad spend and paid media: [Turn discovery into action with September’s Demand Gen Drop.](https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/)
-- Ad spend and paid media: [We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.](https://blog.google/products/ads-commerce/ai-max-language-reporting-features/)
-- AI subscriptions: [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction)
-- AI subscriptions: [Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)
+- AI subscriptions: [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
+- AI subscriptions: [Chatham scales its capital markets expertise with OpenAI](https://openai.com/index/chatham-financial)
 
