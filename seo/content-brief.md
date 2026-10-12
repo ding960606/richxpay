@@ -1,6 +1,6 @@
 # Weekly SEO/GEO content brief
 
-Generated: 2026-10-05T09:26:07.826Z
+Generated: 2026-10-12T09:33:52.276Z
 
 > Review every product, pricing, compliance, availability, and payment-rail claim against the official product interface before publishing.
 
@@ -68,6 +68,6 @@ Generated: 2026-10-05T09:26:07.826Z
 - Cross-border payments: [Tap to pay with Google Pay is coming to Walmart.](https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/)
 - Ad spend and paid media: [Turn your existing social assets into high-impact YouTube ads.](https://blog.google/products/ads-commerce/creating-assets-youtube-ads/)
 - Ad spend and paid media: [Turn discovery into action with September’s Demand Gen Drop.](https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/)
-- AI subscriptions: [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
-- AI subscriptions: [Chatham scales its capital markets expertise with OpenAI](https://openai.com/index/chatham-financial)
+- AI subscriptions: [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos)
+- AI subscriptions: [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent)
 
