@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T09:33:52.215Z",
+  "generatedAt": "2026-10-19T07:59:28.576Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,33 +44,33 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "An intelligent new shopping cart",
+          "link": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+          "pubDate": "Thu, 15 Oct 2026 13:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Data-backed secrets to smarter holiday shopping",
+          "link": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
+          "pubDate": "Thu, 15 Oct 2026 13:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Guide your campaign spending with new priority and allocation features",
+          "link": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
+          "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Build your data strength with October’s Demand Gen drop.",
+          "link": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
+          "pubDate": "Tue, 13 Oct 2026 16:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "Turn your existing social assets into high-impact YouTube ads.",
           "link": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
           "pubDate": "Thu, 01 Oct 2026 20:30:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Turn discovery into action with September’s Demand Gen Drop.",
-          "link": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
-          "pubDate": "Thu, 24 Sep 2026 16:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.",
-          "link": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/",
-          "pubDate": "Wed, 23 Sep 2026 08:30:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Build campaigns that drive high-converting, sales-ready leads.",
-          "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/",
-          "pubDate": "Fri, 18 Sep 2026 12:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Rethink your strategy to drive sales this holiday season.",
-          "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/",
-          "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
           "source": ""
         }
       ]
@@ -81,33 +81,33 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "link": "https://openai.com/index/sophos",
-          "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "link": "https://openai.com/index/itau-generative-ai",
+          "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "link": "https://openai.com/index/asana-browser-agent",
-          "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+          "title": "Benefit Street Partners answers questions faster with Codex",
+          "link": "https://openai.com/index/benefit-street-partners",
+          "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "link": "https://openai.com/index/oracle",
-          "pubDate": "Thu, 08 Oct 2026 16:00:00 GMT",
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "link": "https://openai.com/index/pollo-ai",
-          "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
           "source": ""
         },
         {
-          "title": "LegalOn halves Codex costs while maintaining development speed",
-          "link": "https://openai.com/index/legalon-halves-codex-costs",
-          "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
+          "title": "Teaching students to think and learn through questions",
+          "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
           "source": ""
         }
       ]
