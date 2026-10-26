@@ -1,6 +1,6 @@
 # Weekly SEO/GEO content brief
 
-Generated: 2026-10-19T07:59:28.735Z
+Generated: 2026-10-26T07:59:50.736Z
 
 > Review every product, pricing, compliance, availability, and payment-rail claim against the official product interface before publishing.
 
@@ -66,8 +66,8 @@ Generated: 2026-10-19T07:59:28.735Z
 
 - Cross-border payments: [Our latest Linux Foundation Europe donation will build a more private digital world.](https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/)
 - Cross-border payments: [Tap to pay with Google Pay is coming to Walmart.](https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/)
-- Ad spend and paid media: [An intelligent new shopping cart](https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/)
-- Ad spend and paid media: [Data-backed secrets to smarter holiday shopping](https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/)
-- AI subscriptions: [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)
-- AI subscriptions: [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners)
+- Ad spend and paid media: [New bidding and budgeting tools can transform your upcoming holiday ad strategy.](https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/)
+- Ad spend and paid media: [Expanding our defenses against financial scam ads](https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/)
+- AI subscriptions: [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
+- AI subscriptions: [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
 
