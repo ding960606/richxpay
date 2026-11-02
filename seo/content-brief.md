@@ -1,6 +1,6 @@
 # Weekly SEO/GEO content brief
 
-Generated: 2026-10-26T07:59:50.736Z
+Generated: 2026-11-02T09:46:09.067Z
 
 > Review every product, pricing, compliance, availability, and payment-rail claim against the official product interface before publishing.
 
@@ -66,8 +66,8 @@ Generated: 2026-10-26T07:59:50.736Z
 
 - Cross-border payments: [Our latest Linux Foundation Europe donation will build a more private digital world.](https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/)
 - Cross-border payments: [Tap to pay with Google Pay is coming to Walmart.](https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/)
-- Ad spend and paid media: [New bidding and budgeting tools can transform your upcoming holiday ad strategy.](https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/)
-- Ad spend and paid media: [Expanding our defenses against financial scam ads](https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/)
-- AI subscriptions: [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
-- AI subscriptions: [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
+- Ad spend and paid media: [Ads in AI Mode expand to new markets.](https://blog.google/products/ads-commerce/ads-in-ai-mode-global/)
+- Ad spend and paid media: [Adapt your ad strategy to meet the way people search today.](https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/)
+- AI subscriptions: [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences)
+- AI subscriptions: [Community safety report and new protections for teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens)
 

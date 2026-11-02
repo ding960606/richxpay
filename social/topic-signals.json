@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T07:59:50.694Z",
+  "generatedAt": "2026-11-02T09:46:09.025Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
@@ -44,6 +44,18 @@
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
         {
+          "title": "Ads in AI Mode expand to new markets.",
+          "link": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+          "pubDate": "Wed, 28 Oct 2026 21:30:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Adapt your ad strategy to meet the way people search today.",
+          "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
+          "pubDate": "Wed, 28 Oct 2026 19:00:00 +0000",
+          "source": ""
+        },
+        {
           "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
           "link": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
           "pubDate": "Wed, 21 Oct 2026 13:00:00 +0000",
@@ -60,18 +72,6 @@
           "link": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
           "pubDate": "Thu, 15 Oct 2026 13:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Data-backed secrets to smarter holiday shopping",
-          "link": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
-          "pubDate": "Thu, 15 Oct 2026 13:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Guide your campaign spending with new priority and allocation features",
-          "link": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
-          "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -81,33 +81,33 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-          "pubDate": "Fri, 23 Oct 2026 17:00:00 GMT",
+          "title": "Making it easier for websites to express AI training preferences",
+          "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
           "source": ""
         },
         {
-          "title": "Securing our frontier model training environment",
-          "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "pubDate": "Fri, 23 Oct 2026 10:00:00 GMT",
+          "title": "Community safety report and new protections for teens",
+          "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
           "source": ""
         },
         {
-          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+          "title": "Fair use benefits everyone",
+          "link": "https://openai.com/index/fair-use-benefits-everyone",
+          "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Build more responsive apps with the Decisions API",
-          "link": "https://openai.com/index/decisions-api",
-          "pubDate": "Thu, 22 Oct 2026 19:00:00 GMT",
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "link": "https://openai.com/index/updated-model-spec",
+          "pubDate": "Thu, 29 Oct 2026 17:00:00 GMT",
           "source": ""
         },
         {
-          "title": "What FDE means at OpenAI",
-          "link": "https://openai.com/index/forward-deployed-engineering-means",
-          "pubDate": "Thu, 22 Oct 2026 06:00:00 GMT",
+          "title": "How we detect frontier model misalignment",
+          "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "pubDate": "Thu, 29 Oct 2026 09:00:00 GMT",
           "source": ""
         }
       ]
