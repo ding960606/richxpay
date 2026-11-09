@@ -1,6 +1,6 @@
 # Weekly SEO/GEO content brief
 
-Generated: 2026-11-02T09:46:09.067Z
+Generated: 2026-11-09T10:03:19.530Z
 
 > Review every product, pricing, compliance, availability, and payment-rail claim against the official product interface before publishing.
 
@@ -68,6 +68,6 @@ Generated: 2026-11-02T09:46:09.067Z
 - Cross-border payments: [Tap to pay with Google Pay is coming to Walmart.](https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/)
 - Ad spend and paid media: [Ads in AI Mode expand to new markets.](https://blog.google/products/ads-commerce/ads-in-ai-mode-global/)
 - Ad spend and paid media: [Adapt your ad strategy to meet the way people search today.](https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/)
-- AI subscriptions: [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences)
-- AI subscriptions: [Community safety report and new protections for teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens)
+- AI subscriptions: [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](https://openai.com/index/partnering-with-hacktron)
+- AI subscriptions: [Measuring how AI agents handle everyday wet-lab science](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)
 
