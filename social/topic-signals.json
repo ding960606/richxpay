@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-09T10:03:19.492Z",
+  "generatedAt": "2026-11-16T10:00:07.665Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
       "label": "Cross-border payments",
       "url": "https://blog.google/products/google-pay/rss/",
       "items": [
+        {
+          "title": "Connect Google Wallet to Gemini for personal finance insights",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+          "pubDate": "Fri, 13 Nov 2026 17:00:00 +0000",
+          "source": ""
+        },
         {
           "title": "Our latest Linux Foundation Europe donation will build a more private digital world.",
           "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
@@ -29,12 +35,6 @@
           "link": "https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-tsa/",
           "pubDate": "Wed, 24 Jun 2026 13:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Bringing secure digital identity and payment tools to more people",
-          "link": "https://blog.google/products-and-platforms/platforms/google-pay/secure-identity-payment-tools/",
-          "pubDate": "Thu, 04 Jun 2026 08:25:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -43,6 +43,18 @@
       "label": "Ad spend and paid media",
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
+        {
+          "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
+          "link": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/",
+          "pubDate": "Thu, 12 Nov 2026 13:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Holiday 100: Your guide to this year’s top trending gifts",
+          "link": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
+          "pubDate": "Mon, 09 Nov 2026 12:00:00 +0000",
+          "source": ""
+        },
         {
           "title": "Ads in AI Mode expand to new markets.",
           "link": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
@@ -60,18 +72,6 @@
           "link": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
           "pubDate": "Wed, 21 Oct 2026 13:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Expanding our defenses against financial scam ads",
-          "link": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
-          "pubDate": "Tue, 20 Oct 2026 15:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "An intelligent new shopping cart",
-          "link": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
-          "pubDate": "Thu, 15 Oct 2026 13:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -81,33 +81,33 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "link": "https://openai.com/index/partnering-with-hacktron",
-          "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+          "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "link": "https://openai.com/index/lvmh-media-division-partnership",
+          "pubDate": "Mon, 16 Nov 2026 09:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Measuring how AI agents handle everyday wet-lab science",
-          "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "pubDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+          "title": "A step toward defining the Standard Model on a lattice",
+          "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "pubDate": "Sun, 15 Nov 2026 22:00:01 GMT",
           "source": ""
         },
         {
-          "title": "Australian universities are creating AI-native graduates",
-          "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-          "pubDate": "Thu, 05 Nov 2026 17:00:00 GMT",
+          "title": "Our new blog for science",
+          "link": "https://openai.com/index/our-new-blog-for-science",
+          "pubDate": "Sun, 15 Nov 2026 22:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Cult.fit builds operational muscle with Codex",
-          "link": "https://openai.com/index/cultfit-builds-with-codex",
-          "pubDate": "Thu, 05 Nov 2026 20:00:00 GMT",
+          "title": "Introducing ChatGPT Wallet",
+          "link": "https://openai.com/index/introducing-chatgpt-wallet",
+          "pubDate": "Fri, 13 Nov 2026 15:00:00 GMT",
           "source": ""
         },
         {
-          "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-          "link": "https://openai.com/index/introducing-gpt-6-cyber",
-          "pubDate": "Thu, 05 Nov 2026 09:00:00 GMT",
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "link": "https://openai.com/business/customer-stories/shield",
+          "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
           "source": ""
         }
       ]

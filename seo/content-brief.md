@@ -1,6 +1,6 @@
 # Weekly SEO/GEO content brief
 
-Generated: 2026-11-09T10:03:19.530Z
+Generated: 2026-11-16T10:00:07.714Z
 
 > Review every product, pricing, compliance, availability, and payment-rail claim against the official product interface before publishing.
 
@@ -64,10 +64,10 @@ Generated: 2026-11-09T10:03:19.530Z
 
 ## Current external signals to review
 
+- Cross-border payments: [Connect Google Wallet to Gemini for personal finance insights](https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/)
 - Cross-border payments: [Our latest Linux Foundation Europe donation will build a more private digital world.](https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/)
-- Cross-border payments: [Tap to pay with Google Pay is coming to Walmart.](https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/)
-- Ad spend and paid media: [Ads in AI Mode expand to new markets.](https://blog.google/products/ads-commerce/ads-in-ai-mode-global/)
-- Ad spend and paid media: [Adapt your ad strategy to meet the way people search today.](https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/)
-- AI subscriptions: [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](https://openai.com/index/partnering-with-hacktron)
-- AI subscriptions: [Measuring how AI agents handle everyday wet-lab science](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)
+- Ad spend and paid media: [We’re introducing a new transparency tool for invalid traffic in Google Ads.](https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/)
+- Ad spend and paid media: [Holiday 100: Your guide to this year’s top trending gifts](https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/)
+- AI subscriptions: [LVMH’s Media Division announces strategic partnership with OpenAI](https://openai.com/index/lvmh-media-division-partnership)
+- AI subscriptions: [A step toward defining the Standard Model on a lattice](https://openai.com/index/step-toward-defining-the-standard-model)
 
