@@ -1,6 +1,6 @@
 # Weekly SEO/GEO content brief
 
-Generated: 2026-11-16T10:00:07.714Z
+Generated: 2026-11-23T10:59:57.935Z
 
 > Review every product, pricing, compliance, availability, and payment-rail claim against the official product interface before publishing.
 
@@ -64,10 +64,10 @@ Generated: 2026-11-16T10:00:07.714Z
 
 ## Current external signals to review
 
-- Cross-border payments: [Connect Google Wallet to Gemini for personal finance insights](https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/)
-- Cross-border payments: [Our latest Linux Foundation Europe donation will build a more private digital world.](https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/)
-- Ad spend and paid media: [We’re introducing a new transparency tool for invalid traffic in Google Ads.](https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/)
-- Ad spend and paid media: [Holiday 100: Your guide to this year’s top trending gifts](https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/)
-- AI subscriptions: [LVMH’s Media Division announces strategic partnership with OpenAI](https://openai.com/index/lvmh-media-division-partnership)
-- AI subscriptions: [A step toward defining the Standard Model on a lattice](https://openai.com/index/step-toward-defining-the-standard-model)
+- Cross-border payments: [Put Gemini to work for you](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
+- Cross-border payments: [Google Wallet is now available on iOS in the U.S.](https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/)
+- Ad spend and paid media: [Build strategic A/B tests to grow your ad performance.](https://blog.google/products/ads-commerce/ads-decoded-ab-testing/)
+- Ad spend and paid media: [Win the holiday shopping season with November’s Demand Gen Drop.](https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/)
+- AI subscriptions: [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence)
+- AI subscriptions: [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation)
 

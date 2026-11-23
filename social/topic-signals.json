@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-16T10:00:07.665Z",
+  "generatedAt": "2026-11-23T10:59:57.897Z",
   "buckets": [
     {
       "bucket": "cross-border-payments",
       "label": "Cross-border payments",
       "url": "https://blog.google/products/google-pay/rss/",
       "items": [
+        {
+          "title": "Put Gemini to work for you",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+          "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Google Wallet is now available on iOS in the U.S.",
+          "link": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/",
+          "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
+          "source": ""
+        },
         {
           "title": "Connect Google Wallet to Gemini for personal finance insights",
           "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
@@ -23,18 +35,6 @@
           "link": "https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/",
           "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Parents can now send money to their kids on Google Wallet.",
-          "link": "https://blog.google/products-and-platforms/platforms/google-pay/send-kids-money-google-wallet/",
-          "pubDate": "Thu, 06 Aug 2026 16:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Google Wallet makes TSA PreCheck Touchless ID available for more travelers",
-          "link": "https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-tsa/",
-          "pubDate": "Wed, 24 Jun 2026 13:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -43,6 +43,24 @@
       "label": "Ad spend and paid media",
       "url": "https://blog.google/products/ads-commerce/rss/",
       "items": [
+        {
+          "title": "Build strategic A/B tests to grow your ad performance.",
+          "link": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+          "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "Win the holiday shopping season with November’s Demand Gen Drop.",
+          "link": "https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/",
+          "pubDate": "Wed, 18 Nov 2026 17:00:00 +0000",
+          "source": ""
+        },
+        {
+          "title": "How to find the best Black Friday deals and shop smarter",
+          "link": "https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/",
+          "pubDate": "Mon, 16 Nov 2026 14:00:00 +0000",
+          "source": ""
+        },
         {
           "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
           "link": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/",
@@ -54,24 +72,6 @@
           "link": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
           "pubDate": "Mon, 09 Nov 2026 12:00:00 +0000",
           "source": ""
-        },
-        {
-          "title": "Ads in AI Mode expand to new markets.",
-          "link": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
-          "pubDate": "Wed, 28 Oct 2026 21:30:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "Adapt your ad strategy to meet the way people search today.",
-          "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
-          "pubDate": "Wed, 28 Oct 2026 19:00:00 +0000",
-          "source": ""
-        },
-        {
-          "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
-          "link": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
-          "pubDate": "Wed, 21 Oct 2026 13:00:00 +0000",
-          "source": ""
         }
       ]
     },
@@ -81,33 +81,33 @@
       "url": "https://openai.com/news/rss.xml",
       "items": [
         {
-          "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "link": "https://openai.com/index/lvmh-media-division-partnership",
-          "pubDate": "Mon, 16 Nov 2026 09:00:00 GMT",
+          "title": "Perplexity and Intelligence",
+          "link": "https://openai.com/index/perplexity-and-intelligence",
+          "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "A step toward defining the Standard Model on a lattice",
-          "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-          "pubDate": "Sun, 15 Nov 2026 22:00:01 GMT",
+          "title": "Combatting adversarial distillation",
+          "link": "https://openai.com/index/combatting-adversarial-distillation",
+          "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Our new blog for science",
-          "link": "https://openai.com/index/our-new-blog-for-science",
-          "pubDate": "Sun, 15 Nov 2026 22:00:00 GMT",
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "link": "https://openai.com/business/customer-stories/hebbia",
+          "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Introducing ChatGPT Wallet",
-          "link": "https://openai.com/index/introducing-chatgpt-wallet",
-          "pubDate": "Fri, 13 Nov 2026 15:00:00 GMT",
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "link": "https://openai.com/index/introducing-medchembench",
+          "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
           "source": ""
         },
         {
-          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-          "link": "https://openai.com/business/customer-stories/shield",
-          "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
           "source": ""
         }
       ]
